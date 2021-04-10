@@ -1,0 +1,1302 @@
+{
+ "checkpoints": [
+  {
+   "timestamp": 1617613972175,
+   "notebook": 0,
+   "targetCells": [
+    {
+     "cell": "c.0.0",
+     "changeType": "added",
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1617617991267,
+   "notebook": 1,
+   "targetCells": [
+    {
+     "cell": "m.0.0",
+     "changeType": "added",
+     "index": 0
+    },
+    {
+     "cell": "c.1.0",
+     "changeType": "added",
+     "index": 1
+    },
+    {
+     "cell": "c.2.0",
+     "changeType": "added",
+     "index": 2
+    }
+   ]
+  },
+  {
+   "timestamp": 1617618391505,
+   "notebook": 2,
+   "targetCells": [
+    {
+     "cell": "c.3.0",
+     "changeType": "added",
+     "index": 3
+    },
+    {
+     "cell": "c.1.1",
+     "changeType": "edited",
+     "output": [],
+     "index": 1
+    },
+    {
+     "cell": "c.2.1",
+     "changeType": "edited",
+     "output": [
+      "o.1.0"
+     ],
+     "index": 2
+    }
+   ]
+  },
+  {
+   "timestamp": 1617618525132,
+   "notebook": 3,
+   "targetCells": [
+    {
+     "cell": "c.2.2",
+     "changeType": "edited",
+     "output": [
+      "o.2.0"
+     ],
+     "index": 2
+    }
+   ]
+  },
+  {
+   "timestamp": 1617618536318,
+   "notebook": 4,
+   "targetCells": [
+    {
+     "cell": "c.2.3",
+     "changeType": "edited",
+     "output": [
+      "o.3.0"
+     ],
+     "index": 2
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641097128,
+   "notebook": 5,
+   "targetCells": [
+    {
+     "cell": "m.1.0",
+     "changeType": "added",
+     "index": 0
+    },
+    {
+     "cell": "c.4.0",
+     "changeType": "added",
+     "index": 1
+    },
+    {
+     "cell": "m.2.0",
+     "changeType": "added",
+     "index": 3
+    },
+    {
+     "cell": "c.5.0",
+     "changeType": "added",
+     "index": 4
+    },
+    {
+     "cell": "m.3.0",
+     "changeType": "added",
+     "index": 5
+    },
+    {
+     "cell": "c.6.0",
+     "changeType": "added",
+     "index": 6
+    },
+    {
+     "cell": "c.7.0",
+     "changeType": "added",
+     "index": 7
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641377772,
+   "notebook": 6,
+   "targetCells": [
+    {
+     "cell": "m.1.1",
+     "changeType": "edited",
+     "index": 0
+    },
+    {
+     "cell": "m.2.1",
+     "changeType": "edited",
+     "index": -1
+    },
+    {
+     "cell": "m.2.2",
+     "changeType": "edited",
+     "index": 3
+    },
+    {
+     "cell": "c.5.1",
+     "changeType": "edited",
+     "output": [],
+     "index": 4
+    },
+    {
+     "cell": "c.6.0",
+     "changeType": "output changed",
+     "output": [
+      "o.5.1"
+     ],
+     "index": 6
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641599064,
+   "notebook": 7,
+   "targetCells": [
+    {
+     "cell": "m.2.3",
+     "changeType": "edited",
+     "index": 3
+    },
+    {
+     "cell": "c.8.0",
+     "changeType": "added",
+     "index": 5
+    },
+    {
+     "cell": "c.5.2",
+     "changeType": "edited",
+     "output": [
+      "o.6.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641654064,
+   "notebook": 8,
+   "targetCells": [
+    {
+     "cell": "c.5.3",
+     "changeType": "edited",
+     "output": [
+      "o.7.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641663973,
+   "notebook": 9,
+   "targetCells": [
+    {
+     "cell": "c.5.4",
+     "changeType": "edited",
+     "output": [
+      "o.8.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641679224,
+   "notebook": 10,
+   "targetCells": [
+    {
+     "cell": "c.5.5",
+     "changeType": "edited",
+     "output": [
+      "o.9.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641719514,
+   "notebook": 11,
+   "targetCells": [
+    {
+     "cell": "c.5.6",
+     "changeType": "edited",
+     "output": [
+      "o.10.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641730678,
+   "notebook": 12,
+   "targetCells": [
+    {
+     "cell": "c.5.7",
+     "changeType": "edited",
+     "output": [
+      "o.11.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641741339,
+   "notebook": 13,
+   "targetCells": [
+    {
+     "cell": "c.5.8",
+     "changeType": "edited",
+     "output": [
+      "o.12.0"
+     ],
+     "index": 4
+    },
+    {
+     "cell": "c.8.1",
+     "changeType": "edited",
+     "output": [
+      "o.13.0"
+     ],
+     "index": 5
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641819325,
+   "notebook": 14,
+   "targetCells": [
+    {
+     "cell": "c.8.2",
+     "changeType": "edited",
+     "output": [
+      "o.14.0"
+     ],
+     "index": 5
+    },
+    {
+     "cell": "c.5.9",
+     "changeType": "edited",
+     "output": [
+      "o.15.0"
+     ],
+     "index": 4
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641843972,
+   "notebook": 15,
+   "targetCells": [
+    {
+     "cell": "c.8.3",
+     "changeType": "edited",
+     "output": [
+      "o.16.0"
+     ],
+     "index": 5
+    },
+    {
+     "cell": "c.6.1",
+     "changeType": "edited",
+     "output": [
+      "o.17.0"
+     ],
+     "index": 7
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641977391,
+   "notebook": 16,
+   "targetCells": [
+    {
+     "cell": "c.6.1",
+     "changeType": "output changed",
+     "output": [
+      "o.17.1"
+     ],
+     "index": 7
+    }
+   ]
+  },
+  {
+   "timestamp": 1617641979263,
+   "notebook": 17,
+   "targetCells": [
+    {
+     "cell": "c.6.1",
+     "changeType": "output changed",
+     "output": [
+      "o.17.2"
+     ],
+     "index": 7
+    },
+    {
+     "cell": "m.3.1",
+     "changeType": "edited",
+     "index": 6
+    }
+   ]
+  }
+ ],
+ "notebook": {
+  "artifact_name": "n.0",
+  "versions": [
+   {
+    "start_checkpoint": 1617613972175,
+    "cells": [
+     "c.0.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617617991267,
+    "cells": [
+     "m.0.0",
+     "c.1.0",
+     "c.2.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617618391505,
+    "cells": [
+     "m.0.0",
+     "c.1.1",
+     "c.2.1",
+     "c.3.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617618525132,
+    "cells": [
+     "m.0.0",
+     "c.1.1",
+     "c.2.2",
+     "c.3.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617618536318,
+    "cells": [
+     "m.0.0",
+     "c.1.1",
+     "c.2.3",
+     "c.3.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641097128,
+    "cells": [
+     "m.1.0",
+     "c.4.0",
+     "c.2.3",
+     "m.2.0",
+     "c.5.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641377772,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.2",
+     "c.5.1",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641599064,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.2",
+     "c.8.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641654064,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.3",
+     "c.8.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641663973,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.4",
+     "c.8.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641679224,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.5",
+     "c.8.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641719514,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.6",
+     "c.8.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641730678,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.7",
+     "c.8.0",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641741339,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.8",
+     "c.8.1",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641819325,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.9",
+     "c.8.2",
+     "m.3.0",
+     "c.6.0",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641843972,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.9",
+     "c.8.3",
+     "m.3.0",
+     "c.6.1",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641977391,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.9",
+     "c.8.3",
+     "m.3.0",
+     "c.6.1",
+     "c.7.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1617641979263,
+    "cells": [
+     "m.1.1",
+     "c.4.0",
+     "c.2.3",
+     "m.2.3",
+     "c.5.9",
+     "c.8.3",
+     "m.3.1",
+     "c.6.1",
+     "c.7.0"
+    ]
+   }
+  ]
+ },
+ "codeCells": [
+  {
+   "output_histories": {},
+   "artifact_name": "c.0",
+   "versions": [
+    {
+     "start_checkpoint": 1617613972175,
+     "parent": "n.0.0",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.0"
+   },
+   "artifact_name": "c.1",
+   "versions": [
+    {
+     "start_checkpoint": 1617617991267,
+     "parent": "n.0.1",
+     "literal": "fun String.getTypesOfCharacters(): Int{\n    val sonderzeichen = listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    var counter = 0\n    var gross = false; var klein = false; var zahl = false; var zeichen = false;\n    for(char in this){\n        when {\n            char in 'A'..'Z' && !gross -> {counter++; gross = true}\n            char in 'a'..'z' && !klein -> {counter++; klein = true}\n            char in '0'..'9' && !zahl -> {counter++; zahl = true}\n            char in sonderzeichen && !zeichen -> {counter++; zeichen = true}\n        }\n    }\n    return counter\n}\n\nprintln(\"jf234DA#\".getTypesOfCharacters())",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 15,
+      "ch": 41
+     }
+    },
+    {
+     "start_checkpoint": 1617618391505,
+     "parent": "n.0.2",
+     "literal": "fun String.anzahlZeichenarten(): Int{\n    val sonderzeichen = listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    var counter = 0\n    var gross = false; var klein = false; var zahl = false; var zeichen = false;\n    for(char in this){\n        when {\n            char in 'A'..'Z' && !gross -> {counter++; gross = true}\n            char in 'a'..'z' && !klein -> {counter++; klein = true}\n            char in '0'..'9' && !zahl -> {counter++; zahl = true}\n            char in sonderzeichen && !zeichen -> {counter++; zeichen = true}\n        }\n    }\n    return counter\n}"
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "1": "o.1",
+    "2": "o.2",
+    "3": "o.3"
+   },
+   "artifact_name": "c.2",
+   "versions": [
+    {
+     "start_checkpoint": 1617617991267,
+     "parent": "n.0.1",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    },
+    {
+     "start_checkpoint": 1617618391505,
+     "parent": "n.0.2",
+     "literal": "//Test von anzahlZeichenarten\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 1, \"a2\" to 2, \"D#\" to 2, \"#1\" to 2, \"aB+\" to 3, \"aaBDA2834\" to 3, \"adhGDUWahduWe\" to 2, \"234#34#123+34Hca\" to 4)\nfor((pw, anzahl) in pwTests){\n    if(pw.anzahlZeichenarten() == anzahl)\n        println(\"Richtig! $pw hat ${pw.anzahlZeichenarten()} Zeichenarten\")\n    else\n        println(\"Falsch! $pw hat $anzahl Zeichenarten, Ergebnis anzahlZeichenarten(): ${pw.anzahlZeichenarten()}\")   \n}"
+    },
+    {
+     "start_checkpoint": 1617618525132,
+     "parent": "n.0.3",
+     "literal": "//Test von anzahlZeichenarten\nval pwTests = mapOf(\"\" to 1, \"aaaaa\" to 1, \"a2\" to 2, \"D#\" to 2, \"#1\" to 2, \"aB+\" to 3, \"aaBDA2834\" to 3, \"adhGDUWahduWe\" to 2, \"234#34#123+34Hca\" to 4)\nfor((pw, anzahl) in pwTests){\n    if(pw.anzahlZeichenarten() == anzahl)\n        println(\"Richtig! $pw hat ${pw.anzahlZeichenarten()} Zeichenarten\")\n    else\n        println(\"Falsch! $pw hat $anzahl Zeichenarten, Ergebnis anzahlZeichenarten(): ${pw.anzahlZeichenarten()}\")   \n}"
+    },
+    {
+     "start_checkpoint": 1617618536318,
+     "parent": "n.0.5",
+     "literal": "//Test von anzahlZeichenarten\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 1, \"a2\" to 2, \"D#\" to 2, \"#1\" to 2, \"aB+\" to 3, \"aaBDA2834\" to 3, \"adhGDUWahduWe\" to 2, \"234#34#123+34Hca\" to 4)\nfor((pw, anzahl) in pwTests){\n    if(pw.anzahlZeichenarten() == anzahl)\n        println(\"Richtig! $pw hat ${pw.anzahlZeichenarten()} Zeichenarten\")\n    else\n        println(\"Falsch! $pw hat $anzahl Zeichenarten, Ergebnis anzahlZeichenarten(): ${pw.anzahlZeichenarten()}\")   \n}"
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.3",
+   "versions": [
+    {
+     "start_checkpoint": 1617618391505,
+     "parent": "n.0.2",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.4",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "literal": "fun String.anzahlKleinbuchstaben(): Int{\n    var counter = 0\n    for(char in this){\n        if (char in 'a'..'z'){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlGrossbuchstaben(): Int{\n    var counter = 0\n    for(char in this){\n        if (char in 'A'..'Z'){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlZahlen(): Int{\n    var counter = 0\n    for(char in this){\n        if (char in '0'..'9'){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlSonderzeichen(): Int{\n    val sonderzeichen = listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    var counter = 0\n    for(char in this){\n        if (char in sonderzeichen){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlZeichenarten(): Int{\n    var counter = 0\n    if (this.anzahlGrossbuchstaben() > 0) \n        counter++\n    if (this.anzahlKleinbuchstaben() > 0) \n        counter++\n    if (this.anzahlZahlen() > 0) \n        counter++\n    if (this.anzahlSonderzeichen() > 0) \n        counter++\n    return counter\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 52,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.4",
+    "2": "o.6",
+    "3": "o.7",
+    "4": "o.8",
+    "5": "o.9",
+    "6": "o.10",
+    "7": "o.11",
+    "8": "o.12",
+    "9": "o.15"
+   },
+   "artifact_name": "c.5",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else staerke\n}\n\nprintln(passwortstaerke(\"ade2##e13ABC\"))",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 26,
+      "ch": 39
+     }
+    },
+    {
+     "start_checkpoint": 1617641377772,
+     "parent": "n.0.6",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"ade2##e13ABC\"))"
+    },
+    {
+     "start_checkpoint": 1617641599064,
+     "parent": "n.0.7",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"aaaaa\"))"
+    },
+    {
+     "start_checkpoint": 1617641654064,
+     "parent": "n.0.8",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"a2\"))"
+    },
+    {
+     "start_checkpoint": 1617641663973,
+     "parent": "n.0.9",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"D#\"))"
+    },
+    {
+     "start_checkpoint": 1617641679224,
+     "parent": "n.0.10",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"jdfVqed&213\"))"
+    },
+    {
+     "start_checkpoint": 1617641719514,
+     "parent": "n.0.11",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"AAAaaa111\"))"
+    },
+    {
+     "start_checkpoint": 1617641730678,
+     "parent": "n.0.12",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"aaBDA2834\"))"
+    },
+    {
+     "start_checkpoint": 1617641741339,
+     "parent": "n.0.13",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"234#34#123+34Hca\"))"
+    },
+    {
+     "start_checkpoint": 1617641819325,
+     "parent": "n.0.14",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}\n\nprintln(passwortstaerke(\"adhGDUWahduWe\"))"
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.5",
+    "1": "o.17"
+   },
+   "artifact_name": "c.6",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "literal": "fun passwortGenerieren(staerke : Int) : String{\n    var pw: String = \"\"\n    val zeichen: List<Char> = ('a'..'z').toList() + ('A'..'Z').toList() + ('0'..'9').toList() + listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    do{\n        pw = \"\"\n        val randomLength = (5..17).random()\n        for(i in 4..randomLength){\n            pw += zeichen.random()\n        }\n    }\n    while(passwortstaerke(pw) <= staerke)\n    println(\"$staerke ${passwortstaerke(pw)}\")\n    return pw\n}\npasswortGenerieren(70)",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 14,
+      "ch": 21
+     }
+    },
+    {
+     "start_checkpoint": 1617641843972,
+     "parent": "n.0.15",
+     "literal": "fun passwortGenerieren(staerke : Int) : String{\n    var pw: String = \"\"\n    val zeichen: List<Char> = ('a'..'z').toList() + ('A'..'Z').toList() + ('0'..'9').toList() + listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    do{\n        pw = \"\"\n        val randomLength = (1..17).random()\n        for(i in 4..randomLength){\n            pw += zeichen.random()\n        }\n    }\n    while(passwortstaerke(pw) <= staerke)\n    println(\"$staerke ${passwortstaerke(pw)}\")\n    return pw\n}\npasswortGenerieren(70)"
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.7",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "1": "o.13",
+    "2": "o.14",
+    "3": "o.16"
+   },
+   "artifact_name": "c.8",
+   "versions": [
+    {
+     "start_checkpoint": 1617641599064,
+     "parent": "n.0.7",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    },
+    {
+     "start_checkpoint": 1617641741339,
+     "parent": "n.0.13",
+     "literal": "//Test von passwortstaerke\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 3, \"a2\" to 20, \"D#\" to 22, \"jdfVqed&213\" to 98, \"AAAaaa111\" to 54, \"aaBDA2834\" to 81, \"adhGDUWahduWe\" to 2, \"234#34#123+34Hca\" to 100)\nfor((pw, anzahl) in pwTests){\n    if(pw.anzahlZeichenarten() == anzahl)\n        println(\"Richtig! $pw hat ${pw.anzahlZeichenarten()} Zeichenarten\")\n    else\n        println(\"Falsch! $pw hat $anzahl Zeichenarten, Ergebnis anzahlZeichenarten(): ${pw.anzahlZeichenarten()}\")   \n}"
+    },
+    {
+     "start_checkpoint": 1617641819325,
+     "parent": "n.0.14",
+     "literal": "//Test von passwortstaerke\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 3, \"a2\" to 20, \"D#\" to 22, \"jdfVqed&213\" to 98, \"AAAaaa111\" to 54, \"aaBDA2834\" to 81, \"adhGDUWahduWe\" to 2, \"234#34#123+34Hca\" to 100)\nfor((pw, staerke) in pwTests){\n    if(passwortstaerke(pw) == staerke)\n        println(\"Richtig! $pw hat die Stärke ${passwortstaerke(pw)}\")\n    else\n        println(\"Falsch! $pw hat die Stärke $staerke, Ergebnis passwortstaerke(): ${passwortstaerke(pw)}\")   \n}"
+    },
+    {
+     "start_checkpoint": 1617641843972,
+     "parent": "n.0.15",
+     "literal": "//Test von passwortstaerke\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 3, \"a2\" to 20, \"D#\" to 22, \"jdfVqed&213\" to 98, \"AAAaaa111\" to 54, \"aaBDA2834\" to 81, \"adhGDUWahduWe\" to 60, \"234#34#123+34Hca\" to 100)\nfor((pw, staerke) in pwTests){\n    if(passwortstaerke(pw) == staerke)\n        println(\"Richtig! $pw hat die Stärke ${passwortstaerke(pw)}\")\n    else\n        println(\"Falsch! $pw hat die Stärke $staerke, Ergebnis passwortstaerke(): ${passwortstaerke(pw)}\")   \n}"
+    }
+   ]
+  }
+ ],
+ "markdownCells": [
+  {
+   "artifact_name": "m.0",
+   "versions": [
+    {
+     "start_checkpoint": 1617617991267,
+     "parent": "n.0.1",
+     "markdown": "# Aufgabe - Passwortgenerator\n\nHeutzutage ist es immer wichtiger sichere Passwörter zu benutzen. Ob es der Zugang zum Online-Banking oder das Passwort für Netflix ist. Ein fremder Zugang kann einen großen Schaden verursachen. Deswegen soll im Folgenden ein Passwortgenerator und -validator programmiert werden.<br />\nEin Passwort ist in dieser Aufgabe \"sicher\", wenn es die [Standards des BSI](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.htmlhttps://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html) erfüllt:\n- 20 bis 25 Zeichen lang und zwei Zeichenarten genutzt (beispielsweise eine Folge von Wörtern).\n- 8 bis 12 Zeichen lang und vier Zeichenarten genutzt. \n- 8 Zeichen lang, drei Zeichenarten genutzt und es zusätzlich durch eine Mehr-Faktor-Authentisierung abgesichert (beispielsweise durch einen Fingerabdruck, eine Bestätigung per App oder eine PIN).\n\nDie 4 Zeichenarten sind:\n- Großbuchstaben\n- Kleinbuchstaben\n- Zahlen\n- Sonderzeichen (zur Vereinfachnung nur `@`, `/`, `#`, `+`, `-`, `*`, `!`, `?`, `&`)\n\nDer dritten Stichpunkt soll im Folgenden ignoriert werden, da eine Mehr-Faktor-Authentisierung die Aufgabe übersteigen würde. Es soll sich auf die ersten beiden Stichpunkte fokussiert werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.1",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "markdown": "# Aufgabe - Passwortgenerator\n\nHeutzutage ist es immer wichtiger sichere Passwörter zu benutzen. Ob es der Zugang zum Online-Banking oder das Passwort für Netflix ist. Ein fremder Zugang kann einen großen Schaden verursachen. Deswegen soll im Folgenden ein Passwortgenerator und -validator programmiert werden.<br />\nEin Passwort ist in dieser Aufgabe \"sicher\", wenn es die [Standards des BSI](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.htmlhttps://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html) erfüllt:\n- 20 bis 25 Zeichen lang und zwei Zeichenarten genutzt (beispielsweise eine Folge von Wörtern).\n- 8 bis 12 Zeichen lang und vier Zeichenarten genutzt. \n- 8 Zeichen lang, drei Zeichenarten genutzt und es zusätzlich durch eine Mehr-Faktor-Authentisierung abgesichert (beispielsweise durch einen Fingerabdruck, eine Bestätigung per App oder eine PIN).\n\nDie 4 Zeichenarten sind:\n- Großbuchstaben\n- Kleinbuchstaben\n- Zahlen\n- Sonderzeichen (zur Vereinfachnung nur `@`, `/`, `#`, `+`, `-`, `*`, `!`, `?`, `&`)\n\nDer dritten Stichpunkt soll im Folgenden ignoriert werden, da eine Mehr-Faktor-Authentisierung die Aufgabe übersteigen würde. Es soll sich auf die ersten beiden Stichpunkte fokussiert werden.\n\n## Anzahl der Zeichenarten"
+    },
+    {
+     "start_checkpoint": 1617641377772,
+     "parent": "n.0.6",
+     "markdown": "# Aufgabe - Passwörter\n\nHeutzutage ist es immer wichtiger sichere Passwörter zu benutzen. Ob es der Zugang zum Online-Banking oder das Passwort für Netflix ist. Ein fremder Zugang kann einen großen Schaden verursachen. Deswegen soll im Folgenden ein Passwortgenerator und -validator programmiert werden, der sichere Passwörter erkennt und auch vorschlägt.<br />\nEin Passwort ist in dieser Aufgabe als \"sicher\" anzusehen, wenn es die [Standards des BSI](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.htmlhttps://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html) erfüllt:\n- 20 bis 25 Zeichen lang und zwei Zeichenarten genutzt (beispielsweise eine Folge von Wörtern).\n- 8 bis 12 Zeichen lang und vier Zeichenarten genutzt. \n- 8 Zeichen lang, drei Zeichenarten genutzt und es zusätzlich durch eine Mehr-Faktor-Authentisierung abgesichert (beispielsweise durch einen Fingerabdruck, eine Bestätigung per App oder eine PIN).\n\nDer dritten Stichpunkt soll im Folgenden ignoriert werden, da eine Mehr-Faktor-Authentisierung die Aufgabe übersteigen würde. Es soll sich auf die ersten beiden Stichpunkte fokussiert werden.\n\nDie 4 Zeichenarten sind:\n- Großbuchstaben\n- Kleinbuchstaben\n- Zahlen\n- Sonderzeichen (zur Vereinfachnung nur `@`, `/`, `#`, `+`, `-`, `*`, `!`, `?`, `&`)\n\n## Anzahl der Zeichenarten\nImplementieren Sie als Vorbereitung auf die eigentliche Aufgabe Erweiterungsmethoden für die Klasse `String`.\n- `anzahlKleinbuchstaben`: gibt die Anzahl an Kleinbuchstaben zurück\n- `anzahlGrossbuchstaben`: gibt die Anzahl an Großbuchstaben zurück\n- `anzahlZahlen`: gibt die Anzahl an Zahlen zurück\n- `anzahlSonderzeichen`: gibt die Anzahl der Sonderzeichen zurück\n- `anzahlZeichenarten`: gibt die Anzahl der Zeichenarten zurück"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.2",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "markdown": "## Passwortstärke\nNun soll die Stärke des Passworts von 0 - 100 berechnet werden. Die Berechnung ist an [Passwordmeter](http://www.passwordmeter.com/) angelehnt. Folgende Attribute geben Punkte:\n\n<table style=\"font-size: 18px\">\n<thead>\n  <tr>\n    <th>Eigenschaft</th>\n    <th>Punkte</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Anzahl Zeichen insgesamt</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Großbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Kleinbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zahlen</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Sonderzeichen</td>\n    <td>+(n*6)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zeichenarten (2-4)</td>\n    <td>+(n*3)</td>\n  </tr>\n  <tr>\n    <td>Nur 1 Zeichenart</td>\n    <td>-len</td>\n  </tr>\n  <tr>\n      <td>Wiederholende Zeichen (Bsp: \"<b>aaaa</b>\" n=4, \"<b>a</b>C<b>w</b>i3Wf<b>a</b>sd<b>aw</b>\" n=5)</td>\n    <td>-(n*3)</td>\n  </tr>\n</tbody>\n</table>"
+    },
+    {
+     "start_checkpoint": 1617641377772,
+     "parent": "n.0.6",
+     "markdown": "## Passwortstärke\nNun soll die Stärke des Passworts von 0 - 100 berechnet werden. Die Berechnung ist an [Passwordmeter](http://www.passwordmeter.com/) angelehnt. Folgende Attribute geben Punkte:\n\n<table style=\"font-size: 18px\">\n<thead>\n  <tr>\n    <th>Eigenschaft</th>\n    <th>Punkte</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Anzahl Zeichen insgesamt</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Großbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Kleinbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zahlen</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Sonderzeichen</td>\n    <td>+(n*6)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zeichenarten (2-4)</td>\n    <td>+(n*3)</td>\n  </tr>\n  <tr>\n    <td>Nur 1 Zeichenart</td>\n    <td>-len</td>\n  </tr>\n  <tr>\n      <td>Wiederholende Zeichen (Bsp: \"<b>aaaa</b>\" n=4, \"<b>a</b>C<b>w</b>i3Wf<b>a</b>sd<b>aw</b>\" n=5)</td>\n    <td>-(n*3)</td>\n  </tr>\n</tbody>\n</table>\n\nImplementieren Sie eine Methode `passwortstaerke`, die das Passwort (als `String`) übergeben bekommt. Zurückgegeben soll die Stärke des Passworts, welche mit der obigen Tabelle berechnet werden soll. Der beste Wert ist 100, der schlechteste 0."
+    },
+    {
+     "start_checkpoint": 1617641377772,
+     "parent": "n.0.6",
+     "markdown": "## Passwortstärke\nNun soll die Stärke des Passworts von 0 - 100 berechnet werden. Die Berechnung ist an [Passwordmeter](http://www.passwordmeter.com/) angelehnt. Folgende Attribute geben Punkte:\n\n<table style=\"font-size: 18px\">\n<thead>\n  <tr>\n    <th>Eigenschaft</th>\n    <th>Punkte</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Anzahl Zeichen insgesamt</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Großbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Kleinbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zahlen</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Sonderzeichen</td>\n    <td>+(n*6)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zeichenarten (2-4)</td>\n    <td>+(n*3)</td>\n  </tr>\n  <tr>\n    <td>Nur 1 Zeichenart</td>\n    <td>-len</td>\n  </tr>\n  <tr>\n      <td>Wiederholende Zeichen (Bsp: \"<b>aaaa</b>\" n=4, \"<b>a</b>C<b>w</b>i3Wf<b>a</b>sd<b>aw</b>\" n=5)</td>\n    <td>-(n*3)</td>\n  </tr>\n</tbody>\n</table>\n\nImplementieren Sie eine Methode `passwortstaerke`, die das Passwort (als `String`) übergeben bekommt. Zurückgegeben soll die Stärke des Passworts, welche mit der obigen Tabelle berechnet werden soll. Der beste Wert ist 100, der schlechteste 0."
+    },
+    {
+     "start_checkpoint": 1617641599064,
+     "parent": "n.0.7",
+     "markdown": "## Passwortstärke\nNun soll die Stärke des Passworts von 0 - 100 berechnet werden. Die Berechnung ist an [Passwordmeter](http://www.passwordmeter.com/) angelehnt. Folgende Attribute geben Punkte:\n\n<table style=\"font-size: 18px\">\n<thead>\n  <tr>\n    <th>Eigenschaft</th>\n    <th>Punkte</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Anzahl Zeichen insgesamt</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Großbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Kleinbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zahlen</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Sonderzeichen</td>\n    <td>+(n*6)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zeichenarten (2-4)</td>\n    <td>+(n*3)</td>\n  </tr>\n  <tr>\n    <td>Nur 1 Zeichenart</td>\n    <td>-len</td>\n  </tr>\n  <tr>\n      <td>Wiederholende Zeichen (Bsp: \"<b>aaaa</b>\" n=4, \"<b>a</b>C<b>w</b>i3Wf<b>a</b>sd<b>aw</b>\" n=5)</td>\n    <td>-(n*3)</td>\n  </tr>\n</tbody>\n</table>\n\nImplementieren Sie eine Methode `passwortstaerke`, die das Passwort (als `String`) übergeben bekommt. Zurückgegeben soll die Stärke des Passworts, welche mit der obigen Tabelle berechnet werden soll. Der beste Wert ist 100, der Schlechteste 0."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.3",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "n.0.5",
+     "markdown": "## Passwortgenerator\n\nUnter Verwendung der `passwordstaerke`-Methode soll nun mit einem Brute-Force-Verfahren ein Passwort, das größer als eine übergebene Stärke ist, generiert werden."
+    },
+    {
+     "start_checkpoint": 1617641979263,
+     "parent": "n.0.17",
+     "markdown": "## Passwortgenerator\n\nUnter Verwendung der `passwordstaerke`-Methode soll nun mit Hilfe der [Brute-Force-Methode](https://de.wikipedia.org/wiki/Brute-Force-Methode) ein Passwort generiert werden. Implementieren Sie dazu eine Methode `passwortGenerieren`. Die Stärke des generierten Passworts soll eine bestimmte Stärke, die übergeben werde soll, übersteigen."
+    }
+   ]
+  }
+ ],
+ "rawCells": [],
+ "snippets": [],
+ "output": [
+  {
+   "artifact_name": "o.0",
+   "versions": [
+    {
+     "start_checkpoint": 1617617991267,
+     "parent": "c.1.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "4\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.1",
+   "versions": [
+    {
+     "start_checkpoint": 1617618391505,
+     "parent": "c.2.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!  hat 0 Zeichenarten\nRichtig! aaaaa hat 1 Zeichenarten\nRichtig! a2 hat 2 Zeichenarten\nRichtig! D# hat 2 Zeichenarten\nRichtig! #1 hat 2 Zeichenarten\nRichtig! aB+ hat 3 Zeichenarten\nRichtig! aaBDA2834 hat 3 Zeichenarten\nRichtig! adhGDUWahduWe hat 2 Zeichenarten\nRichtig! 234#34#123+34Hca hat 4 Zeichenarten\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.2",
+   "versions": [
+    {
+     "start_checkpoint": 1617618525132,
+     "parent": "c.2.2",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Falsch!  hat 1 Zeichenarten, Ergebnis anzahlZeichenarten(): 0\nRichtig! aaaaa hat 1 Zeichenarten\nRichtig! a2 hat 2 Zeichenarten\nRichtig! D# hat 2 Zeichenarten\nRichtig! #1 hat 2 Zeichenarten\nRichtig! aB+ hat 3 Zeichenarten\nRichtig! aaBDA2834 hat 3 Zeichenarten\nRichtig! adhGDUWahduWe hat 2 Zeichenarten\nRichtig! 234#34#123+34Hca hat 4 Zeichenarten\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.3",
+   "versions": [
+    {
+     "start_checkpoint": 1617618536318,
+     "parent": "c.2.3",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!  hat 0 Zeichenarten\nRichtig! aaaaa hat 1 Zeichenarten\nRichtig! a2 hat 2 Zeichenarten\nRichtig! D# hat 2 Zeichenarten\nRichtig! #1 hat 2 Zeichenarten\nRichtig! aB+ hat 3 Zeichenarten\nRichtig! aaBDA2834 hat 3 Zeichenarten\nRichtig! adhGDUWahduWe hat 2 Zeichenarten\nRichtig! 234#34#123+34Hca hat 4 Zeichenarten\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.4",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "c.5.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "100\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.5",
+   "versions": [
+    {
+     "start_checkpoint": 1617641097128,
+     "parent": "c.6.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "70 81\n"
+      },
+      {
+       "execution_count": 18,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "zvQ83SGAOe"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1617641377772,
+     "parent": "c.6.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "70 86\n",
+       "output_type": "stream"
+      },
+      {
+       "execution_count": 4,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "c9VRley-TP"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.6",
+   "versions": [
+    {
+     "start_checkpoint": 1617641599064,
+     "parent": "c.5.2",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "3\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.7",
+   "versions": [
+    {
+     "start_checkpoint": 1617641654064,
+     "parent": "c.5.3",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "20\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.8",
+   "versions": [
+    {
+     "start_checkpoint": 1617641663973,
+     "parent": "c.5.4",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "22\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.9",
+   "versions": [
+    {
+     "start_checkpoint": 1617641679224,
+     "parent": "c.5.5",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "98\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.10",
+   "versions": [
+    {
+     "start_checkpoint": 1617641719514,
+     "parent": "c.5.6",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "54\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.11",
+   "versions": [
+    {
+     "start_checkpoint": 1617641730678,
+     "parent": "c.5.7",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "81\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.12",
+   "versions": [
+    {
+     "start_checkpoint": 1617641741339,
+     "parent": "c.5.8",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "100\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.13",
+   "versions": [
+    {
+     "start_checkpoint": 1617641741339,
+     "parent": "c.8.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!  hat 0 Zeichenarten\nFalsch! aaaaa hat 3 Zeichenarten, Ergebnis anzahlZeichenarten(): 1\nFalsch! a2 hat 20 Zeichenarten, Ergebnis anzahlZeichenarten(): 2\nFalsch! D# hat 22 Zeichenarten, Ergebnis anzahlZeichenarten(): 2\nFalsch! jdfVqed&213 hat 98 Zeichenarten, Ergebnis anzahlZeichenarten(): 4\nFalsch! AAAaaa111 hat 54 Zeichenarten, Ergebnis anzahlZeichenarten(): 3\nFalsch! aaBDA2834 hat 81 Zeichenarten, Ergebnis anzahlZeichenarten(): 3\nRichtig! adhGDUWahduWe hat 2 Zeichenarten\nFalsch! 234#34#123+34Hca hat 100 Zeichenarten, Ergebnis anzahlZeichenarten(): 4\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.14",
+   "versions": [
+    {
+     "start_checkpoint": 1617641819325,
+     "parent": "c.8.2",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!  hat die Stärke 0\nRichtig! aaaaa hat die Stärke 3\nRichtig! a2 hat die Stärke 20\nRichtig! D# hat die St��rke 22\nRichtig! jdfVqed&213 hat die Stärke 98\nRichtig! AAAaaa111 hat die Stärke 54\nRichtig! aaBDA2834 hat die Stärke 81\nFalsch! adhGDUWahduWe hat die Stärke 2, Ergebnis passwortstaerke(): 60\nRichtig! 234#34#123+34Hca hat die Stärke 100\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.15",
+   "versions": [
+    {
+     "start_checkpoint": 1617641819325,
+     "parent": "c.5.9",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "60\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.16",
+   "versions": [
+    {
+     "start_checkpoint": 1617641843972,
+     "parent": "c.8.3",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!  hat die Stärke 0\nRichtig! aaaaa hat die Stärke 3\nRichtig! a2 hat die Stärke 20\nRichtig! D# hat die Stärke 22\nRichtig! jdfVqed&213 hat die Stärke 98\nRichtig! AAAaaa111 hat die Stärke 54\nRichtig! aaBDA2834 hat die Stärke 81\nRichtig! adhGDUWahduWe hat die Stärke 60\nRichtig! 234#34#123+34Hca hat die Stärke 100\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.17",
+   "versions": [
+    {
+     "start_checkpoint": 1617641843972,
+     "parent": "c.6.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "70 100\n",
+       "output_type": "stream"
+      },
+      {
+       "execution_count": 18,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "NBH9ldonV-hsR"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1617641977391,
+     "parent": "c.6.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "70 71\n",
+       "output_type": "stream"
+      },
+      {
+       "execution_count": 19,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "dg*RjtbIf"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1617641979263,
+     "parent": "c.6.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "70 100\n",
+       "output_type": "stream"
+      },
+      {
+       "execution_count": 20,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "EoX2kbcmr+@Qu"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
