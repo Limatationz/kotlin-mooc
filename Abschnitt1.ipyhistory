@@ -4303,6 +4303,126 @@
      "index": 117
     }
    ]
+  },
+  {
+   "timestamp": 1618221393623,
+   "notebook": 96,
+   "targetCells": [
+    {
+     "cell": "c.285.0",
+     "changeType": "added",
+     "index": 117
+    }
+   ]
+  },
+  {
+   "timestamp": 1618238458279,
+   "notebook": 97,
+   "targetCells": [
+    {
+     "cell": "m.195.1",
+     "changeType": "edited",
+     "index": 116
+    }
+   ]
+  },
+  {
+   "timestamp": 1618239400984,
+   "notebook": 98,
+   "targetCells": [
+    {
+     "cell": "m.195.2",
+     "changeType": "edited",
+     "index": 116
+    }
+   ]
+  },
+  {
+   "timestamp": 1618239409109,
+   "notebook": 99,
+   "targetCells": [
+    {
+     "cell": "m.195.3",
+     "changeType": "edited",
+     "index": 116
+    }
+   ]
+  },
+  {
+   "timestamp": 1618239457092,
+   "notebook": 100,
+   "targetCells": [
+    {
+     "cell": "m.195.4",
+     "changeType": "edited",
+     "index": 116
+    }
+   ]
+  },
+  {
+   "timestamp": 1618239470410,
+   "notebook": 101,
+   "targetCells": [
+    {
+     "cell": "m.195.5",
+     "changeType": "edited",
+     "index": 116
+    }
+   ]
+  },
+  {
+   "timestamp": 1618320018172,
+   "notebook": 102,
+   "targetCells": [
+    {
+     "cell": "m.198.0",
+     "changeType": "added",
+     "index": 81
+    },
+    {
+     "cell": "m.199.0",
+     "changeType": "added",
+     "index": 108
+    },
+    {
+     "cell": "c.286.0",
+     "changeType": "added",
+     "index": 109
+    },
+    {
+     "cell": "c.287.0",
+     "changeType": "added",
+     "index": 119
+    }
+   ]
+  },
+  {
+   "timestamp": 1618400989368,
+   "notebook": 103,
+   "targetCells": [
+    {
+     "cell": "c.201.1",
+     "changeType": "edited",
+     "output": [
+      "o.179.0"
+     ],
+     "index": 8
+    }
+   ]
+  },
+  {
+   "timestamp": 1618400997236,
+   "notebook": 104,
+   "targetCells": [
+    {
+     "cell": "c.201.2",
+     "changeType": "edited",
+     "output": [
+      "o.180.0"
+     ],
+     "index": 8
+    }
+   ]
   }
  ],
  "notebook": {
@@ -9843,6 +9963,1119 @@
      "m.195.0",
      "c.284.0"
     ]
+   },
+   {
+    "start_checkpoint": 1618221393623,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.192.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.0",
+     "c.285.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618238458279,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.192.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.1",
+     "c.285.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618239400984,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.192.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.2",
+     "c.285.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618239409109,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.192.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.3",
+     "c.285.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618239457092,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.192.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.4",
+     "c.285.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618239470410,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.192.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.5",
+     "c.285.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618320018172,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.0",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.198.0",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.199.0",
+     "c.286.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.5",
+     "c.287.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618400989368,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.1",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.198.0",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.199.0",
+     "c.286.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.5",
+     "c.287.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618400997236,
+    "cells": [
+     "m.162.0",
+     "m.110.0",
+     "m.163.1",
+     "c.198.0",
+     "c.199.0",
+     "m.112.1",
+     "c.200.0",
+     "m.164.7",
+     "c.201.2",
+     "m.165.0",
+     "m.166.0",
+     "c.202.0",
+     "m.167.0",
+     "c.203.0",
+     "m.168.0",
+     "m.169.0",
+     "c.257.0",
+     "m.170.0",
+     "c.205.0",
+     "c.258.0",
+     "m.196.0",
+     "c.282.0",
+     "m.197.0",
+     "c.283.0",
+     "m.171.0",
+     "c.207.0",
+     "m.172.0",
+     "c.208.0",
+     "m.173.0",
+     "c.259.0",
+     "m.174.0",
+     "c.260.0",
+     "m.175.0",
+     "c.261.0",
+     "m.176.0",
+     "c.211.0",
+     "m.123.0",
+     "m.177.0",
+     "c.262.0",
+     "m.178.0",
+     "c.263.0",
+     "m.126.0",
+     "c.264.0",
+     "m.179.0",
+     "c.215.0",
+     "m.180.0",
+     "c.265.0",
+     "c.266.0",
+     "m.128.0",
+     "c.216.0",
+     "m.129.0",
+     "c.217.0",
+     "m.130.0",
+     "c.218.0",
+     "m.131.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.133.0",
+     "c.222.0",
+     "m.134.0",
+     "c.223.0",
+     "m.135.1",
+     "c.224.0",
+     "m.136.0",
+     "c.225.0",
+     "m.137.0",
+     "m.138.0",
+     "c.226.0",
+     "c.254.0",
+     "m.139.0",
+     "m.140.0",
+     "c.228.0",
+     "c.229.0",
+     "m.141.0",
+     "c.230.0",
+     "m.142.0",
+     "c.231.0",
+     "c.232.0",
+     "m.143.1",
+     "m.198.0",
+     "m.183.0",
+     "c.271.0",
+     "m.184.0",
+     "c.272.0",
+     "m.185.0",
+     "c.273.0",
+     "c.274.0",
+     "m.186.0",
+     "c.233.0",
+     "m.187.0",
+     "m.188.0",
+     "c.234.0",
+     "m.148.0",
+     "c.235.0",
+     "m.189.0",
+     "c.275.0",
+     "m.190.0",
+     "c.237.0",
+     "m.151.0",
+     "c.276.0",
+     "m.152.0",
+     "c.239.0",
+     "m.153.0",
+     "c.277.0",
+     "m.191.0",
+     "c.278.0",
+     "m.199.0",
+     "c.286.0",
+     "m.193.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.194.0",
+     "c.280.0",
+     "m.158.0",
+     "c.245.0",
+     "m.195.5",
+     "c.287.0"
+    ]
    }
   ]
  },
@@ -13773,7 +15006,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun main(){\n    println(\"Hello World Kotlin.\")\n}",
      "start": {
       "line": 0,
@@ -13794,7 +15027,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "main()",
      "start": {
       "line": 0,
@@ -13815,7 +15048,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun main(){\n    val name : String = \"Max\"\n    println(\"Hello World $name.\")\n}\nmain()",
      "start": {
       "line": 0,
@@ -13830,13 +15063,15 @@
   },
   {
    "output_histories": {
-    "0": "o.103"
+    "0": "o.103",
+    "1": "o.179",
+    "2": "o.180"
    },
    "artifact_name": "c.201",
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun main(){\n    val name : String = \"MAX\"\n    println(\"Hello World $name.toLowerCase().\") //Falsch\n    println(\"Hello World ${name.toLowerCase()}.\") //Richtig\n}\nmain()",
      "start": {
       "line": 0,
@@ -13846,6 +15081,16 @@
       "line": 5,
       "ch": 5
      }
+    },
+    {
+     "start_checkpoint": 1618400989368,
+     "parent": "n.0.103",
+     "literal": "fun main(){\n    val name : String = \"OLE\"\n    println(\"Hello World $name.toLowerCase().\") //Falsch\n    println(\"Hello World ${name.toLowerCase()}.\") //Richtig\n}\nmain()"
+    },
+    {
+     "start_checkpoint": 1618400997236,
+     "parent": "n.0.104",
+     "literal": "fun main(){\n    val name : String = \"MAX\"\n    println(\"Hello World $name.toLowerCase().\") //Falsch\n    println(\"Hello World ${name.toLowerCase()}.\") //Richtig\n}\nmain()"
     }
    ]
   },
@@ -13857,7 +15102,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val v1 : String = \"schreibgeschützte Variable\"\n//v1 = \"Test\"   //Fehler: Val cannot be reassigned\nvar v2 : String = \"veränderbare Variable\"\nv2 = \"Test\"\nprintln(\"$v1 - $v2\")",
      "start": {
       "line": 0,
@@ -13878,7 +15123,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val value : Int = foo()\nprintln(value)\n\n//const val constant : Int = foo()   -> Error\nconst val constant : Int = 5       //-> Kein Error\nprintln(constant)\n\nfun foo() : Int { //Gibt eine zufällige ganze Zahl zwischen 0 und 10 zurück\n    return (0..10).random()\n}",
      "start": {
       "line": 0,
@@ -13920,7 +15165,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun vergleicheElemente(a: List<Int>, b: List<Int>){\n    if (a == b) println(\"vergleicheElemente: Gleich\")\n    else println(\"vergleicheElemente: Ungleich\")\n}\nfun vergleicheSpeicher(a: List<Int>, b: List<Int>){\n    if (a === b) println(\"vergleicheSpeicher: Gleich\")\n    else println(\"vergleicheSpeicher: Ungleich\")\n}\nval a = listOf(1,2,3)\nval b = listOf(1,2,3)\nvergleicheElemente(a, b)\nvergleicheSpeicher(a, b)",
      "start": {
       "line": 0,
@@ -13962,7 +15207,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//const val PI = 3.14159f\nvar a = 50\nval b = 20\nvar res : Int\nval bool = false\na = a + 30\nres = a - b\nval output = \"a - b ist: $res.\"\nprintln(output)",
      "start": {
       "line": 0,
@@ -13983,7 +15228,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun foo(): String{\n    return \"TEST\"\n}\n\nfun show(a: String){\n    println(a)\n}\n\nfun main(){\n    val a = foo()\n    show(a)\n}\nmain()",
      "start": {
       "line": 0,
@@ -14046,7 +15291,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun sum(a: Int, b: Int) = println(\"Sum mit 2 Int-Parametern: ${a+b}\")\nfun sum(a: Int, b: Int, c: Int) = println(\"Sum mit 3 Int-Parametern: ${a+b+c}\")\nfun sum(a: Double, b: Double) = println(\"Sum mit 2 Double-Parametern: ${a+b}\")\nsum(2,3)\nsum(2,3,4)\nsum(2.0,3.0)",
      "start": {
       "line": 0,
@@ -14130,7 +15375,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val a = 10\nwhen {\n    a == 10 -> println(\"gleich 10\")\n    a < 10 -> println(\"kleiner 10\")\n    else -> println(\"groeßer 10\")\n}",
      "start": {
       "line": 0,
@@ -14151,7 +15396,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val intBereich = 0..10 //Bereich von 0 - 10\nprintln(\"Der Bereich $intBereich vom Typ ${intBereich::class.simpleName} geht von ${intBereich.first} bis ${intBereich.last} und umfasst ${intBereich.toList()}\")\n\nval start = 5\nval intBereichMitVariable = start..start+5 //Bereich von start bis start+5\nprintln(\"Der Bereich $intBereichMitVariable vom Typ ${intBereichMitVariable::class.simpleName} geht von ${intBereichMitVariable.first} bis ${intBereichMitVariable.last} und umfasst ${intBereichMitVariable.toList()}\")\n\nval charBereich = 'a'..'e' //Bereich von a bis e\nprintln(\"Der Bereich $charBereich vom Typ ${charBereich::class.simpleName} geht von ${charBereich.first} bis ${charBereich.last} und umfasst ${charBereich.toList()}\")\n\nval intBereichUntil = 0 until 10 //Bereich von 0 - 9\nprintln(\"Der Bereich $intBereichUntil vom Typ ${intBereichUntil::class.simpleName} geht von ${intBereichUntil.first} bis ${intBereichUntil.last} und umfasst ${intBereichUntil.toList()}\")\n\nvar umgekehrterIntBereich = 10 downTo 0 //Bereich von 10 - 0\nprintln(\"Der Bereich $umgekehrterIntBereich vom Typ ${umgekehrterIntBereich::class.simpleName} geht von ${umgekehrterIntBereich.first} bis ${umgekehrterIntBereich.last} und umfasst ${umgekehrterIntBereich.toList()}\")\n\nval intBereichSchrittweite = 0..10 step 2 //Bereich von 0 - 10 mit Schrittweite 2\nprintln(\"Der Bereich $intBereichSchrittweite vom Typ ${intBereichSchrittweite::class.simpleName} geht von ${intBereichSchrittweite.first} bis ${intBereichSchrittweite.last} und umfasst ${intBereichSchrittweite.toList()}\")",
      "start": {
       "line": 0,
@@ -14172,7 +15417,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "for (i in 0..10){\n    print(\"$i \")\n}\nprintln()\nfor (i in 0 until 20){\n    print(\"$i \")\n}\nprintln()\nfor (i in 15 downTo 5 step 5){\n    print(\"$i \")\n}",
      "start": {
       "line": 0,
@@ -14193,7 +15438,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = listOf(\"Kotlin\", \"Java\", \"C\", \"Python\")\nfor (i in liste){\n    print(\"$i \")\n}",
      "start": {
       "line": 0,
@@ -14214,7 +15459,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = mutableListOf(1,2,3,4,5)\nfor (i in liste){\n    i = i*i\n}",
      "start": {
       "line": 0,
@@ -14235,7 +15480,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = mutableListOf(1,2,3,4,5)\nfor (i in 0 until liste.size){\n    liste[i] = liste[i] * liste[i]\n}\nprintln(liste)",
      "start": {
       "line": 0,
@@ -14256,7 +15501,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = mutableListOf(1,2,3,4,5)\nfor ((index, element) in liste.withIndex()){\n    println(\"An Stelle $index ist $element gespeichert\")\n    liste[index] = element * element\n}\nprintln(liste)",
      "start": {
       "line": 0,
@@ -14277,7 +15522,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste1 = (0..100 step 11).toList()\nval liste2 = (0..100 step 5).toList()\niloop@\nfor (i in liste1){\n    println(\"Aktuell untersucht: $i\")\n    for(j in liste2){\n        if(i == j && i != 0){\n            println(\"Gefunden $i\")\n            break@iloop\n        }\n    }\n}",
      "start": {
       "line": 0,
@@ -14298,7 +15543,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "var i = 0\nwhile (i<=10){\n    print(\"$i \")\n    i++\n}\ndo {\n    print(\"$i \")\n    i--\n} while(i >= 0)",
      "start": {
       "line": 0,
@@ -14319,7 +15564,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "repeat (10){\n    print(\"$it \")\n}",
      "start": {
       "line": 0,
@@ -14340,7 +15585,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun Int.zehner() = if (this < 10) //Test, ob eine Zehnerstelle existiert\n                        -1\n                   else\n                        this % 100 / 10\n\nval zahl = 34291\nprintln(\"Die Zehnerstelle von der Zahl $zahl lautet ${zahl.zehner()}\")",
      "start": {
       "line": 0,
@@ -14361,7 +15606,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//TODO\n\n//Test\nval zeile = \"Erweiterungsmethoden erweitern eine Klasse.\"\nif(zeile.addNewLine() == \"Erweiterungsmethoden erweitern eine Klasse.\\n\")\n    print(\"Richtig:\\n${zeile.addNewLine()}${zeile.addNewLine()}\")\nelse\n    print(\"Falsch:\\n${zeile.addNewLine()}${zeile.addNewLine()}\\nRichtig wäre:\\nErweiterungsmethoden erweitern eine Klasse.\\nErweiterungsmethoden erweitern eine Klasse.\\n\")",
      "start": {
       "line": 0,
@@ -14409,7 +15654,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//TODO\n\n//Test\nval liste1 = mutableListOf(0,1,2,3,4)\nval liste2 = mutableListOf(0,1,2,3,4)\nval sumListe = liste1 addAllElements liste2\nif (sumListe == listOf(0,2,4,6,8))\n    println(\"Richtig: $sumListe\")\nelse\n    println(\"Falsch: $sumListe. Das Ergebnis sollte eigentlich ${listOf(0,2,4,6,8)} beinhalten\")",
      "start": {
       "line": 0,
@@ -14430,7 +15675,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "infix fun MutableList<Int>.addAllElements(to: MutableList<Int>): List<Int>{\n    for(i in 0 until this.size){\n        this[i] += to[i]\n    }\n    return this\n}\n\n//Test\nval liste1 = mutableListOf(0,1,2,3,4)\nval liste2 = mutableListOf(0,1,2,3,4)\nval sumListe = liste1 addAllElements liste2\nif (sumListe == listOf(0,2,4,6,8))\n    println(\"Richtig: $sumListe\")\nelse\n    println(\"Falsch: $sumListe. Das Ergebnis sollte eigentlich ${listOf(0,2,4,6,8)} beinhalten\")",
      "start": {
       "line": 0,
@@ -14451,7 +15696,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "data class Punkt(val x: Int, val y: Int, val z: Int)\n\noperator fun Punkt.unaryMinus() = Punkt(-x, -y, -z)\n\nval punkt = Punkt(10, 20, 30)\nprintln(-punkt)",
      "start": {
       "line": 0,
@@ -14472,7 +15717,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//TODO\n\n//Test\nval punkt1 = Punkt(10, 20, 30)\nval punkt2 = Punkt(30, 20, 10)\nval sumPunkt = punkt1 + punkt2\nif (sumPunkt == Punkt(40,40,40)){\n    println(\"Richtig: $sumPunkt\")\n}\nelse\n    println(\"Falsch: $sumPunkt. Das Ergebnis sollte eigentlich ${Punkt(40,40,40)} sein.\")",
      "start": {
       "line": 0,
@@ -14493,7 +15738,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//Lösung\noperator fun Punkt.plus(other: Punkt) = Punkt(x+other.x, y+other.y,z+other.z)\n\n//Test\nval punkt1 = Punkt(10, 20, 30)\nval punkt2 = Punkt(30, 20, 10)\nval sumPunkt = punkt1 + punkt2\nif (sumPunkt == Punkt(40,40,40)){\n    println(\"Richtig: $sumPunkt\")\n}\nelse\n    println(\"Falsch: $sumPunkt. Das Ergebnis sollte eigentlich ${Punkt(40,40,40)} sein.\")",
      "start": {
       "line": 0,
@@ -14514,7 +15759,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste1 = listOf(1,2,3,4,5,6) //unveränderbare Liste mit Elementen des Datentyps Int\n//liste1.add(5) -> Error: Unresolved reference: add\nprintln(\"liste1: $liste1\")\n\nval liste2 = listOf<Int>() //leere, unveränderbare Liste mit Elementen des Datentyps Int\nprintln(\"liste2: $liste2\")\n\nval liste3 = mutableListOf(1,2.0,\"Kotlin\",4.5,'a','/') //veränderbare Liste mit Elementen des Datentyps Any\nliste3.removeAt(3)\nprintln(\"liste3: $liste3\")\n\nval liste4 = mutableListOf<String>() //leere, veränderbare Liste mit Elementen des Datentyps String\nliste4.add(\"Kotlin\")\nliste4.add(\"Java\")\n//liste4.add(10) -> Error: The integer literal does not conform to the expected type String\nprintln(\"liste4: $liste4\")\n\nval liste5 = List(5) { it } //unveränderbare Liste mit Elementen des Datentyps Int, die den Index beinhalten\nprintln(\"liste5: $liste5\")\n\nval liste6 = MutableList(10) { it*it } //veränderbare Liste mit Elementen des Datentyps Int, die den quadrierten Index beinhalten\nprintln(\"liste6: $liste6\")\n\nval liste7 = MutableList(5) { 0 } //veränderbare Liste mit Elementen des Datentyps Int, die 0 beinhalten\nliste7.add(10)\nprintln(\"liste7: $liste7\")",
      "start": {
       "line": 0,
@@ -14535,7 +15780,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = listOf(0,1,2,3,4)\nprintln(\"liste[1]: ${liste[1]}, liste.get(1): ${liste.get(1)}\")",
      "start": {
       "line": 0,
@@ -14556,7 +15801,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = listOf(true, false, false, false, true, true)\nprintln(\"Länge der Liste $liste: ${liste.size}\")",
      "start": {
       "line": 0,
@@ -14598,7 +15843,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = mutableListOf(1,2,3,4,5,6)\nprintln(\"Liste: $liste\")\nliste.fill(100)\nprintln(\"Gefüllte Liste: $liste\")\nliste.clear()\nprintln(\"Geleerte Liste: $liste\")",
      "start": {
       "line": 0,
@@ -14640,7 +15885,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = listOf(1,2,3,4,5,6)\nprintln(\"Ausgangsliste: $liste\")\nval teilliste = liste.subList(3, liste.size)\nprintln(\"Teilliste von 3 bis liste.size: $teilliste\")\nval teilliste2 = liste.take(3)\nprintln(\"Teilliste der ersten 3 Elemente: $teilliste2\")\nval teilliste3 = liste.takeLast(3)\nprintln(\"Teilliste der letzten 3 Elemente: $teilliste3\")\nval teilliste4 = liste.drop(3)\nprintln(\"Teilliste ohne die ersten 3 Elemente: $teilliste4\")",
      "start": {
       "line": 0,
@@ -14724,7 +15969,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val set1 = setOf(1,2,3,4,5)\nval set2 = setOf(4,5,6,7,8)\nprintln(\"Set1: $set1, Set2: $set2\")\nval vereinigung = set1 union set2\nprintln(\"Vereinigung: $vereinigung\")\nval schnitt = set1 intersect set2\nprintln(\"Schnittmenge: $schnitt\")\nval subset = set1 subtract set2\nprintln(\"Subtraktion: $subset\")",
      "start": {
       "line": 0,
@@ -14766,7 +16011,7 @@
    "versions": [
     {
      "start_checkpoint": 1616859134396,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val map = mapOf(\"AI1\" to \"Westfechtel\", \"AI2\" to \"Rauber\", \"AI3\" to \"Henrich\", \"AI4\" to \"Jablonski\")\nfor ((key, value) in map){\n    println(\"$key: $value\")\n}",
      "start": {
       "line": 0,
@@ -14931,7 +16176,7 @@
    "versions": [
     {
      "start_checkpoint": 1617025435363,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//Lösung\nfun String.addNewLine() = \"$this\\n\"\n\nval zeile = \"Erweiterungsmethoden erweitern eine Klasse.\"\nif(zeile.addNewLine() == \"Erweiterungsmethoden erweitern eine Klasse.\\n\")\n    print(\"Richtig:\\n${zeile.addNewLine()}${zeile.addNewLine()}\")\nelse\n    print(\"Falsch:\\n${zeile.addNewLine()}${zeile.addNewLine()}\\nRichtig wäre:\\nErweiterungsmethoden erweitern eine Klasse.\\nErweiterungsmethoden erweitern eine Klasse.\\n\")",
      "start": {
       "line": 0,
@@ -14988,7 +16233,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val int1 : Int = 5 //explizite Zuweisung\nval int2 = 5 //implizierte Zuweisung\nprintln(\"Datentyp von int1: ${int1::class.simpleName}, Datentyp von int2: ${int2::class.simpleName}\")\n\nval string1 : String = \"String 1\"\nval string2 = \"String 2\"\nprintln(\"Datentyp von string1: ${string1::class.simpleName}, Datentyp von string2: ${string2::class.simpleName}\") ",
      "start": {
       "line": 0,
@@ -15009,7 +16254,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun vergleicheStrings(a: String, b: String){\n    if (a == b) print(\"vergleicheStrings: $a == $b\")\n    else if (a < b) print(\"vergleicheStrings: $a < $b\" )\n    else print(\"vergleicheStrings: $a > $b\" )\n    print(\". Ergebnis von compareTo(): ${a.compareTo(b)}. \\n\")\n}\nval a = \"Kotlin\"\nval b = \"Java\"\nvergleicheStrings(a,b)\nvergleicheStrings(b,a)",
      "start": {
       "line": 0,
@@ -15030,7 +16275,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun foo(a: Int = 0, b: Int = 0, c: Int = 0, d: Int = 0) : String {\n    return \"a: $a, b: $b, c: $c, d: $d\"\n}\nprintln(\"foo(1,2,1,2): ${foo(1,2,1,2)}\")\nprintln(\"foo(1,2): ${foo(1,2)}\")\nprintln(\"foo(): ${foo()}\")\nprintln(\"foo(b=2,d=2): ${foo(b=2,d=2)}\")\n//foo(b=2,d=2, 3, 4) -> Error: Mixing named and positioned arguments is not allowed",
      "start": {
       "line": 0,
@@ -15049,7 +16294,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun failNothing(message: String): Nothing{\n    throw Exception(message)\n}\n\nfun failUnit(message: String): Unit{\n    throw Exception(message)\n}\n\nfun fooNothing(num: Int) : Int {\n                    return if (num == 42){\n                        42\n                    }\n                    else {\n                        failNothing(\"Falsch\")\n                    }\n}\n\n//fun fooUnit(num: Int) : Int {  //-> Error Type mismatch: inferred type is Unit but Int was expected\nfun fooUnit(num: Int) : Any {\n                    return if (num == 42){\n                        42\n                    }\n                    else {\n                        failUnit(\"Falsch\")\n                    }\n}",
      "start": {
       "line": 0,
@@ -15070,7 +16315,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun sum(a: Int, b: Int) = a+b\nprintln(\"sum(5,5): ${sum(5,5)}\")\n\nfun foo(num: Int) = if (num == 42) 42 else 0\nprintln(\"foo(42): ${foo(42)}\")\nprintln(\"foo(24): ${foo(24)}\")",
      "start": {
       "line": 0,
@@ -15091,7 +16336,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//Standardfall\nfun foo(a: Int): String {\n    var res = \"\"\n    if (a < 10) \n        res = \"$a ist kleiner 10\"\n    else if (a == 10) \n        res = \"$a ist gleich 10\"\n    else \n        res = \"$a ist groeßer 10\"\n    return res\n}\n//Direkte Zuweisung des Wertes von res mit der if-Verzweigung\nfun foo1(a: Int): String {\n    val res = if (a < 10) \n                  \"$a ist kleiner 10\"\n              else if (a == 10) \n                  \"$a ist gleich 10\"\n              else \n                  \"$a ist groeßer 10\"\n    return res\n}\n//Voransetzen des returns\nfun foo2(a: Int): String {\n    return if (a < 10) \n               \"$a ist kleiner 10\"\n           else if (a == 10) \n               \"$a ist gleich 10\"\n           else \n               \"$a ist groeßer 10\"\n}\n//Anwendung der Kurzschreibweise von Methoden\nfun foo3(a: Int) = if (a < 10) \n                       \"$a ist kleiner 10\"\n                   else if (a == 10) \n                       \"$a ist gleich 10\"\n                   else \n                       \"$a ist groeßer 10\"\n//Test\nval a = 10\nprintln(foo(a))\nprintln(foo1(a))\nprintln(foo2(a))\nprintln(foo3(a))",
      "start": {
       "line": 0,
@@ -15112,7 +16357,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val c = 'ä'\nwhen (c) {\n    'a', 'e', 'i', 'o', 'u' -> println(\"Vokal\")\n    'ä', 'ö', 'ü' -> {\n                        val res = \"Umlaut\"\n                        println(res)\n                     }\n    '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' -> println(\"Zahl\")\n    else -> println(\"Kostante\") //default-Fall\n}",
      "start": {
       "line": 0,
@@ -15133,7 +16378,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val a: Any = 0\nval liste = listOf(0, 1, 2, 3)\nwhen (a) {\n    is Double -> println(\"$a ist vom Datentyp Double\") //ist die Variable vom Typ Double?\n    is Long -> println(\"$a ist vom Datentyp Long\") //ist die Variable vom Typ Long?\n    in liste -> println(\"$a ist in Liste $liste\") //ist die Variable in der Liste liste?\n}",
      "start": {
       "line": 0,
@@ -15154,7 +16399,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "fun typCheckerIf(a: Any) = \"\"//TODO\n    \nfun typCheckerWhen(a: Any) = \"\"//TODO\n    \n//Test\nval testInt = 1\nval testDouble = 1.0\nval testLong : Long = 100L\nval testSonstiges = \"Test\"\nval tests = listOf<Any>(testInt, testDouble, testLong, testSonstiges)\nfor(i in tests){\n    if((typCheckerIf(i) == typCheckerWhen(i)) && (i::class.simpleName == typCheckerIf(i) || typCheckerIf(i) == \"Sonstiges\"))\n        println(\"Richtig! $i ist vom Typ ${typCheckerIf(i)}\")\n    else\n        println(\"Falsch! $i ist vom Typ ${i::class.simpleName}, Ergebnis typCheckerIf: ${typCheckerIf(i)}, Ergebnis typCheckerWhen: ${typCheckerWhen(i)}\")   \n}",
      "start": {
       "line": 0,
@@ -15175,7 +16420,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "//Lösung\nfun typCheckerIf(a: Any) = if (a is Int)\n                                \"Int\"\n                            else if (a is Double)\n                                \"Double\"\n                            else if (a is Long)\n                                \"Long\"\n                            else\n                                \"Sonstiges\"\n\n\nfun typCheckerWhen(a: Any) = when(a) {\n    is Int -> \"Int\"\n    is Double -> \"Double\"\n    is Long -> \"Long2\"\n    else -> \"Sonstiges\"\n}\n\n//Test\nval testInt = 1\nval testDouble = 1.0\nval testLong : Long = 100L\nval testSonstiges = \"Test\"\nval tests = listOf<Any>(testInt, testDouble, testLong, testSonstiges)\nfor(i in tests){\n    if((typCheckerIf(i) == typCheckerWhen(i)) && (i::class.simpleName == typCheckerIf(i) || typCheckerIf(i) == \"Sonstiges\"))\n        println(\"Richtig! $i ist vom Typ ${typCheckerIf(i)}\")\n    else\n        println(\"Falsch! $i ist vom Typ ${i::class.simpleName}, Ergebnis typCheckerIf: ${typCheckerIf(i)}, Ergebnis typCheckerWhen: ${typCheckerWhen(i)}\")   \n}",
      "start": {
       "line": 0,
@@ -15314,7 +16559,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val array1 = arrayOf(1,2,3,4) //-> Int-Array\nprintln(\"array1: ${array1.toList()}\")\nprintln(\"array1[2]: ${array1[2]}\")\nprintln(\"array1.size: ${array1.size}\")\nprintln()\n\nval array2 = Array(6) {0.0} //-> Double-Array\nprintln(\"array2: ${array2.toList()}\")\nprintln(\"array2[2]: ${array2[2]}\")\nprintln(\"array2.size: ${array2.size}\")\narray2[3] = 5.0\nprintln(\"array2 geändert: ${array2.toList()}\")\nprintln(\"array2[3]: ${array2[3]}\") //5.0",
      "start": {
       "line": 0,
@@ -15335,7 +16580,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val arrayDim2 = Array(5) { Array(5) {\"Eintrag\"} } //Erzeugt ein 2 dimensionales String-Array der Größe 5x5, welches gefüllt ist mit \"Eintrag\"\nprintln(arrayDim2[0][3])",
      "start": {
       "line": 0,
@@ -15354,7 +16599,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val array = Array(5) { Array(5) { (0..20).random() } }\n\n//TODO",
      "start": {
       "line": 0,
@@ -15375,7 +16620,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val array = Array(5) { Array(5) { (0..20).random() } }\nfor (col in array){\n    for (elem in col){\n        print(\" $elem\")\n    }\n    println()\n}",
      "start": {
       "line": 0,
@@ -15396,7 +16641,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val array = arrayOf(1,2,3,4,5,6)\nprintln(\"array ist ein Array: ${array is Array<*>}, array: $array\")\nval liste1 = array.toList()\n// liste.add(5) -> Error\nprintln(\"liste1 ist eine List: ${liste1 is List<*>}, liste1: $liste1\")\nval liste2 = liste1.toMutableList()\nliste2.add(5) //-> funktioniert\nprintln(\"liste2 ist eine MutableList: ${liste2 is MutableList<*>}, liste2: $liste2\")",
      "start": {
       "line": 0,
@@ -15417,7 +16662,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = mutableListOf('a', 'b', 'c', 'd', 'e')\nprintln(\"Liste: $liste\")\nliste.add('f')\nliste.add(2, 'z')\nprintln(\"Liste mit hinzugefügten Elementen (f, z): $liste\")\nliste.remove('e')\nliste.removeAt(0)\nprintln(\"Liste mit entfernten Elementen (e, a): $liste\")\n\n//Kurzschreibweise\nprintln(\"\\nKurzschreibweise\")\nval liste2 = mutableListOf('a', 'b', 'c', 'd', 'e')\nprintln(\"Liste2: $liste2\")\nliste2 += 'f'\nliste2.add(2, 'z')\nprintln(\"Liste2 mit hinzugefügten Elementen (f, z): $liste2\")\nliste2 -= 'e'\nliste2.removeAt(0)\nprintln(\"Liste2 mit entfernten Elementen (e, a): $liste2\")",
      "start": {
       "line": 0,
@@ -15438,7 +16683,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = listOf(\"Kotlin\", \"Java\", \"Lua\", \"C\", \"Swift\")\nprintln(\"Ist 'Lua' in der Liste: ${\"Lua\" in liste}\")\nprintln(\"Ist 'Javascript' in der Liste: ${\"Javascript\" in liste}\")\nprintln(\"Welchen Index besitzt 'Lua' in der Liste: ${liste.indexOf(\"Lua\")}\")\nprintln(\"Welchen Index besitzt 'Javascript' in der Liste: ${liste.indexOf(\"Javascript\")}\")",
      "start": {
       "line": 0,
@@ -15459,7 +16704,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val liste = mutableListOf(0,1,2,3,4,5,6,7,8,9)\nprintln(\"Ausgangsliste: $liste\")\nprintln(\"Zufälliges Element: ${liste.random()}\")\nprintln(\"Zufälliges Element zwischen 0 und 9: ${(0..10).random()}\")\nliste.shuffle()\nprintln(\"Zufällige Anordnung: ${liste}\")\nliste.sort()\nprintln(\"Wieder sortiert: ${liste}\")",
      "start": {
       "line": 0,
@@ -15480,7 +16725,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val set = setOf(1,6,3,4,5,1,2,3)\nprintln(\"unveränderbares Set: $set\")\nval set2 = mutableSetOf(1,6,3,4,5,1,2,3)\nprintln(\"veränderbares Set: $set2\")\nset2.remove(3)\nprintln(\"veränderbares Set ohne 3: $set2\")\nset2.add(10)\nprintln(\"veränderbares Set mit 10: $set2\")",
      "start": {
       "line": 0,
@@ -15501,7 +16746,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val map = mapOf(\"Kotlin\" to 0, \"Java\" to 1, \"C\" to 2)\nprintln(\"Unveränderbare Map: $map\")\nprintln()\n\nval map2 = mutableMapOf(\"AI1\" to \"Westfechtel\", \"AI2\" to \"Rauber\", \"AI3\" to \"Henrich\")\nprintln(\"Veränderbare Map: $map2\")\nprintln(\"Wert zum Schlüssel AI2: ${map2[\"AI2\"]}\")\nmap2.put(\"AI4\", \"Jablonski\")\nprintln(\"Veränderbare Map mit AI4: $map2\")\nmap2.remove(\"AI2\")\nprintln(\"Veränderbare Map ohne AI2: $map2\")",
      "start": {
       "line": 0,
@@ -15540,7 +16785,7 @@
    "versions": [
     {
      "start_checkpoint": 1617617991364,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val any: Any = 10.0\nif (any is String){\n    val v1 = any as String\n    println(\"Typ von v1: ${v1::class.simpleName}\")\n}\nif (any is Int){\n    val v1 = any as Int\n    println(\"Typ von v1: ${v1::class.simpleName}\")\n}\nif (any is Double){\n    val v1 = any as Double\n    println(\"Typ von v1: ${v1::class.simpleName}\")\n}\n\nval int: Int = 10\nprintln(\"Typ von int: ${int::class.simpleName}\")\nval float: Float = int.toFloat()\nprintln(\"Typ von float: ${float::class.simpleName}\")",
      "start": {
       "line": 0,
@@ -15561,7 +16806,7 @@
    "versions": [
     {
      "start_checkpoint": 1617617991364,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "literal": "val any: Any = 10.0\nif (any is String){\n    val v1 = any\n    println(\"Typ von v1: ${v1::class.simpleName}\")\n}\nif (any is Int){\n    val v1 = any\n    println(\"Typ von v1: ${v1::class.simpleName}\")\n}\nif (any is Double){\n    val v1 = any\n    println(\"Typ von v1: ${v1::class.simpleName}\")\n}",
      "start": {
       "line": 0,
@@ -15581,6 +16826,63 @@
     {
      "start_checkpoint": 1617617991364,
      "parent": "n.0.95",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.285",
+   "versions": [
+    {
+     "start_checkpoint": 1618221393623,
+     "parent": "n.0.96",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.178"
+   },
+   "artifact_name": "c.286",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018172,
+     "parent": "n.0.102",
+     "literal": "fun List<List<Char>>.printMandala() {\n    for (zeile in this){\n        for (eintrag in zeile){\n            print(\"$eintrag\")\n        }\n        println()\n    }\n}\n\nval mandala1 = listOf(\n    listOf(' ', ' ', ' ', ' ', '/', '\\\\', ' ', ' ', ' ', ' '),\n    listOf(' ', ' ', ' ', '/', '=', '=', '\\\\', ' ', ' ', ' '),\n    listOf(' ', ' ', '/', '=', '/', '\\\\', '=', '\\\\', ' ', ' '),\n    listOf(' ', '/', '=', '/', '=', '=', '\\\\', '=', '\\\\', ' '),\n    listOf('/', '=', '/', '=', '/', '\\\\', '=', '\\\\', '=', '\\\\')\n)\n\nfun getMandala1(): List<List<Char>>{\n    val res = \n    \n}\n\nmandala1.printMandala()",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 22,
+      "ch": 22
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.287",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018172,
+     "parent": "n.0.102",
      "start": {
       "line": 1,
       "ch": 0
@@ -16964,7 +18266,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "# Abschnitt 1 - Grundlagen\n## Einführung"
     }
    ]
@@ -16989,7 +18291,7 @@
     },
     {
      "start_checkpoint": 1617025559423,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Erweiterung\nDas \"Hello World\"-Programm soll nun so erweitert werden, dass der Ausgabe eine Variable angehängt wird."
     }
    ]
@@ -17114,7 +18416,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "## Lektion 4 - Kontrollstrukturen\nIn dieser Lektion werden die Kontrollstrukturen in Kotlin behandelt und Ranges eingeführt."
     }
    ]
@@ -17149,7 +18451,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Es können aber auch weiterführende Vergleiche angestellt werden. Mit `is` kann überprüft werden, ob die zu untersuchende Variable einen bestimmten Datentyp besitzt. `in` hingegen sucht die Variable in einer Datenstruktur."
     }
    ]
@@ -17169,7 +18471,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `for`-Schleife\nAuch sind `for`-Schleifen in Kotlin zu finden. Jedoch weicht ihr Syntax stark von dem in Java ab. Der normale Aufbau einer `for`-Schleife mit 3 Teilen fällt weg und wird durch Breiche oder auch Ranges ersetzt.\n#### Bereiche\nBereiche sind eine Folge von Elementen, die einen definierten Start- und Endpunkt besitzen. Die beiden Werte werden durch `..` getrennt. Kotlin stellt Bereiche des Typs `Int`, `Long` und `Char` bereit. Der Endwert ist dabei immer der letzte Wert des Bereichs.\nDer Startwert kann mit `first` und der Endwert mit `last` adressiert werden. Ein Bereich des Datentyps `Range` ist aufsteigend mit einer Schrittweite von 1. Alle anderen Bereiche besitzen den Datentyp `Progression` und sind mächtiger. So kann ein Bereich entweder mit `reversed()` oder mit dem Schlüsselwort `downTo` statt `..` erzeugt werden. Soll die Obergrenze exklusiv sein, hilft zudem das Schlüsselwort `until` anstelle von `..`. Zur schöneren Darstellung oder zum Erzeugen einfacher Listen können Bereiche in Listen oder Sets umgewandelt werden mit `toList()` beziehungsweise `toSet()` (näheres zu Datenstrukturen in [Lektion 6](#Lektion-6---Datenstrukturen))."
     }
    ]
@@ -17179,7 +18481,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Schleife\nDie aus Java bekannte 3 gliedrige `for`-Schleife wird in Kotlin durch eine Schleife über einen Bereich ersetzt. Das benötigt Schlüsselwort lautet `in`."
     }
    ]
@@ -17189,7 +18491,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Anstelle über eine Range kann aber auch über eine Kollektion (zum Beispiel eine Liste) iteriert werden."
     }
    ]
@@ -17199,7 +18501,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Dabei ist aber zu beachten, dass das Element nicht in der Schleife verändert werden kann. Dies geht nur mit einem Bereich und Zugriff auf den Index an der aktuellen Stelle."
     }
    ]
@@ -17209,7 +18511,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Eine elegantere Lösung ist die Option über die Liste und den aktuellen Index zu iterieren. Dies ist mit Hilfe von `.withIndex()` möglich. Ein ähnlicher Fall ist die Itereriung über Maps. Dies wird in [Lektion 6](#Lektion-6---Datenstrukturen) behandelt."
     }
    ]
@@ -17219,7 +18521,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### `break`\nIn Kotlin kann mit Hilfe von `break` die aktuelle oder eine bestimmte Schleife abgebrochen werden. Der 2. Fall benötigt eine Bezeichnung der abzubrechenden Schleife. Dies kann mit `@` gefolgt von dem Namen vor der Schleife gemacht werden. Der Name der Schleife inklusive dem `@` wird in der Schleife dem `break` angehängt."
     }
    ]
@@ -17229,7 +18531,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `while`-Schleife\nDie `while`-Schleife ist identisch zu der in Java. Zusätzlich zu der normalen `while`-Schleife gibt es auch die `do-while`-Schleife."
     }
    ]
@@ -17244,7 +18546,7 @@
     },
     {
      "start_checkpoint": 1616861593906,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `repeat`-Schleife\nDie `repeat`-Schleife ist vor Allem an Anfänger:innen gerichtet. Es wird lediglich ein exklusiver Endwert angegeben, zu dem von 0 aus hochgezählt wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden."
     }
    ]
@@ -17254,7 +18556,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "## Lektion 5 - Weitere Methodentypen\nIn dieser Lektion werden weitere Methodentypen behandelt.\n### Erweiterungsmethoden\nErweiterungsfunktionen können eine bestehende Klasse einfach durch eine Methode, die außerhalb der Klasse definiert wird, erweitern. Dies findet vor Allem Anwendung bei Klassen, der keine Objektmethode hinzugefügt werden kann. Beispielsweise die Klassen der Datentypen. Im folgenden Beispiel wird die Klasse `Int` mit einer Methode erweitert, die die Zehnerstelle zurückgibt:"
     }
    ]
@@ -17264,7 +18566,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "In dem Beispiel wird der Klasse `Int` eine Erweiterungsmethode `zehner` hinzugefügt. Dies wird dadruch gekennzeichnet, dass die zu erweiternde Klasse (hier: `Int`) mit `.` getrennt vor dem Namen der Methode (hier: `zehner`) steht. Da keine weiteren Parameter benötigt werden, bleiben diese leer. Auf das Objekt, auf den die Methode aufgerufen wird, kann mit `this` zugegriffen werden.<br />\nEs ist außerdem zu beachten, dass Erweiterungsmethoden **immer** von Objektmethoden überdeckt werden. "
     }
    ]
@@ -17274,7 +18576,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Aufgabe\nErweitern Sie die Klasse `String` mit der Methode `addNewLine`, die am Ende des Strings einem Zeilenumbruch (`'\\n'`) hinzufügt. Vervollständigen Sie dazu das folgende Grundgerüst:"
     }
    ]
@@ -17284,7 +18586,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `infix`-Methoden\nBereits kennengelertne Beispiele von `infix`-Methoden sind bei Bereichen zu finden. Anstelle von konkreten Methodenaufrufen werden Schlüsselworte bereitgestellt, die auf eine bestimmte `infix`-Methode verweisen. Dadurch wird der Code näher an den Sprachgebrauch angegliedert, was die Verständlichkeit fördert. Diesen Methoden wird das Schlüsselwort `infix` vorangestellt. Vor den Methodenname getrennt mit einem `.` wird der Datentyp des ersten Objekts angegeben, ähnlich zu eienr Erweiterungsmethode. In den Parametern der des Zweiten zusammen mit dem Namen des Parameters. Auf den \"ersten\" Parameter kann wieder mit `this` zugegriffen werden.\n```kotlin\n5 until 10 //infix\n5.until(10) //umgewandelt\ninfix fun Int.until(to: Int): IntRange //Methodenkopf\n```\nEs können beliebige `infix`-Methoden implementiert werden, falls das Schlüsselwort noch nicht besetzt ist."
     }
    ]
@@ -17294,7 +18596,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Aufgabe\nEine weit verbreitete Operation ist das Addieren der Inhalt 2er Listen. Schreiben Sie eine `infix`-Methode mit der 2 Listen vom Typ `MutableList<Int>` mit dem Schlüsselwort `addAllElements` elementweise addiert und als neue Liste vom Typ `List<Int>` zurückgegeben werden. Es kann angenommen werden, dass beide Listen gleich viele Elemente besitzen."
     }
    ]
@@ -17304,7 +18606,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `operator`-Methoden\nEinige Anweisungen shene auf den ersten Block nach `infix`-Methoden aus, sind aber keine. Dies ist immer der Fall, wenn mathematische Zeichen im Spiel sind. Für diese gibt es keine `infix`-Methoden, da sie auf sogenannte `operator`-Methoden abgebildet werden. Sie werden auf Methoden mit bestimmten Namen abgebildet. So wird aus `5 + 10` im Hintergund `5.plus(10)` aufgerufen. Weitere Beispiele:\n\n| Ausdruck | Aufruf         |\n|----------|----------------|\n| +a       | a.unaryPlus()  |\n| a++    | a.inc()       |\n| -a       | a.unaryMinus() |\n| a--    | a.dec()       |\n| !a       | a.not()        |\n| a + b    | a.plus(b)      |\n| a - b    | a.minus(b)     |\n| a * b    | a.times(b)     |\n| a / b    | a.div(b)       |\n| a..b     | a.rangeTo(b)   |\n\nDer Methodenkopf einer `operator`-Methode ähnelt dem einer `infix`-Methode. Statt dem Schlüsselword `infix` wird nun aber `operator` benutzt. Im Folgenden wird eine Datenklasse (näheres dazu in Abschnitt 3) `Punkt` definiert und den unären Operator `-` implementiert.\n"
     }
    ]
@@ -17314,7 +18616,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Aufgabe\nErweitern Sie die Datenklasse `Punkt`, sodass zwei Punkte mit dem Operator `+`addiert werden können."
     }
    ]
@@ -17329,7 +18631,7 @@
     },
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "## Lektion 6 - Datenstrukturen\nIn dieser Lektion werden ausgewählte Datenstrukturen vorgestellt."
     }
    ]
@@ -17384,7 +18686,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Länge\nDie Länge einer Liste kann mit der Variable `size` abgerufen werden."
     }
    ]
@@ -17414,7 +18716,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Hinzufügen und Löschen\nEiner veränderbaren Liste können Elemente mit `add()` hinzugefügt werden. Wird nur das Element übergeben, wird dieses am Ende angehängt. Wenn zusätzlich noch ein Index angegeben wird, wird das Element an diesem Index eingefügt.<br />\nMit `remove()` beziehungsweise `removeAt()` kann ein bestimmtes Element oder ein Element an einem bestimmten Index entfernt werden.<br />\nFür eine bessere Übersitlichkeit kann das Hinzufügen beziehungsweise Löschen mit Operatoren abgekürzt werden. Diese ersetzen aber lediglich die einfachen Methoden `add` und `remove`."
     }
    ]
@@ -17424,7 +18726,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Teilliste\nEine Teilliste kann mit der Methode `subList()` erstellt werden. Dabei müssen als Parameter der Startindex (inklusive) und Endindex (exklusive) angegeben werden.<br />\nEine neue Liste mit den ersten n Elementen einer Liste kann mit `take(n)` erzeugt werden. Sollen hingegen die letzten n Elemente zurückgegeben werden findet `takeLast(n)` Anwendung.<br />\nEine Liste ohne die ersten n Elemente kann mit der Methode `drop(n)` erlangt werden."
     }
    ]
@@ -17434,7 +18736,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Suchen\nMit dem Schlüsselwort `in` kann ein Element in einer Liste gesucht werden. Zurückgegeben wird `true`, falls es gefunden wurde, ansonsten `false`.<br />\nWenn statt der Information, ob das Element vorhanden ist, zusätzlich noch der Index gesucht ist, kann die Methode `indexOf()` benutzt werden. Falls das übergebene Element nicht in der Liste vorhanden ist, wird `-1` zurückgegeben."
     }
    ]
@@ -17464,7 +18766,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Ein Vorteil an Sets ist, dass einfache Operationen mit Mengen ermöglicht werden. Mit `union` oder `+` können zwei Sets vereinigt werden, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten."
     }
    ]
@@ -17484,7 +18786,7 @@
    "versions": [
     {
      "start_checkpoint": 1616858354622,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Eine Map kann mit einer `for`-Schleife einfach durchlaufen werden:"
     }
    ]
@@ -17529,7 +18831,7 @@
    "versions": [
     {
      "start_checkpoint": 1617025435363,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "<div class=\"alert alert-block alert-info\">\n<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. \nIf it’s a note, you don’t have to include the word “Note”.\n</div>\n<div class=\"alert alert-block alert-warning\">\n<b>Example:</b> Use yellow boxes for examples that are not \ninside code cells, or use for mathematical formulas if needed.\n</div>\n<div class=\"alert alert-block alert-success\">\n<b>Up to you:</b> Use green boxes sparingly, and only for some specific \npurpose that the other boxes can't cover. For example, if you have a lot \nof related content to link to, maybe you decide to use green boxes for \nrelated links from each section of a notebook.\n</div>\n<div class=\"alert alert-block alert-danger\">\n<b>Just don't:</b> In general, avoid the red boxes. These should only be\nused for actions that might cause data loss or another major issue.\n</div>"
     }
    ]
@@ -17544,7 +18846,7 @@
     },
     {
      "start_checkpoint": 1617025559423,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "## Lektion 1 - Hello World\n### Grundgerüst\nDer Start des Erlernens einer neuen Programmiersprache ist traditionell ein \"Hello World\"-Programm. Dieses gibt in der Konsole den String \"Hello World\" aus.<br />\n<div style=\"float: left; width: 50%\">\n    <pre lang=\"java\">\n//Java\npublic class Main{\n    public static void main(String[] args){\n        System.out.println(\"Hello World Java.\")\n    }\n}\n</pre>\n</div>\n<div style=\"float: left; width: 50%\">\n<pre lang=\"kotlin\">\n//Kotlin\nfun main(){\n    println(\"Hello World Kotlin.\")\n}\n</pre>\n</div>\n<div style=\"clear:both\">\n    \nIm direkten Vergleich sind einige Unterschiede festzustellen:\n<ul>    \n<li> Klasse: Es können Methoden auf der höchste Ebene (top-level) deklariert und aufgerufen werden. </li>\n<li> Methodensyntax: Methoden werden mit dem Schlüsselbegriff <code>fun</code> gekennzeichnet. Falls die Methode keinen Rückgabetyp (in Java gekennzeichnet durch <code>void</code>) besitzt, wird die explizite Angabe des Rückgabetyps weggelassen.</li>\n<li> Hauptprogramm: Das Argument der <code>main</code>-Methode (in Java <code>String[] args</code>) muss nicht übergeben werden und wird, falls es nicht existiert, von Kotlin ergänzt.</li>\n<li> <code>println()</code>: Die Bibliotheksmethode <code>println()</code> befindet sich in der Standardbibliothek von Kotlin, weswegen sie direkt ausgerufen werden kann.</li>\n</ul>    \nEine Methode kann, wie in Java, mit ihrem Namen aufgerufen werden:"
     }
    ]
@@ -17589,7 +18891,7 @@
     },
     {
      "start_checkpoint": 1617025822464,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Bei dem Methodenkopf und -aufruf ist kein Unterschied zu erkennen. <br>\nIn der Methode hingegen wurde eine neue Variable `name` deklariert und dieser direkt der Wert `\"Max\"` zugewiesen. Das hier verwendete Stichwort zur Deklaration der Variable ist `val` (näheres dazu in [Lektion 2](#Lektion-2---Variablen)). Der Datentyp der Variable wird hinter deren Namen mit einem `:` getrennt angegeben. Eine weitere Auffälligkeit ist das Fehlen von `;` nach jeder Anweisung. Dieses wird in Kotlin nur noch benutzt, wenn mehrere Anweisungen in eine Zeile geschrieben werden.<br>\nEin weiterer Unterschied zwischen Kotlin und Java ist die Verwendung von Variablen in Strings:\n<table style=\"width:800px; font-size:18px\">\n<tr>\n<th>Java</th>\n<th>Kotlin</th>\n</tr>\n\n<tr>\n<td>\"Hello World\" + name</td>\n<td>\"Hello World \\$name\" </td>\n</tr>\n\n<tr>\n<td>String.format(\"Hello World %s\", name)</td>\n<td></td>\n</tr>\n</table>\n\nWährend in Java die Variablen mit `+` oder `String.format()` in einen String eingegliedert beziehungsweise angehängt werden, können diese in Kotlin direkt in einen String mit `$` integriert werden.<br />\nFalls die Rückgabe einer Anweisung mit `print()` ausgegeben werden soll, müssen zusätzlich geschweifte Klammern um diesen. "
     }
    ]
@@ -17599,7 +18901,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "<div class=\"alert alert-block alert-info\">\n    In Jupyter Notebooks wird ein Code Block als Hauptprogramm angesehen, das bei Run (Shift+Enter) ausgeführt wird. Deswegen kann der Methodenkopf weggelassen werden.\n</div>"
     }
    ]
@@ -17609,7 +18911,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "## Lektion 2 - Variablen\nDiese Lektion behandelt Variablen, Datentypen und Vergleiche.\n### Variablen\nVariablen lassen sich in Kotlin in 2 Arten unterglieder: \n<div style=\"width: calc(100% - 500px); float:left\">\n    <ul>\n        <li> <code>val</code> (value): Beschreibt eine Variable mit <b>lesenden</b> Zugriff. Bei Deklarierung muss ihr direkt ein Wert zugewiesen werden, welcher nicht mehr verädnert werdne kann. Eine `val`-Variable in Kotlin ist mit einer `final`-Variable in Java zu vergleichen.</li>\n        <li> <code>var</code> (variable): Beschreibt eine Variable mit <b>lesenden</b> und <b>schreibenden</b> Zugriff. Ihr Wert kann beliebig oft verändert werden und muss nicht direkt bei Deklarierung gesetzt werden. Dies entspricht einer normalen Variable in Java.</li>\n    </ul>\n</div>\n<img title=\"Variablen\" alt=\"Variablen\" src=\"images/variablen.png\" style=\"width: 500px; float: left\">\n\nEin Beispiel:"
     }
    ]
@@ -17619,7 +18921,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Die Untergliederung der Variablen in `val` und `var` hat den Hintergrund, dass der funktionale Programmierstil, welcher einfacher zu verstehen ist, gefördert werden soll. Außerdem soll der Code verständlicher werden, da klar ist, ob die Variable verändert wird oder nicht. Es herrscht der Grundsatz: `val` vor `var`.<br />\nDer Syntax einer zu initialisiernden Variable folgendermaßen:\n>Variable -> (\"var\"|\"val\") name \":\" Datentyp \"=\" Wert.<br />\n\nEine weitere Besonderheit bei Variablen ist der Umgang mit `null`. Variablen, die mit dem eben kennengelernten Syntax initialisiert und deklariert werden, können nicht den Wert `null` annehmen. Genaueres dazu in Abschnitt 2.\n```kotlin \nvar test_null : Int = null //-> Null can not be a value of a non-null type Int\n```\n### Kostanten\nKonstanten sind Variablen der Kategorie `val`, denen das Schlüsselwort `const` vorangestellt wird. Sie dürfen nur auf der Top-Level-Ebene oder in Objekten (näheres dazu in Abschnitt 3) deklariert werden:\n```kotlin \nconst val constant : Int = 24\n```\n\nSomit kann der Syntax erweitert werden:<br />\n>Variable -> \"var\" name \":\" Datentyp \"=\" Wert.<br />\nVariable -> [const] (\"var\"|\"val\") name \":\" Datentyp \"=\" Wert.<br />\n\nAuf den ersten Blick scheinen schreibgeschützte Variablen und Konstanten den gleichen Nutzen haben: Einen unveränderlichen Wert speichern und zur Verfügung stellen. Im Grunde ist das richtig, jedoch gibt es einen großen Unterschied. Während `val`-Variablen als sogenannte \"runtime constants\" angesehen werden, sind Konstenten \"compile-time constants\". Praktisch bedeutet dies, dass eine Konstante immer den bei der Kompilierung zugewiesenen Wert besitzt, während eine schreibgeschützte Variable bei jedem Ausführen einen unterschiedlichen, aber unveränderlichen Wert annehmen kann."
     }
    ]
@@ -17629,7 +18931,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "<div class=\"alert alert-block alert-warning\">\nDa jeder Block als Bestandteil eines Hauptprogramms angesehen wird, können in Jupyter Notebooks keine Konstanten verwendet werden.\n</div>"
     }
    ]
@@ -17639,7 +18941,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Datentypen\nKotlin ist, wie Java auch, eine statisch typisierte Programmiersprache. Das bedeutet, dass jeder Variable, jeder Ausdruck einem statischen Typ besitzt, der bei Deklarierung festgelegt wird und bei Kompilierung erkennbar sein muss. Dies kann entweder explizit durch eine Datentypzuweisung oder implizit durch eine direkte aussagekräftige Initialisierung erfolgen. In diesem Fall wird der Variable vom Compiler ein, zum Wert passender, Datentyp zugewiesen."
     }
    ]
@@ -17649,7 +18951,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Dadurch kann der bisher kennengelernte Syntax von Variablen vervollständigt werden:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nÜberblick über die wichtigsten Datentypen:\n\n<table style=\"font-size:18px\">\n<thead>\n  <tr>\n    <th>Kotlin</th>\n    <th>Werte</th>\n    <th>Java</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Byte</td>\n    <td>-128 bis 127</td>\n    <td>byte</td>\n  </tr>\n  <tr>\n    <td>Short</td>\n    <td>-32768 bis 32767</td>\n    <td>short</td>\n  </tr>\n  <tr>\n    <td>Int</td>\n    <td>-2.147.483.648 bis 2.147.483.647</td>\n    <td>int</td>\n  </tr>\n  <tr>\n    <td>Long</td>\n    <td>-9.223.372.036.854.775.808 bis 9.223.372.036.854.775.808</td>\n    <td>long</td>\n  </tr>\n  <tr>\n    <td>Float</td>\n    <td>6 bis 7 Dezimalstellen</td>\n    <td>float</td>\n  </tr>\n  <tr>\n    <td>Double</td>\n    <td>15 bis 16 Dezimalstellen</td>\n    <td>double</td>\n  </tr>\n  <tr>\n    <td>Boolean</td>\n    <td>`true` oder `false`</td>\n    <td>boolean</td>\n  </tr>\n  <tr>\n    <td>Char</td>\n    <td>16-Bit-Unicode-Zeichen</td>\n    <td>char</td>\n  </tr>\n  <tr>\n    <td>String</td>\n    <td>Folge von Zeichen</td>\n    <td>String</td>\n  </tr>\n</tbody>\n</table>\n<div style=\"float:left; width: calc(100% - 500px)\">\nAnders als in Java wird nicht zwischen primitiven und nicht-premitiven Datentypen entschieden. Alle Datentypen repräsentieren eine Klasse. Dadurch kann eine Typhierarchie aufgebaut werden. Dazu müssen aber zunächst 2 neue Typen eingeführt werden: `Any` und `Nothing`. Sie beschreiben das extreme Datentypen.`Any` ist der allgemeinste Datentyp und somit die Super-Klasse aller anderen Typen. `Nothing` hingegen ist der kleinste Datentyp und die Sub-Klasse aller anderen Typen.<br />\n</div>\n<img title=\"Typhierarchie\" alt=\"Typhierarchie\" src=\"images/typhierarchie.png\" style=\"width: 500px; float:left\">\n<div style=\"clear: left\" />\n\n\n### Vergleiche\nVergleiche sind in Kotlin einfacher und intuitiver als in Java. Der Grund dafür ist, dass nicht mehr zwischen elementaren und nicht-elementaren Datentypen unterschieden wird. Alle von Kotlin bereitgestellte Datentypen implementieren das `Comparable`-Interface und können somit mit `compareTo()` verglichen werden. Jedoch muss nicht die Methode zum Vergleichen aufrufen, sondern lediglich bekannten Vergleichszeichen verwendet werden. Dabei wird in Kotlin mit `==` der Inhalt der Variable verglichen und nicht wie in Java die Referenz. Für einen Vergleich der Refernzen wurde in Kotlin das Zeichen `===` eingeführt. `<`und `>` entsprechen dem Rückgabewert `-1` beziehungsweise `1` von `compareTo()`."
     }
    ]
@@ -17659,7 +18961,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Aufgabe\nÜbersetzen Sie folgenden Java-Code nach Kotlin und wählen Sie passende Variablentypen.\n```java\nfinal static float PI = 3.14159f;\nint a = 50;\nint b = 20;\nint res;\nfinal boolean bool = false;\na = a + 30;\nres = a - b;\nString output = \"a - b ist: \" + res + \".\";\nSystem.out.println(output);\n```"
     }
    ]
@@ -17669,7 +18971,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "## Lektion 3 - Methoden\nIn dieser Lektion werden Methoden näher beleuchtet.\n### Grundlagen\nEine Methode in Kotlin unterscheidet sich in der Grundstruktur nicht stark von einer in Java.<br />\n<img title=\"Struktur einer Methode\" alt=\"Struktur einer Methode\" src=\"images/methoden_struktur.png\" style=\"width: 700px; text-align: center\">\n\nDer Methodenkopf beginnt mit dem Schlüsselwort `fun` gefolgt von deren Name. Danach werden in runden Klammern, falls benötigt, die Parameter angegeben. Ansonsten werden diese leer gelassen. Bevor der Methodenrumpf mit `{` beginnt, ist noch der Rückgabetyp, der von den Parameterklammern durch einen `:` getrennt wird, zu finden. Dieser kann weggelassen werden, falls die Methode keine Rückgabe besitzt (in Java mit `void` gekennzeichnet). <br />\nEs ergibt sich folgender Syntax: <br />\n>Funktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"\n\nFalls ein Rückgabetyp angegeben ist, muss etwas zurückgegeben werden. Dies wird mit `return` eingeleitet. Falls der Rückgabetyp fehlt, gibt die Methode nichts zurück, kann aber mit `return` beendet werden. Das Hauptprogramm besitzt den Methodenkopf:\n```kotlin\nfun main(){ ... }\n//oder\nfun main(args: Array) { ... }\n```"
     }
    ]
@@ -17679,7 +18981,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Parameter\nEs können einer Methode beliebig viele Parameter übergeben werden. Dabei wird zuerst der Name und danach der Datentyp angegeben. Sie werden mit einem Doppelpunkt getrennt. Außerdem kann jedem Parameter ein default-Wert zugewiesen werden. Wird der Parameter bei Methodenaufruf weggelassen wird er auf diesen gesetzt. **Falls kein default-Wert festgelegt wurde, wird der Parameter mit dem default-Wert des Datentyps gefüllt. ÜBERPRÜFEN** Es können auch bestimmte Parameter mit deren Namen im Methodenaufruf direkt angesprochen werden. Dann ist die Reihenfolge der mit Namen genannten Übergabeparameter unwichtig. Es sollte jedoch nur eine Form der Übergabe angewendet werden, da dies sonst zu einer falschen Positionierung führen kann.<br />\nSyntax der Parameter:<br />\n>Parameter -> Name \":\" Datentyp [\"=\" default-Wert] {\",\" Parameter}<br />"
     }
    ]
@@ -17689,7 +18991,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Rückgabe\nEine Methode kann, falls ein Rückgabetyp definiert ist, einen Wert zurückgeben. Falls mehrere Wert zurückgegeben sollen, muss eine Datenstruktur (zum Beispiel ein Array, näheres dazu in [Lektion 6](#Lektion-6---Datenstrukturen)) oder eine eigens definierte Datenklasse (näheres dazu in Abschnitt 3) erstellt werden. Ist kein Rückgabetyp definiert, wird implizit `Unit` zurückgegeben. Dies ist das Gegenstück zu dem Schlüsselwort `void` in Java. Jedoch könnte auch das bereits kennengelernte `Nothing` signalisieren, dass nichts zurückgegeben wird. Der Unterschied ist, dass `Unit` signalsisiert, dass keine wichtigen Daten zurückgegeben werden. `Nothing` hingegen bedeutet jedoch, dass nichts zurückgegeben wird beziehungsweise die Methode nicht terminieren wird. Der einzig praktische Anwendungsfall ist, wenn die Methode immer einen Fehler wirft.\n```kotlin\n//Fall 1\nfun loop(): Nothing{\n    while(true){ ... }\n}\n//Fall 2\nfun fail(message: String): Nothing{\n    throw Exception(message)\n}\n```\nSchauen wir uns den 2. Fall genauer an. Der Methode `fail` wird eine Nachricht übergeben, die durch einen geworfenen Fehler ausgegeben wird. Ein konkreter Anwendungsfall wäre zum Beispiel:\n```kotlin\nfun foo(num: Int) : Int{\n    if (num == 42){\n        return 42\n    }\n    else{\n        return fail(\"Falsch\")\n    }\n}\n```\n<div style=\"width:80%; float:left\">Ziel der Methode ist es, herauszufinden, ob eine übergebe Zahl gleich <code>42</code><code>42</code> ist, falls nicht soll eine Fehlermeldung geworfen werden. Optimaler Rückgabetyp ist deswegen <code>Int</code>. Falls <code>42</code> übergeben wird, gibt die Methode den Wert <code>42</code> vom Typ <code>Int</code> zurück. Jedoch könnte auch eine falsche Zahl übergeben werden. Dann würde man in den <code>else</code>-Fall kommen und die Methode <code>fail</code> aufrufen, die einen Fehler wirft und <code>Nothing</code> zurückgibt. In Lektion 2 wurde <code>Nothing</code> bereits als Sub-Typ aller Datentypen eingeführt. Eine Methode besitzt immer den größten gemeinsamen Rückgabetyp aller return-Statements. In diesem Beispiel ist der Datentyp des if-Blocks <code>Int</code> und der des else-Blocks <code>Nothing</code>. Da <code>Nothing</code> der Sub-Typ von <code>Int</code> ist, ist der größte gemeinsame Datentyp <code>Int</code>. Würde die Methode <code>fail</code> jedoch <code>Unit</code> zurückgeben, dürfte der Rückgabetyp von <code>foo</code> nicht <code>Int</code> sein, da der größte gemeinsame Datentyp <code>Any</code> wäre.</div>\n<img title=\"Nothing & Util\" alt=\"Nothing & Util\" src=\"images/nothing_util.png\" style=\"width: 20%; float:left\">\n\n\n"
     }
    ]
@@ -17699,7 +19001,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Besonderheiten\n#### Kurzschreibweise\nBestimmte Arten von Methoden können in einer Kurzschreibweise geschrieben werden. Besonders praktisch ist dies für Methoden, die nur wenige Zeilen umfassen und etwas zurückgeben. Dabei wird der Methodenrumpf mit `=` getrennt direkt hinter den Methodenkopf geschrieben. Auch wird das Schlüsselwort `return` weggelassen. Der Rückgabetyp wird nach dem Prinzip des größten gemeinsamen Typ implizit vom Compiler ermittelt."
     }
    ]
@@ -17709,7 +19011,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Überladen\nDas Überladen von Methoden ist auch in Kotlin möglich. Einzige Einschränkung ist, dass der Compiler - genauso wie in Java - das Parameterprofil der unterschiedlichen Methoden voneinander unterscheiden kann."
     }
    ]
@@ -17719,7 +19021,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `if`-Verzweigung\nDie gängiste Art einer Verzweigung ist eine mit `if`. In Verbindung mit `else` und `else if` können so mehrere Fälle definiert, geprüft und entsprechende Anweisungen ausgeführt werden. Falls nur eine Anweisung einem Fall zugeordnet wird, können die geschweiften Klammern weggelassen werden.\n```kotlin\nfun foo(a: Int): String {\n    if (a < 10) \n        return \"kleiner 10\"\n    else if (a == 10) \n        return \"gleich 10\"\n    else {\n        val b = 20\n        return \"groeßer 10\"\n    }\n}\n```\nEine Neuerung ist, dass die `if`-Verzweigung als eine Art eigene Methode angesehen wird. Deswegen kann einer Variable eine `if`-Verzweigung zugewiesen werden, falls jeder Fall einen Wert zurückgibt. Dies kann man weiter vereinfachen, indem das `return` nicht vor jeden Rückgabewert sondern vor das `if` geschrieben wird. In den Fällen wird das Schlüsselwort dann weggelassen."
     }
    ]
@@ -17729,7 +19031,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### `when`-Verzweigung\nEine weitere Art der Verzweigung ist `when`. Diese ähnelt von der Funktionalität an Javas `switch`. Das Schlüsselwort mit dem diese Verzweigung eingeleitet wird, ist `when`. In runden Klammern muss daraufhin die zu untersuchende Variable folgen. In dem Block steht links ein Vergleichswert (die Vergleichswerte mit Komma getrennt) und rechts eine Anweisung (mehrere Anweisungen in einem `{ ... }`-Block). Getrennt werden die beiden Seite mit `->`. Anders als in Java muss nicht nach jedem Block ein `break` stehen, falls die Verzweigung verlassen werden soll. Standardmäßig wird nach dem Ausführen der rechten Seite der `when`-Block verlassen. Ein \"Durchrutschen\" geschieht nicht. Der default-Fall wird mit `else` auf der linken Seite gekennzeichnet."
     }
    ]
@@ -17739,7 +19041,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "`when` findet vor Allem dann an, wenn mehr als 2 Fälle zu untersuchen sind. Dann ist es `if` vorzuziehen. <br />\nNäher an `if` kann es durch eine weitere Erweitung kommen. Wird die zu untersuchende Variable im Kopf weggelassen, können auf der linken Seite boolsche Ausdrücke definiert werden. Folgender Code mit einer `if`-Verzweigung soll nun mit einer `when`-Verzweigung ersetzt werden:\n```kotlin\nval a = 10\nif (a < 10) \n   println(\"gleich 10\")\nelse if (a < 10) \n   println(\"kleiner 10\")\nelse \n   println(\"groeßer 10\")\n```"
     }
    ]
@@ -17749,7 +19051,7 @@
    "versions": [
     {
      "start_checkpoint": 1617374393763,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Aufgabe\n1. Schreiben sie eine Methode `typCheckerIf`, die den Datentyp der übergebenen Variable als String mit Hilfe einer `if`-Verzweifung zurückgibt. Als Vereinfachung soll nur zwischen den Datentypen `Int`, `Double` und `Long` unterschieden werden. Sollte keiner dieser Datentypen zutreffe soll `Sonstiges` zurückgegeben werden.\n2. Schreiben Sie nun eine zweite Methode `typCheckerWhen`, die die `if`-Verzweigung durch eine `when`-Verzweigung ersetzt."
     }
    ]
@@ -17779,7 +19081,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Array\nDie Aufbau eines Arrays sollte bereits umfänglich bekannt sein. Die Funktionsweise in Kotlin unterscheidet sich nicht stark von der Java, abgesehen von der Inititalisierung. Diese kann entweder mit dem Schlüsselwort `arrayOf` erfolgen, falls alle Werte bereits vorliegen, oder mit dem Ausdruck `Array(Länge) {Standardwert}`. Dann wird ein leeres Array mit einer festgelegten Länge erzeugt."
     }
    ]
@@ -17789,7 +19091,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Mehrdimensionale Arrays können, wie in Java, erstellt werden, indem in ein Element eines eindimensionales Arrays ein weiteres Array zu finden ist.\n\n\n"
     }
    ]
@@ -17799,7 +19101,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Aufgabe\nVervollständigen Sie folgendes Codegerüst, sodass das 2 dimensionale Array `array` formatiert ausgegeben wird."
     }
    ]
@@ -17809,7 +19111,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Liste\nAufgrund einer größeren Flexibilität und besseren Implementierung sind in Kotlin Listen gegenüber Arrays zu bevorzugen. Ähnlich zu den zwei verschiedene Variablentypen (`val`/`var`), sind Listen ebenso in veränderbare (`MutableList`) und unveränderbare (`List`) Listen aufgeteilt. Während die `MutableList` an eine klassische `List` in Java erinnert, können die Einträge einer Kotlin-`List` im nachhinein nicht verändert werden. In einer Liste nur Elemente eines Typs gespeichert werden.\n\n_Quizfrage: Wie kann ich eine Liste erzeugen, in der alle Datentypen gespeichert werden können? -> Any_\n#### Inititalisierung\nEine Liste kann, ähnlich zu einem Array, mit der Methode `listOf()` beziehungsweise `mutableListOf()` erzeugt werden. Als Parameter können die Listeneinträge übergeben werden. Falls eine leere `MutableList` initialisiert werden soll, muss außerdem der Datentyp der Elemente angegeben werden. Des Weiteren kann auch der bereits bei Arrays kennengelernte Konstruktor angewendet werden. Dabei muss eine (bei `List` festgesetzte) Länge angegeben werden. In den geschweiften Klammern kann mit dem Schlüsselwort `it` der Index des zu füllenden Elements abgerufen werden."
     }
    ]
@@ -17819,7 +19121,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Veränderbar & Unveränderbar\nBei der Betrachtung des obigen Beispiels könnten einige Fragen aufgekommen sein, die mit der Veränderbarkeit der Listen und deren Variablen zutun hat. Deswegen folgt hier noch eine ausführlichere Erklärung.<br />\nBeginnen wir mit einer Betrachtung der Listentypen: \n- Eine Liste der Klasse `List` können Sie sich vorstellen wie eine Liste mit einer, bei Inititalisierung festgelegter, Länge. In der Liste sind Variablen des Typs `val` gespeichert. Diese können also nicht verändert werden. \n- Eine Liste der Klasse `MutableList` hat keine festgelegte Länge und kann folglich beliebig verlängert oder verkürzt werden. Die Elemente sind Variablen des Typs `var` und können verändert werden.\n\nGespeichert werden die Listen in eigenen Variablen, die wiederum verschieden veränderbar sein können:\n- Wird eine Liste in einer Variable des Typs `val` gespeichert, kann der Variable keine neue Liste zugewiesen werden. Dies hat jedoch **keinen** Einfluss auf den Typ der Liste.\n- Wird eine Liste in einer Variable des Typs `var` gespeichert, kann die gespeicherte Liste durch eine Andere ersetzt werden. Die Variable ist veränderbar. Falls jedoch eine unveränderbare Liste in einer veränderbaren Variable gespeichert wird, kann die Liste dennoch nicht bearbeitet werden.\n\nZusammenfassung:\n\n<table>\n<thead>\n  <tr>\n    <th></th>\n    <th>List</th>\n    <th>MutableList</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>val</td>\n    <td>Variable und Liste können nicht verändert werden</td>\n    <td>Variable kann nicht verändert werden, die Liste hingegen schon.</td>\n  </tr>\n  <tr>\n    <td>val</td>\n    <td>Variable kann verändert werden, die Liste hingegen nicht.</td>\n    <td>Variable und Liste können verändert werden</td>\n  </tr>\n</tbody>\n</table>"
     }
    ]
@@ -17829,7 +19131,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "#### Ausgewählte Operationen\nIm folgenden werden einige ausgewählte Operationen vorgestellt, mit denen Listen bearbeitet werden können.\n##### Zugriff auf ein Element\nDer Zugriff auf ein Element kann entweder, wie bei einem Array, mit dem Index erfolgen oder mit der Methode `get()` und dem Index als Parameter."
     }
    ]
@@ -17839,7 +19141,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Konvertierung\nListen können untereinander mit `toList()` beziehungsweise `toMutableList()` konvertiert werden. Außerdem können auch andere Datenstrukturen mit dieser Methode zu einer Liste konvertiert werden. Dies ist vor Allem hilfreich, wenn Datenstrukturen ausgegeben werden sollen. "
     }
    ]
@@ -17849,7 +19151,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Füllen und Leeren\nEine veränderbare Liste kann durch `fill()` mit dem übergebenden Element gefüllt werden. `clear()` hingegen löscht alle Elemente aus der Liste."
     }
    ]
@@ -17859,7 +19161,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "##### Anordnen und Zufall\nEin zufälliges Element einer Liste (oder auch von einem Bereich) kann mit `random()` erhalten werden.<br />\nSoll eine veränderbare Liste durchmischt werden, findet `shuffle()` Anwendung.<br />\nDas sortieren einer veränderbaren Liste funktioniert unter Anderem mit `sort()`. [Genauere Informationen](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/sort.html) zum Sortieren"
     }
    ]
@@ -17869,7 +19171,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.96",
      "markdown": "#### Aufgabe TODO "
     }
    ]
@@ -17879,7 +19181,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Set\nSets sind primitivere Listen. Ihre Elemente sind ungeordnet und besitzen keine Duplikate. Nur ein `MutableSet` kann vergrößert oder verkleinert werden. Erzeugt können sie mit `setOf()` beziehungsweise `mutableSetOf()` werden."
     }
    ]
@@ -17889,7 +19191,7 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Map\nMaps sind eine Liste von Paaren. Ein Paar besteht aus einem Schlüssel (key) und einem Wert (value). Der Schlüssel ist dabei der _Index_ eines Werts. Eine unveränderbare Map gehört der Klasse `Map` an und kann mit `mapOf()` erzeugt werden, während eine Veränderbare der Klasse `MutableMap` zugeordnet und mit Hilfe von `mutableMapOf()` initialisiert wird. Ein Eintrag in einer Map wird mit einem Schlüssel und einem Wert verbunden mit `to` gekennzeichnet. Zu einer veränderbaren Map kann mit der Methode `put()` ein Eintrag hinzugefügt werden. Dazu müssen der Schlüssel und der Wert übergeben werden. Ein Eintrag kann mit `remove()` und der Angabe des Schlüssels entfernt werden."
     }
    ]
@@ -17899,8 +19201,33 @@
    "versions": [
     {
      "start_checkpoint": 1617531200343,
-     "parent": "n.0.95",
+     "parent": "n.0.96",
      "markdown": "## Zusammenfassung\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf ihre Umsetzung in Java genommen.<br/><br />\nDie `main`-Methode wird standardmäßig beim Ausfüühren eines Programms aufgerufen und kann mit (`fun main(args: Array) { ... }`) oder ohne (`fun main() { ... }`) Kommandizeilenargumente aufgerufen werden.<br />\nEine Variable oder ein Ausdruck kann mit `$` beziehungsweise `${ ... }` in einen `String` eingebaut werden.<br /><br />\nVariablen werden in Kotlin in zwei Arten unterteilt. `val` beschreibt eine schreibgeschützte Variable, während eine `var`-Variable beliebig oft verändert werden kann. Der Datentyp kann mit `:` getrennt nach dem Variablennamen angegeben werden, kann aber bei einer direkten Wertzuweisung weggelassen werden. Dann wird implizit vom Kompiler ein Datentyp zugewiesen. Aktuell kann kein bekannter Datentyp den Wert `null` annehmen. Eine Konstante besitzt den Typ `val` und wird `const`  vorangestellt. Syntax von Variablen:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nKotlin unterscheidet nicht zwischen primitiven und komplexen (Klassen) Datentypen. Alle Datentypen besitzen eine Klasse und werden somit groß geschrieben. Zusätzlich zu den bereits bekannten Datentypen aus Java kommen `Any`, `Nothing` und `Unit` dazu. `Any` beschreibt den Super-Typ, während `Nothing` der Sub-Typ aller Datentypen ist. `Unit` kommt bei Methoden zum Einsatz, die in Java den Rückgabetyp `void` besitzen. Er gibt an, dass nichts interessantes zurückgegeben wird.<br />\nVergleiche finden standardmäßig auf der Inhaltsebene statt. Mit `===` kann ein Vergleich auf der Referenzebene angestellt werden.<br /><br />\nMethoden besitzen in Kotlin folgenden Syntax:<br />\nFunktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"<br />\nParameter -> Name \":\" Datentyp [\"=\" defaukt-Wert] {\",\" Parameter}<br />\nParametern kann ein default-Wert zugewiesen werden, der Anwendung findet, wenn dieser Parameter nicht ünergeben wird. Ansonsten wird der default-Wert des Datentyps angewendet. Parameter können außerdem mit ihrem Namen übergeben werden.<br />\nFalls ein Rückgabetyp vorhanden ist, muss ein Element dieses Typs zurückgegeben werden. Das Zurückgeben mehrerer Elemente ist nicht möglich. Falls nichts zurückgegeben werden soll, wird `Unit` als Rückgabetyp angegeben oder dieser komplett weggelassen. Terminiert die Methode nie oder wirft immer einen Fehler ist `Nothing` als Rückgabetyp zu präferieren.<br />\nFalls die Methode kurz ist, kann die Kurzschreibweise angewendet werden. Dabei wird der Rückgabetyp implizit vom Kompiler bestimmt.<br /><br />\nDie Kontrollstrukturen in Kotlin ähneln den in Java. <br />\nWird bei einer `if`-Verzweigung in allen Fällen ein Wert zurückgegeben, kann das `return` vor das `if` geschrieben und in den Fällen weggelassen werden.<br />\nDie `when`-Verzweigung ist ähnlich zu `switch-case` in Java und ist bei Verzweigungen mit mehr als zwei Fällen zu bevorzugen. Es wird im vergleich zu `switch` das Schlüsselwort im Kopf mit `when` ausgetauscht. Jeder Fall wird in eine rechte und eine linke Seite aufgeteilt. Während links ein Vergleichswert oder ein Wahrheitsausdruck zu finden ist, wird rechts die Folge in Form einer Anweisung hingeschrieben. Wenn ein Anweisungsblock ausgeführt wurde, wird der `when`-Block verlassen und nicht weiter ausgeführt.<br />\nDie `for`-Schleife iteriert über Bereiche. Diese werden durch einen Start- und Endpunkt definiert getrennt von `..`. Die von Kotlin bereitgestellten Bereiche sind von den Typen `Int`, `Long` und `Char`. Soll ein Bereich absteigend sein, muss statt `..` `downTo` verwendet werden. Bei einem Bereich mit dem Schlüsselwort `until` ist der Endwert explizit. Nach dem Endwert kann noch ein `step` mit anschließender Schrittweite angegeben werden.<br />\nDie normale Iteration über einen Bereich wird mit dem Schlüsselwort `in` herbeigeführt. Ebenso kann aber mit diesem auch über eine Datenstruktur (zum Beispiel eine Liste) iteriert werden. In diesem Fall wird in der Laufvariable das Element der Liste gespeichert. Dieses kann nicht verändert werden. Hängt man der Liste `withIndex()` an, so wird ein Paar aus Index und Element bei jedem Durchlauf belegt.<br />\nSoll eine bestimmte Schleife beendet werden, kann dies mit dem Schlüsselwort `break` passieren. Diesem wird getrennt mit einem `@` der Name der Schleife angegeben. Zuvor muss dieser Name dieser aber zugewiesen werden. Dies erfolgt mit name`@` vor dem Schleifenkopf.<br />\nEine weitere Schleife ist die `while`-Schleife. Diese ist identisch zu der Umsetzung in Java. Außerdem wird ebenfalls die `do-while`-Schleife unterstützt.<br />\nFür einfache Zwecke ist die `repeat`-Schleife vorteilhaft. Dieser wird als Parameter ein positiver `Int`-Wert übergeben, bis zu dem von 0 aus iteriert wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden.<br /><br />\n**Weitere Methodentypen TODO**<br /><br />\n\n\n\nEin weiteres wichtiges Themenfeld sind Datenstrukturen.<br />\nEine bekannte, aber rudimentäre, Datenstruktur ist das **Array**.  Sie zeichnet sich dadurch aus, dass die Länge des Elementspeichers bei Initialisierung festgesetzt wird. Dies kann entweder implizit geschehen, indem das Array mit Elementen durch `arrayOf()`, oder expilizit, wenn ein leeres Array mit dem Konstruktor `Array(Länge) {Standardwert}` erzeugt wird. Auf das n-te Element eines Arrays `array` kann mit `array[n]` und die Länge mit `array.size` zugegriffen werden. Mehrdimensionale Arrays sind ineinader geschachtelte Arrays.<br />\nDie beliebeste Datenstruktur ist die **Liste**. Diese lässt sich in Kotlin in zwei Arten aufsplitten: `List` beschreibt eine unveränderbare, `MutableList` eine veränderbare Liste. Beide speichern nur Elemente eines Datentyps. Erzeugt könne diese mit dem Schlüsselwort `listOf` oder `mutableListOf`. Des Weiteren ist eine Initialisierung mit dem Konstruktoraufruf möglich (analog zum Array): `List(Länge) {Standardwert}`. Soll eine leere Liste erzeugt werden, muss zusätzlich der Datentyp angegeben werden: `listOf<Datentyp>()` oder `mutableListOf<Datentyp>()`.<br />\nSoll auf ein Element an Index `n` einer Liste zugegriffen werden, kann entweder der bereits bekannte Syntax eines Arrays angewendet werden (`liste[n]`) oder die `get(n)`-Methode benutzt werden. Auf die Länge kann mit `size` zugegriffen werden. Soll eine veränderbare Liste mit einem bestimmten Wert gefüllt werden, findet die Methode `fill()` Anwendung. `clear()` hingegen leert die Liste. Um ein Element zu einer Liste hinzuzufügen, ist die `add`-Methode zu verwenden. Ist nur das Element angegeben, wird es hinten angestellt. Wird zusätzlich ein Index übergeben, wird das Element dort eingefügt. Kotlin bietet zusätzlich zu dem einfachen `add()` mit `+=` eine Kurzschreibweise. Mit `remove()` kann ein übergebenes Element aus der Liste gelöscht werden. Soll jedoch das Element an Index `n` entfernt werden, ist die Methode `removeAt(n)` zu verwenden.<br />\nAuf eine Teilliste kann mit `subList(von, bis)` zugegriffen werden. Soll geprüft werden, ob ein Element in einer Liste vorhanden ist, kann dies mit `in` bewerkstelligt werden. Soll anstelle eines Wahrheitswertes der Index des Elements zurückgegeben werden, liefert diesen `indexOf()`. Ein weitere wichtige Methode ist `random()`. Diese liefert ein zufälliges Element aus einer Liste oder auch einem Bereich.<br />\nEine Vereinfachung der Liste ist das **Set**. Die listenähnliche Datenstruktur verzichtet auf Doppelungen und Ordnung und stellt eine Menge dar. Während ein veränderbares Set von der Klasse `MutableSet` ist und mit `mutableSetOf()` erzeugt werden kann, ist ein unveränderbares Set von der Klasse `Set` und wird mit `setOf()` initialisiert.<br />\nAuf Sets können klassische Mengenoperationen angewendet werden. Eine Vereinignung ist mit `union` oder `+` möglich, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten.<br />\nEine Liste auf Paaren beschreibt die Datenstruktur **Map**. Bei dieser wird jedem Wert ein Schlüssel zugeordnet, mit dem auf diesen wie beim Array oder der Liste zugegriffen werden kann. Bei der Initialsierung werden diese mit einem `to` getrennt. Während bei einer `Map` die Erzeugung mit `mapOf()` stattfindet und keine Änderungen vorgenommen werden können, initialisiert `mutableMapOf()` eine veränderbare Map der Klasse `MutableMap`. Ein Paar kann einer `MutableMap` mit `put()` hinzugefügt und mit `remove()` gelöscht werden."
+    },
+    {
+     "start_checkpoint": 1618238458279,
+     "parent": "n.0.97",
+     "markdown": "## Zusammenfassung\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf ihre Umsetzung in Java genommen.<br/><br />\nDie `main`-Methode wird standardmäßig beim Ausfüühren eines Programms aufgerufen und kann mit (`fun main(args: Array) { ... }`) oder ohne (`fun main() { ... }`) Kommandizeilenargumente aufgerufen werden.<br />\nEine Variable oder ein Ausdruck kann mit `$` beziehungsweise `${ ... }` in einen `String` eingebaut werden.<br /><br />\nVariablen werden in Kotlin in zwei Arten unterteilt. `val` beschreibt eine schreibgeschützte Variable, während eine `var`-Variable beliebig oft verändert werden kann. Der Datentyp kann mit `:` getrennt nach dem Variablennamen angegeben werden, kann aber bei einer direkten Wertzuweisung weggelassen werden. Dann wird implizit vom Kompiler ein Datentyp zugewiesen. Aktuell kann kein bekannter Datentyp den Wert `null` annehmen. Eine Konstante besitzt den Typ `val` und wird `const`  vorangestellt. Syntax von Variablen:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nKotlin unterscheidet nicht zwischen primitiven und komplexen (Klassen) Datentypen. Alle Datentypen besitzen eine Klasse und werden somit groß geschrieben. Zusätzlich zu den bereits bekannten Datentypen aus Java kommen `Any`, `Nothing` und `Unit` dazu. `Any` beschreibt den Super-Typ, während `Nothing` der Sub-Typ aller Datentypen ist. `Unit` kommt bei Methoden zum Einsatz, die in Java den Rückgabetyp `void` besitzen. Er gibt an, dass nichts interessantes zurückgegeben wird.<br />\nVergleiche finden standardmäßig auf der Inhaltsebene statt. Mit `===` kann ein Vergleich auf der Referenzebene angestellt werden.<br /><br />\nMethoden besitzen in Kotlin folgenden Syntax:<br />\nFunktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"<br />\nParameter -> Name \":\" Datentyp [\"=\" defaukt-Wert] {\",\" Parameter}<br />\nParametern kann ein default-Wert zugewiesen werden, der Anwendung findet, wenn dieser Parameter nicht ünergeben wird. Ansonsten wird der default-Wert des Datentyps angewendet. Parameter können außerdem mit ihrem Namen übergeben werden.<br />\nFalls ein Rückgabetyp vorhanden ist, muss ein Element dieses Typs zurückgegeben werden. Das Zurückgeben mehrerer Elemente ist nicht möglich. Falls nichts zurückgegeben werden soll, wird `Unit` als Rückgabetyp angegeben oder dieser komplett weggelassen. Terminiert die Methode nie oder wirft immer einen Fehler ist `Nothing` als Rückgabetyp zu präferieren.<br />\nFalls die Methode kurz ist, kann die Kurzschreibweise angewendet werden. Dabei wird der Rückgabetyp implizit vom Kompiler bestimmt.<br /><br />\nDie Kontrollstrukturen in Kotlin ähneln den in Java. <br />\nWird bei einer `if`-Verzweigung in allen Fällen ein Wert zurückgegeben, kann das `return` vor das `if` geschrieben und in den Fällen weggelassen werden.<br />\nDie `when`-Verzweigung ist ähnlich zu `switch-case` in Java und ist bei Verzweigungen mit mehr als zwei Fällen zu bevorzugen. Es wird im vergleich zu `switch` das Schlüsselwort im Kopf mit `when` ausgetauscht. Jeder Fall wird in eine rechte und eine linke Seite aufgeteilt. Während links ein Vergleichswert oder ein Wahrheitsausdruck zu finden ist, wird rechts die Folge in Form einer Anweisung hingeschrieben. Wenn ein Anweisungsblock ausgeführt wurde, wird der `when`-Block verlassen und nicht weiter ausgeführt.<br />\nDie `for`-Schleife iteriert über Bereiche. Diese werden durch einen Start- und Endpunkt definiert getrennt von `..`. Die von Kotlin bereitgestellten Bereiche sind von den Typen `Int`, `Long` und `Char`. Soll ein Bereich absteigend sein, muss statt `..` `downTo` verwendet werden. Bei einem Bereich mit dem Schlüsselwort `until` ist der Endwert explizit. Nach dem Endwert kann noch ein `step` mit anschließender Schrittweite angegeben werden.<br />\nDie normale Iteration über einen Bereich wird mit dem Schlüsselwort `in` herbeigeführt. Ebenso kann aber mit diesem auch über eine Datenstruktur (zum Beispiel eine Liste) iteriert werden. In diesem Fall wird in der Laufvariable das Element der Liste gespeichert. Dieses kann nicht verändert werden. Hängt man der Liste `withIndex()` an, so wird ein Paar aus Index und Element bei jedem Durchlauf belegt.<br />\nSoll eine bestimmte Schleife beendet werden, kann dies mit dem Schlüsselwort `break` passieren. Diesem wird getrennt mit einem `@` der Name der Schleife angegeben. Zuvor muss dieser Name dieser aber zugewiesen werden. Dies erfolgt mit name`@` vor dem Schleifenkopf.<br />\nEine weitere Schleife ist die `while`-Schleife. Diese ist identisch zu der Umsetzung in Java. Außerdem wird ebenfalls die `do-while`-Schleife unterstützt.<br />\nFür einfache Zwecke ist die `repeat`-Schleife vorteilhaft. Dieser wird als Parameter ein positiver `Int`-Wert übergeben, bis zu dem von 0 aus iteriert wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden.<br /><br />\nAbgesehen von den normalen, statischen Top-Level-Methoden, die nur mit dem Schlüsselwort `fun` eingeleitet werden, gibt es noch einiger weitere Methodentypen.<br />\n**Erweiterungsmethoden** können Klassen weitere objektmethodenähnliche Methoden hinzufügen. Dies findet vor Allem bei bestehenden Klassen, zum Beispiel aus einer Bibliothek, Anwendung. Der Kopf einer Erweiterungsmethode besitzt folgenden Syntax:<br />\n>Erweiterungsmethode -> \"fun \" Datentyp \".\" Name \"(\" Parameter \")\" \n\nObjektmethoden überlagern jedoch Erweiterungsmethoden immer.\n\n\n\nEin weiteres wichtiges Themenfeld sind Datenstrukturen.<br />\nEine bekannte, aber rudimentäre, Datenstruktur ist das **Array**.  Sie zeichnet sich dadurch aus, dass die Länge des Elementspeichers bei Initialisierung festgesetzt wird. Dies kann entweder implizit geschehen, indem das Array mit Elementen durch `arrayOf()`, oder expilizit, wenn ein leeres Array mit dem Konstruktor `Array(Länge) {Standardwert}` erzeugt wird. Auf das n-te Element eines Arrays `array` kann mit `array[n]` und die Länge mit `array.size` zugegriffen werden. Mehrdimensionale Arrays sind ineinader geschachtelte Arrays.<br />\nDie beliebeste Datenstruktur ist die **Liste**. Diese lässt sich in Kotlin in zwei Arten aufsplitten: `List` beschreibt eine unveränderbare, `MutableList` eine veränderbare Liste. Beide speichern nur Elemente eines Datentyps. Erzeugt könne diese mit dem Schlüsselwort `listOf` oder `mutableListOf`. Des Weiteren ist eine Initialisierung mit dem Konstruktoraufruf möglich (analog zum Array): `List(Länge) {Standardwert}`. Soll eine leere Liste erzeugt werden, muss zusätzlich der Datentyp angegeben werden: `listOf<Datentyp>()` oder `mutableListOf<Datentyp>()`.<br />\nSoll auf ein Element an Index `n` einer Liste zugegriffen werden, kann entweder der bereits bekannte Syntax eines Arrays angewendet werden (`liste[n]`) oder die `get(n)`-Methode benutzt werden. Auf die Länge kann mit `size` zugegriffen werden. Soll eine veränderbare Liste mit einem bestimmten Wert gefüllt werden, findet die Methode `fill()` Anwendung. `clear()` hingegen leert die Liste. Um ein Element zu einer Liste hinzuzufügen, ist die `add`-Methode zu verwenden. Ist nur das Element angegeben, wird es hinten angestellt. Wird zusätzlich ein Index übergeben, wird das Element dort eingefügt. Kotlin bietet zusätzlich zu dem einfachen `add()` mit `+=` eine Kurzschreibweise. Mit `remove()` kann ein übergebenes Element aus der Liste gelöscht werden. Soll jedoch das Element an Index `n` entfernt werden, ist die Methode `removeAt(n)` zu verwenden.<br />\nAuf eine Teilliste kann mit `subList(von, bis)` zugegriffen werden. Soll geprüft werden, ob ein Element in einer Liste vorhanden ist, kann dies mit `in` bewerkstelligt werden. Soll anstelle eines Wahrheitswertes der Index des Elements zurückgegeben werden, liefert diesen `indexOf()`. Ein weitere wichtige Methode ist `random()`. Diese liefert ein zufälliges Element aus einer Liste oder auch einem Bereich.<br />\nEine Vereinfachung der Liste ist das **Set**. Die listenähnliche Datenstruktur verzichtet auf Doppelungen und Ordnung und stellt eine Menge dar. Während ein veränderbares Set von der Klasse `MutableSet` ist und mit `mutableSetOf()` erzeugt werden kann, ist ein unveränderbares Set von der Klasse `Set` und wird mit `setOf()` initialisiert.<br />\nAuf Sets können klassische Mengenoperationen angewendet werden. Eine Vereinignung ist mit `union` oder `+` möglich, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten.<br />\nEine Liste auf Paaren beschreibt die Datenstruktur **Map**. Bei dieser wird jedem Wert ein Schlüssel zugeordnet, mit dem auf diesen wie beim Array oder der Liste zugegriffen werden kann. Bei der Initialsierung werden diese mit einem `to` getrennt. Während bei einer `Map` die Erzeugung mit `mapOf()` stattfindet und keine Änderungen vorgenommen werden können, initialisiert `mutableMapOf()` eine veränderbare Map der Klasse `MutableMap`. Ein Paar kann einer `MutableMap` mit `put()` hinzugefügt und mit `remove()` gelöscht werden."
+    },
+    {
+     "start_checkpoint": 1618239400984,
+     "parent": "n.0.98",
+     "markdown": "## Zusammenfassung\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf ihre Umsetzung in Java genommen.<br/><br />\nDie `main`-Methode wird standardmäßig beim Ausfüühren eines Programms aufgerufen und kann mit (`fun main(args: Array) { ... }`) oder ohne (`fun main() { ... }`) Kommandizeilenargumente aufgerufen werden.<br />\nEine Variable oder ein Ausdruck kann mit `$` beziehungsweise `${ ... }` in einen `String` eingebaut werden.<br /><br />\nVariablen werden in Kotlin in zwei Arten unterteilt. `val` beschreibt eine schreibgeschützte Variable, während eine `var`-Variable beliebig oft verändert werden kann. Der Datentyp kann mit `:` getrennt nach dem Variablennamen angegeben werden, kann aber bei einer direkten Wertzuweisung weggelassen werden. Dann wird implizit vom Kompiler ein Datentyp zugewiesen. Aktuell kann kein bekannter Datentyp den Wert `null` annehmen. Eine Konstante besitzt den Typ `val` und wird `const`  vorangestellt. Syntax von Variablen:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nKotlin unterscheidet nicht zwischen primitiven und komplexen (Klassen) Datentypen. Alle Datentypen besitzen eine Klasse und werden somit groß geschrieben. Zusätzlich zu den bereits bekannten Datentypen aus Java kommen `Any`, `Nothing` und `Unit` dazu. `Any` beschreibt den Super-Typ, während `Nothing` der Sub-Typ aller Datentypen ist. `Unit` kommt bei Methoden zum Einsatz, die in Java den Rückgabetyp `void` besitzen. Er gibt an, dass nichts interessantes zurückgegeben wird.<br />\nVergleiche finden standardmäßig auf der Inhaltsebene statt. Mit `===` kann ein Vergleich auf der Referenzebene angestellt werden.<br /><br />\nMethoden besitzen in Kotlin folgenden Syntax:<br />\nFunktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"<br />\nParameter -> Name \":\" Datentyp [\"=\" defaukt-Wert] {\",\" Parameter}<br />\nParametern kann ein default-Wert zugewiesen werden, der Anwendung findet, wenn dieser Parameter nicht ünergeben wird. Ansonsten wird der default-Wert des Datentyps angewendet. Parameter können außerdem mit ihrem Namen übergeben werden.<br />\nFalls ein Rückgabetyp vorhanden ist, muss ein Element dieses Typs zurückgegeben werden. Das Zurückgeben mehrerer Elemente ist nicht möglich. Falls nichts zurückgegeben werden soll, wird `Unit` als Rückgabetyp angegeben oder dieser komplett weggelassen. Terminiert die Methode nie oder wirft immer einen Fehler ist `Nothing` als Rückgabetyp zu präferieren.<br />\nFalls die Methode kurz ist, kann die Kurzschreibweise angewendet werden. Dabei wird der Rückgabetyp implizit vom Kompiler bestimmt.<br /><br />\nDie Kontrollstrukturen in Kotlin ähneln den in Java. <br />\nWird bei einer `if`-Verzweigung in allen Fällen ein Wert zurückgegeben, kann das `return` vor das `if` geschrieben und in den Fällen weggelassen werden.<br />\nDie `when`-Verzweigung ist ähnlich zu `switch-case` in Java und ist bei Verzweigungen mit mehr als zwei Fällen zu bevorzugen. Es wird im vergleich zu `switch` das Schlüsselwort im Kopf mit `when` ausgetauscht. Jeder Fall wird in eine rechte und eine linke Seite aufgeteilt. Während links ein Vergleichswert oder ein Wahrheitsausdruck zu finden ist, wird rechts die Folge in Form einer Anweisung hingeschrieben. Wenn ein Anweisungsblock ausgeführt wurde, wird der `when`-Block verlassen und nicht weiter ausgeführt.<br />\nDie `for`-Schleife iteriert über Bereiche. Diese werden durch einen Start- und Endpunkt definiert getrennt von `..`. Die von Kotlin bereitgestellten Bereiche sind von den Typen `Int`, `Long` und `Char`. Soll ein Bereich absteigend sein, muss statt `..` `downTo` verwendet werden. Bei einem Bereich mit dem Schlüsselwort `until` ist der Endwert explizit. Nach dem Endwert kann noch ein `step` mit anschließender Schrittweite angegeben werden.<br />\nDie normale Iteration über einen Bereich wird mit dem Schlüsselwort `in` herbeigeführt. Ebenso kann aber mit diesem auch über eine Datenstruktur (zum Beispiel eine Liste) iteriert werden. In diesem Fall wird in der Laufvariable das Element der Liste gespeichert. Dieses kann nicht verändert werden. Hängt man der Liste `withIndex()` an, so wird ein Paar aus Index und Element bei jedem Durchlauf belegt.<br />\nSoll eine bestimmte Schleife beendet werden, kann dies mit dem Schlüsselwort `break` passieren. Diesem wird getrennt mit einem `@` der Name der Schleife angegeben. Zuvor muss dieser Name dieser aber zugewiesen werden. Dies erfolgt mit name`@` vor dem Schleifenkopf.<br />\nEine weitere Schleife ist die `while`-Schleife. Diese ist identisch zu der Umsetzung in Java. Außerdem wird ebenfalls die `do-while`-Schleife unterstützt.<br />\nFür einfache Zwecke ist die `repeat`-Schleife vorteilhaft. Dieser wird als Parameter ein positiver `Int`-Wert übergeben, bis zu dem von 0 aus iteriert wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden.<br /><br />\nAbgesehen von den normalen, statischen Top-Level-Methoden, die nur mit dem Schlüsselwort `fun` eingeleitet werden, gibt es noch einiger weitere Methodentypen.<br />\n**Erweiterungsmethoden** können Klassen weitere objektmethodenähnliche Methoden hinzufügen. Dies findet vor Allem bei bestehenden Klassen, zum Beispiel aus einer Bibliothek, Anwendung. Der Kopf einer Erweiterungsmethode besitzt folgenden Syntax:<br />\n>Erweiterungsmethode -> \"fun \" Datentyp \".\" Name \"(\" Parameter \")\" \n\nObjektmethoden einer Klasse überlagern jedoch immer die Erweiterungsmethoden. In der Methode kann mit dem Schlüsselwort `this` auf das Objekt, auf dem die Methode ausgeführt wird, zugegriffen werden. Aufgerufen werden die Erweiterungsmethoden genauso wie Objektmethoden.<br />\nEine weitere Methodenart sind die sogenannten `infix`-Methoden. Das besondere an ihnen ist, dass anstelle eines Methodenaufrufs ein Schlüsselwort, der Name der Methode, benutzt wird, das auf die Methode verweist. Meist sind dabei zwei Objekte involviert, die durch das Schlüsselwort getrennt werden. Im Hintergrund wird die Methode auf dem ersten Objekt aufgerufen. Das Zweite wird der Methode übergeben. Ein gängiges Beispiel ist die Methode `util()`. Der Aufruf `0 until 10` wird im Hintergrund zu `0.until(10)`. Der Syntax des Kopfes einer `infix`-Methode ist:\n>infix-Methode -> \"infix fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\nWährend auf den ersten Parameter wieder mit `this` zugegriffen werden kann, muss dem Zweiten ein Name zugewiesen werden.<br />\nDie letzte Art der Methode in dieser Lektion wird leicht mit den `infix`-Methoden verwechselt, sind jedoch von einer anderen Natur. Ein Beispiel für diese Art ist die Addition `+`. In einer Anweisung wird das Symbol wie eine `infix`-Mehthode behandelt, jedoch gibt es keine Methode mit dem Namen `+`. Deswegen wird diese Klasse der Methoden `operator`-Methoden genannt. Sie bilden einen Operator, der in einer `infix`-Form verwendet werden kann, auf vordefinierte Methoden ab. Bei einer Addition wird beispielsweise die Methode `a.plus(b)` aufgerufen, bei `!a` hingegen `a.not()`. Es können keine neuen `operator`-Methoden implemenitert werden, jedoch eigene Klassen mit diesen ausgestattet werden. Der Syntax des Methodenkopf sieht folgendermaßen aus:\n>operator-Methode -> \"operator fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\n<br /><br />\n\nEin weiteres wichtiges Themenfeld sind Datenstrukturen.<br />\nEine bekannte, aber rudimentäre, Datenstruktur ist das **Array**.  Sie zeichnet sich dadurch aus, dass die Länge des Elementspeichers bei Initialisierung festgesetzt wird. Dies kann entweder implizit geschehen, indem das Array mit Elementen durch `arrayOf()`, oder expilizit, wenn ein leeres Array mit dem Konstruktor `Array(Länge) {Standardwert}` erzeugt wird. Auf das n-te Element eines Arrays `array` kann mit `array[n]` und die Länge mit `array.size` zugegriffen werden. Mehrdimensionale Arrays sind ineinader geschachtelte Arrays.<br />\nDie beliebeste Datenstruktur ist die **Liste**. Diese lässt sich in Kotlin in zwei Arten aufsplitten: `List` beschreibt eine unveränderbare, `MutableList` eine veränderbare Liste. Beide speichern nur Elemente eines Datentyps. Erzeugt könne diese mit dem Schlüsselwort `listOf` oder `mutableListOf`. Des Weiteren ist eine Initialisierung mit dem Konstruktoraufruf möglich (analog zum Array): `List(Länge) {Standardwert}`. Soll eine leere Liste erzeugt werden, muss zusätzlich der Datentyp angegeben werden: `listOf<Datentyp>()` oder `mutableListOf<Datentyp>()`.<br />\nSoll auf ein Element an Index `n` einer Liste zugegriffen werden, kann entweder der bereits bekannte Syntax eines Arrays angewendet werden (`liste[n]`) oder die `get(n)`-Methode benutzt werden. Auf die Länge kann mit `size` zugegriffen werden. Soll eine veränderbare Liste mit einem bestimmten Wert gefüllt werden, findet die Methode `fill()` Anwendung. `clear()` hingegen leert die Liste. Um ein Element zu einer Liste hinzuzufügen, ist die `add`-Methode zu verwenden. Ist nur das Element angegeben, wird es hinten angestellt. Wird zusätzlich ein Index übergeben, wird das Element dort eingefügt. Kotlin bietet zusätzlich zu dem einfachen `add()` mit `+=` eine Kurzschreibweise. Mit `remove()` kann ein übergebenes Element aus der Liste gelöscht werden. Soll jedoch das Element an Index `n` entfernt werden, ist die Methode `removeAt(n)` zu verwenden.<br />\nAuf eine Teilliste kann mit `subList(von, bis)` zugegriffen werden. Soll geprüft werden, ob ein Element in einer Liste vorhanden ist, kann dies mit `in` bewerkstelligt werden. Soll anstelle eines Wahrheitswertes der Index des Elements zurückgegeben werden, liefert diesen `indexOf()`. Ein weitere wichtige Methode ist `random()`. Diese liefert ein zufälliges Element aus einer Liste oder auch einem Bereich.<br />\nEine Vereinfachung der Liste ist das **Set**. Die listenähnliche Datenstruktur verzichtet auf Doppelungen und Ordnung und stellt eine Menge dar. Während ein veränderbares Set von der Klasse `MutableSet` ist und mit `mutableSetOf()` erzeugt werden kann, ist ein unveränderbares Set von der Klasse `Set` und wird mit `setOf()` initialisiert.<br />\nAuf Sets können klassische Mengenoperationen angewendet werden. Eine Vereinignung ist mit `union` oder `+` möglich, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten.<br />\nEine Liste auf Paaren beschreibt die Datenstruktur **Map**. Bei dieser wird jedem Wert ein Schlüssel zugeordnet, mit dem auf diesen wie beim Array oder der Liste zugegriffen werden kann. Bei der Initialsierung werden diese mit einem `to` getrennt. Während bei einer `Map` die Erzeugung mit `mapOf()` stattfindet und keine Änderungen vorgenommen werden können, initialisiert `mutableMapOf()` eine veränderbare Map der Klasse `MutableMap`. Ein Paar kann einer `MutableMap` mit `put()` hinzugefügt und mit `remove()` gelöscht werden."
+    },
+    {
+     "start_checkpoint": 1618239409109,
+     "parent": "n.0.99",
+     "markdown": "## Zusammenfassung\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf ihre Umsetzung in Java genommen.<br/><br />\nDie `main`-Methode wird standardmäßig beim Ausfüühren eines Programms aufgerufen und kann mit (`fun main(args: Array) { ... }`) oder ohne (`fun main() { ... }`) Kommandizeilenargumente aufgerufen werden.<br />\nEine Variable oder ein Ausdruck kann mit `$` beziehungsweise `${ ... }` in einen `String` eingebaut werden.<br /><br />\nVariablen werden in Kotlin in zwei Arten unterteilt. `val` beschreibt eine schreibgeschützte Variable, während eine `var`-Variable beliebig oft verändert werden kann. Der Datentyp kann mit `:` getrennt nach dem Variablennamen angegeben werden, kann aber bei einer direkten Wertzuweisung weggelassen werden. Dann wird implizit vom Kompiler ein Datentyp zugewiesen. Aktuell kann kein bekannter Datentyp den Wert `null` annehmen. Eine Konstante besitzt den Typ `val` und wird `const`  vorangestellt. Syntax von Variablen:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nKotlin unterscheidet nicht zwischen primitiven und komplexen (Klassen) Datentypen. Alle Datentypen besitzen eine Klasse und werden somit groß geschrieben. Zusätzlich zu den bereits bekannten Datentypen aus Java kommen `Any`, `Nothing` und `Unit` dazu. `Any` beschreibt den Super-Typ, während `Nothing` der Sub-Typ aller Datentypen ist. `Unit` kommt bei Methoden zum Einsatz, die in Java den Rückgabetyp `void` besitzen. Er gibt an, dass nichts interessantes zurückgegeben wird.<br />\nVergleiche finden standardmäßig auf der Inhaltsebene statt. Mit `===` kann ein Vergleich auf der Referenzebene angestellt werden.<br /><br />\nMethoden besitzen in Kotlin folgenden Syntax:<br />\nFunktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"<br />\nParameter -> Name \":\" Datentyp [\"=\" defaukt-Wert] {\",\" Parameter}<br />\nParametern kann ein default-Wert zugewiesen werden, der Anwendung findet, wenn dieser Parameter nicht ünergeben wird. Ansonsten wird der default-Wert des Datentyps angewendet. Parameter können außerdem mit ihrem Namen übergeben werden.<br />\nFalls ein Rückgabetyp vorhanden ist, muss ein Element dieses Typs zurückgegeben werden. Das Zurückgeben mehrerer Elemente ist nicht möglich. Falls nichts zurückgegeben werden soll, wird `Unit` als Rückgabetyp angegeben oder dieser komplett weggelassen. Terminiert die Methode nie oder wirft immer einen Fehler ist `Nothing` als Rückgabetyp zu präferieren.<br />\nFalls die Methode kurz ist, kann die Kurzschreibweise angewendet werden. Dabei wird der Rückgabetyp implizit vom Kompiler bestimmt.<br /><br />\nDie Kontrollstrukturen in Kotlin ähneln den in Java. <br />\nWird bei einer `if`-Verzweigung in allen Fällen ein Wert zurückgegeben, kann das `return` vor das `if` geschrieben und in den Fällen weggelassen werden.<br />\nDie `when`-Verzweigung ist ähnlich zu `switch-case` in Java und ist bei Verzweigungen mit mehr als zwei Fällen zu bevorzugen. Es wird im vergleich zu `switch` das Schlüsselwort im Kopf mit `when` ausgetauscht. Jeder Fall wird in eine rechte und eine linke Seite aufgeteilt. Während links ein Vergleichswert oder ein Wahrheitsausdruck zu finden ist, wird rechts die Folge in Form einer Anweisung hingeschrieben. Wenn ein Anweisungsblock ausgeführt wurde, wird der `when`-Block verlassen und nicht weiter ausgeführt.<br />\nDie `for`-Schleife iteriert über Bereiche. Diese werden durch einen Start- und Endpunkt definiert getrennt von `..`. Die von Kotlin bereitgestellten Bereiche sind von den Typen `Int`, `Long` und `Char`. Soll ein Bereich absteigend sein, muss statt `..` `downTo` verwendet werden. Bei einem Bereich mit dem Schlüsselwort `until` ist der Endwert explizit. Nach dem Endwert kann noch ein `step` mit anschließender Schrittweite angegeben werden.<br />\nDie normale Iteration über einen Bereich wird mit dem Schlüsselwort `in` herbeigeführt. Ebenso kann aber mit diesem auch über eine Datenstruktur (zum Beispiel eine Liste) iteriert werden. In diesem Fall wird in der Laufvariable das Element der Liste gespeichert. Dieses kann nicht verändert werden. Hängt man der Liste `withIndex()` an, so wird ein Paar aus Index und Element bei jedem Durchlauf belegt.<br />\nSoll eine bestimmte Schleife beendet werden, kann dies mit dem Schlüsselwort `break` passieren. Diesem wird getrennt mit einem `@` der Name der Schleife angegeben. Zuvor muss dieser Name dieser aber zugewiesen werden. Dies erfolgt mit name`@` vor dem Schleifenkopf.<br />\nEine weitere Schleife ist die `while`-Schleife. Diese ist identisch zu der Umsetzung in Java. Außerdem wird ebenfalls die `do-while`-Schleife unterstützt.<br />\nFür einfache Zwecke ist die `repeat`-Schleife vorteilhaft. Dieser wird als Parameter ein positiver `Int`-Wert übergeben, bis zu dem von 0 aus iteriert wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden.<br /><br />\nAbgesehen von den normalen, statischen Top-Level-Methoden, die nur mit dem Schlüsselwort `fun` eingeleitet werden, gibt es noch einiger weitere Methodentypen.<br />\n**Erweiterungsmethoden** können Klassen weitere objektmethodenähnliche Methoden hinzufügen. Dies findet vor Allem bei bestehenden Klassen, zum Beispiel aus einer Bibliothek, Anwendung. Der Kopf einer Erweiterungsmethode besitzt folgenden Syntax:<br />\n>Erweiterungsmethode -> \"fun \" Datentyp \".\" Name \"(\" Parameter \")\" \n\nObjektmethoden einer Klasse überlagern jedoch immer die Erweiterungsmethoden. In der Methode kann mit dem Schlüsselwort `this` auf das Objekt, auf dem die Methode ausgeführt wird, zugegriffen werden. Aufgerufen werden die Erweiterungsmethoden genauso wie Objektmethoden.<br />\nEine weitere Methodenart sind die sogenannten `infix`-Methoden. Das besondere an ihnen ist, dass anstelle eines Methodenaufrufs ein Schlüsselwort, der Name der Methode, benutzt wird, das auf die Methode verweist. Meist sind dabei zwei Objekte involviert, die durch das Schlüsselwort getrennt werden. Im Hintergrund wird die Methode auf dem ersten Objekt aufgerufen. Das Zweite wird der Methode übergeben. Ein gängiges Beispiel ist die Methode `util()`. Der Aufruf `0 until 10` wird im Hintergrund zu `0.until(10)`. Der Syntax des Kopfes einer `infix`-Methode ist:\n>infix-Methode -> \"infix fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\nWährend auf den ersten Parameter wieder mit `this` zugegriffen werden kann, muss dem Zweiten ein Name zugewiesen werden.<br />\nDie letzte Art der Methode in dieser Lektion wird leicht mit den `infix`-Methoden verwechselt, sind jedoch von einer anderen Natur. Ein Beispiel für diese Art ist die Addition `+`. In einer Anweisung wird das Symbol wie eine `infix`-Mehthode behandelt, jedoch gibt es keine Methode mit dem Namen `+`. Deswegen wird diese Klasse der Methoden `operator`-Methoden genannt. Sie bilden einen Operator, der in einer `infix`-Form verwendet werden kann, auf vordefinierte Methoden ab. Bei einer Addition wird beispielsweise die Methode `a.plus(b)` aufgerufen, bei `!a` hingegen `a.not()`. Es können keine neuen `operator`-Methoden implemenitert werden, jedoch eigene Klassen mit diesen ausgestattet werden. Der Syntax des Methodenkopf sieht folgendermaßen aus:\n>operator-Methode -> \"operator fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\n<br />\nEin weiteres wichtiges Themenfeld sind Datenstrukturen.<br />\nEine bekannte, aber rudimentäre, Datenstruktur ist das **Array**.  Sie zeichnet sich dadurch aus, dass die Länge des Elementspeichers bei Initialisierung festgesetzt wird. Dies kann entweder implizit geschehen, indem das Array mit Elementen durch `arrayOf()`, oder expilizit, wenn ein leeres Array mit dem Konstruktor `Array(Länge) {Standardwert}` erzeugt wird. Auf das n-te Element eines Arrays `array` kann mit `array[n]` und die Länge mit `array.size` zugegriffen werden. Mehrdimensionale Arrays sind ineinader geschachtelte Arrays.<br />\nDie beliebeste Datenstruktur ist die **Liste**. Diese lässt sich in Kotlin in zwei Arten aufsplitten: `List` beschreibt eine unveränderbare, `MutableList` eine veränderbare Liste. Beide speichern nur Elemente eines Datentyps. Erzeugt könne diese mit dem Schlüsselwort `listOf` oder `mutableListOf`. Des Weiteren ist eine Initialisierung mit dem Konstruktoraufruf möglich (analog zum Array): `List(Länge) {Standardwert}`. Soll eine leere Liste erzeugt werden, muss zusätzlich der Datentyp angegeben werden: `listOf<Datentyp>()` oder `mutableListOf<Datentyp>()`.<br />\nSoll auf ein Element an Index `n` einer Liste zugegriffen werden, kann entweder der bereits bekannte Syntax eines Arrays angewendet werden (`liste[n]`) oder die `get(n)`-Methode benutzt werden. Auf die Länge kann mit `size` zugegriffen werden. Soll eine veränderbare Liste mit einem bestimmten Wert gefüllt werden, findet die Methode `fill()` Anwendung. `clear()` hingegen leert die Liste. Um ein Element zu einer Liste hinzuzufügen, ist die `add`-Methode zu verwenden. Ist nur das Element angegeben, wird es hinten angestellt. Wird zusätzlich ein Index übergeben, wird das Element dort eingefügt. Kotlin bietet zusätzlich zu dem einfachen `add()` mit `+=` eine Kurzschreibweise. Mit `remove()` kann ein übergebenes Element aus der Liste gelöscht werden. Soll jedoch das Element an Index `n` entfernt werden, ist die Methode `removeAt(n)` zu verwenden.<br />\nAuf eine Teilliste kann mit `subList(von, bis)` zugegriffen werden. Soll geprüft werden, ob ein Element in einer Liste vorhanden ist, kann dies mit `in` bewerkstelligt werden. Soll anstelle eines Wahrheitswertes der Index des Elements zurückgegeben werden, liefert diesen `indexOf()`. Ein weitere wichtige Methode ist `random()`. Diese liefert ein zufälliges Element aus einer Liste oder auch einem Bereich.<br />\nEine Vereinfachung der Liste ist das **Set**. Die listenähnliche Datenstruktur verzichtet auf Doppelungen und Ordnung und stellt eine Menge dar. Während ein veränderbares Set von der Klasse `MutableSet` ist und mit `mutableSetOf()` erzeugt werden kann, ist ein unveränderbares Set von der Klasse `Set` und wird mit `setOf()` initialisiert.<br />\nAuf Sets können klassische Mengenoperationen angewendet werden. Eine Vereinignung ist mit `union` oder `+` möglich, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten.<br />\nEine Liste auf Paaren beschreibt die Datenstruktur **Map**. Bei dieser wird jedem Wert ein Schlüssel zugeordnet, mit dem auf diesen wie beim Array oder der Liste zugegriffen werden kann. Bei der Initialsierung werden diese mit einem `to` getrennt. Während bei einer `Map` die Erzeugung mit `mapOf()` stattfindet und keine Änderungen vorgenommen werden können, initialisiert `mutableMapOf()` eine veränderbare Map der Klasse `MutableMap`. Ein Paar kann einer `MutableMap` mit `put()` hinzugefügt und mit `remove()` gelöscht werden."
+    },
+    {
+     "start_checkpoint": 1618239457092,
+     "parent": "n.0.100",
+     "markdown": "## Zusammenfassung\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf ihre Umsetzung in Java genommen.<br/><br />\nDie `main`-Methode wird standardmäßig beim Ausfüühren eines Programms aufgerufen und kann mit (`fun main(args: Array) { ... }`) oder ohne (`fun main() { ... }`) Kommandizeilenargumente aufgerufen werden.<br />\nEine Variable oder ein Ausdruck kann mit `$` beziehungsweise `${ ... }` in einen `String` eingebaut werden.<br /><br />\nVariablen werden in Kotlin in zwei Arten unterteilt. `val` beschreibt eine schreibgeschützte Variable, während eine `var`-Variable beliebig oft verändert werden kann. Der Datentyp kann mit `:` getrennt nach dem Variablennamen angegeben werden, kann aber bei einer direkten Wertzuweisung weggelassen werden. Dann wird implizit vom Kompiler ein Datentyp zugewiesen. Aktuell kann kein bekannter Datentyp den Wert `null` annehmen. Eine Konstante besitzt den Typ `val` und wird `const`  vorangestellt. Syntax von Variablen:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nKotlin unterscheidet nicht zwischen primitiven und komplexen (Klassen) Datentypen. Alle Datentypen besitzen eine Klasse und werden somit groß geschrieben. Zusätzlich zu den bereits bekannten Datentypen aus Java kommen `Any`, `Nothing` und `Unit` dazu. `Any` beschreibt den Super-Typ, während `Nothing` der Sub-Typ aller Datentypen ist. `Unit` kommt bei Methoden zum Einsatz, die in Java den Rückgabetyp `void` besitzen. Er gibt an, dass nichts interessantes zurückgegeben wird.<br />\nVergleiche finden standardmäßig auf der Inhaltsebene statt. Mit `===` kann ein Vergleich auf der Referenzebene angestellt werden.<br /><br />\nMethoden besitzen in Kotlin folgenden Syntax:<br />\nFunktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"<br />\nParameter -> Name \":\" Datentyp [\"=\" defaukt-Wert] {\",\" Parameter}<br />\nParametern kann ein default-Wert zugewiesen werden, der Anwendung findet, wenn dieser Parameter nicht ünergeben wird. Ansonsten wird der default-Wert des Datentyps angewendet. Parameter können außerdem mit ihrem Namen übergeben werden.<br />\nFalls ein Rückgabetyp vorhanden ist, muss ein Element dieses Typs zurückgegeben werden. Das Zurückgeben mehrerer Elemente ist nicht möglich. Falls nichts zurückgegeben werden soll, wird `Unit` als Rückgabetyp angegeben oder dieser komplett weggelassen. Terminiert die Methode nie oder wirft immer einen Fehler ist `Nothing` als Rückgabetyp zu präferieren.<br />\nFalls die Methode kurz ist, kann die Kurzschreibweise angewendet werden. Dabei wird der Rückgabetyp implizit vom Kompiler bestimmt.<br /><br />\nDie Kontrollstrukturen in Kotlin ähneln den in Java. <br />\nWird bei einer `if`-Verzweigung in allen Fällen ein Wert zurückgegeben, kann das `return` vor das `if` geschrieben und in den Fällen weggelassen werden.<br />\nDie `when`-Verzweigung ist ähnlich zu `switch-case` in Java und ist bei Verzweigungen mit mehr als zwei Fällen zu bevorzugen. Es wird im vergleich zu `switch` das Schlüsselwort im Kopf mit `when` ausgetauscht. Jeder Fall wird in eine rechte und eine linke Seite aufgeteilt. Während links ein Vergleichswert oder ein Wahrheitsausdruck zu finden ist, wird rechts die Folge in Form einer Anweisung hingeschrieben. Wenn ein Anweisungsblock ausgeführt wurde, wird der `when`-Block verlassen und nicht weiter ausgeführt.<br />\nDie `for`-Schleife iteriert über Bereiche. Diese werden durch einen Start- und Endpunkt definiert getrennt von `..`. Die von Kotlin bereitgestellten Bereiche sind von den Typen `Int`, `Long` und `Char`. Soll ein Bereich absteigend sein, muss statt `..` `downTo` verwendet werden. Bei einem Bereich mit dem Schlüsselwort `until` ist der Endwert explizit. Nach dem Endwert kann noch ein `step` mit anschließender Schrittweite angegeben werden.<br />\nDie normale Iteration über einen Bereich wird mit dem Schlüsselwort `in` herbeigeführt. Ebenso kann aber mit diesem auch über eine Datenstruktur (zum Beispiel eine Liste) iteriert werden. In diesem Fall wird in der Laufvariable das Element der Liste gespeichert. Dieses kann nicht verändert werden. Hängt man der Liste `withIndex()` an, so wird ein Paar aus Index und Element bei jedem Durchlauf belegt.<br />\nSoll eine bestimmte Schleife beendet werden, kann dies mit dem Schlüsselwort `break` passieren. Diesem wird getrennt mit einem `@` der Name der Schleife angegeben. Zuvor muss dieser Name dieser aber zugewiesen werden. Dies erfolgt mit name`@` vor dem Schleifenkopf.<br />\nEine weitere Schleife ist die `while`-Schleife. Diese ist identisch zu der Umsetzung in Java. Außerdem wird ebenfalls die `do-while`-Schleife unterstützt.<br />\nFür einfache Zwecke ist die `repeat`-Schleife vorteilhaft. Dieser wird als Parameter ein positiver `Int`-Wert übergeben, bis zu dem von 0 aus iteriert wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden.<br /><br />\nAbgesehen von den normalen, statischen Top-Level-Methoden, die nur mit dem Schlüsselwort `fun` eingeleitet werden, gibt es noch einiger weitere Methodentypen.<br />\n**Erweiterungsmethoden** können Klassen weitere objektmethodenähnliche Methoden hinzufügen. Dies findet vor Allem bei bestehenden Klassen, zum Beispiel aus einer Bibliothek, Anwendung. Der Kopf einer Erweiterungsmethode besitzt folgenden Syntax:<br />\n>Erweiterungsmethode -> \"fun \" Datentyp \".\" Name \"(\" Parameter \")\" \n\nObjektmethoden einer Klasse überlagern jedoch immer die Erweiterungsmethoden. In der Methode kann mit dem Schlüsselwort `this` auf das Objekt, auf dem die Methode ausgeführt wird, zugegriffen werden. Aufgerufen werden die Erweiterungsmethoden genauso wie Objektmethoden.<br />\nEine weitere Methodenart sind die sogenannten **`infix`-Methoden**. Das besondere an ihnen ist, dass anstelle eines Methodenaufrufs ein Schlüsselwort, der Name der Methode, benutzt wird, das auf die Methode verweist. Meist sind dabei zwei Objekte involviert, die durch das Schlüsselwort getrennt werden. Im Hintergrund wird die Methode auf dem ersten Objekt aufgerufen. Das Zweite wird der Methode übergeben. Ein gängiges Beispiel ist die Methode `util()`. Der Aufruf `0 until 10` wird im Hintergrund zu `0.until(10)`. Der Syntax des Kopfes einer `infix`-Methode ist:\n>infix-Methode -> \"infix fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\nWährend auf den ersten Parameter wieder mit `this` zugegriffen werden kann, muss dem Zweiten ein Name zugewiesen werden.<br />\nDie letzte Art der Methode in dieser Lektion wird leicht mit den `infix`-Methoden verwechselt, sind jedoch von einer anderen Natur. Ein Beispiel für diese Art ist die Addition `+`. In einer Anweisung wird das Symbol wie eine `infix`-Mehthode behandelt, jedoch gibt es keine Methode mit dem Namen `+`. Deswegen wird diese Klasse der Methoden **`operator`-Methoden** genannt. Sie bilden einen Operator, der in einer `infix`-Form verwendet werden kann, auf vordefinierte Methoden ab. Bei einer Addition wird beispielsweise die Methode `a.plus(b)` aufgerufen, bei `!a` hingegen `a.not()`. Es können keine neuen `operator`-Methoden implemenitert werden, jedoch eigene Klassen mit diesen ausgestattet werden. Der Syntax des Methodenkopf sieht folgendermaßen aus:\n>operator-Methode -> \"operator fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\nEin weiteres wichtiges Themenfeld sind Datenstrukturen.<br />\nEine bekannte, aber rudimentäre, Datenstruktur ist das **Array**.  Sie zeichnet sich dadurch aus, dass die Länge des Elementspeichers bei Initialisierung festgesetzt wird. Dies kann entweder implizit geschehen, indem das Array mit Elementen durch `arrayOf()`, oder expilizit, wenn ein leeres Array mit dem Konstruktor `Array(Länge) {Standardwert}` erzeugt wird. Auf das n-te Element eines Arrays `array` kann mit `array[n]` und die Länge mit `array.size` zugegriffen werden. Mehrdimensionale Arrays sind ineinader geschachtelte Arrays.<br />\nDie beliebeste Datenstruktur ist die **Liste**. Diese lässt sich in Kotlin in zwei Arten aufsplitten: `List` beschreibt eine unveränderbare, `MutableList` eine veränderbare Liste. Beide speichern nur Elemente eines Datentyps. Erzeugt könne diese mit dem Schlüsselwort `listOf` oder `mutableListOf`. Des Weiteren ist eine Initialisierung mit dem Konstruktoraufruf möglich (analog zum Array): `List(Länge) {Standardwert}`. Soll eine leere Liste erzeugt werden, muss zusätzlich der Datentyp angegeben werden: `listOf<Datentyp>()` oder `mutableListOf<Datentyp>()`.<br />\nSoll auf ein Element an Index `n` einer Liste zugegriffen werden, kann entweder der bereits bekannte Syntax eines Arrays angewendet werden (`liste[n]`) oder die `get(n)`-Methode benutzt werden. Auf die Länge kann mit `size` zugegriffen werden. Soll eine veränderbare Liste mit einem bestimmten Wert gefüllt werden, findet die Methode `fill()` Anwendung. `clear()` hingegen leert die Liste. Um ein Element zu einer Liste hinzuzufügen, ist die `add`-Methode zu verwenden. Ist nur das Element angegeben, wird es hinten angestellt. Wird zusätzlich ein Index übergeben, wird das Element dort eingefügt. Kotlin bietet zusätzlich zu dem einfachen `add()` mit `+=` eine Kurzschreibweise. Mit `remove()` kann ein übergebenes Element aus der Liste gelöscht werden. Soll jedoch das Element an Index `n` entfernt werden, ist die Methode `removeAt(n)` zu verwenden.<br />\nAuf eine Teilliste kann mit `subList(von, bis)` zugegriffen werden. Soll geprüft werden, ob ein Element in einer Liste vorhanden ist, kann dies mit `in` bewerkstelligt werden. Soll anstelle eines Wahrheitswertes der Index des Elements zurückgegeben werden, liefert diesen `indexOf()`. Ein weitere wichtige Methode ist `random()`. Diese liefert ein zufälliges Element aus einer Liste oder auch einem Bereich.<br />\nEine Vereinfachung der Liste ist das **Set**. Die listenähnliche Datenstruktur verzichtet auf Doppelungen und Ordnung und stellt eine Menge dar. Während ein veränderbares Set von der Klasse `MutableSet` ist und mit `mutableSetOf()` erzeugt werden kann, ist ein unveränderbares Set von der Klasse `Set` und wird mit `setOf()` initialisiert.<br />\nAuf Sets können klassische Mengenoperationen angewendet werden. Eine Vereinignung ist mit `union` oder `+` möglich, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten.<br />\nEine Liste auf Paaren beschreibt die Datenstruktur **Map**. Bei dieser wird jedem Wert ein Schlüssel zugeordnet, mit dem auf diesen wie beim Array oder der Liste zugegriffen werden kann. Bei der Initialsierung werden diese mit einem `to` getrennt. Während bei einer `Map` die Erzeugung mit `mapOf()` stattfindet und keine Änderungen vorgenommen werden können, initialisiert `mutableMapOf()` eine veränderbare Map der Klasse `MutableMap`. Ein Paar kann einer `MutableMap` mit `put()` hinzugefügt und mit `remove()` gelöscht werden."
+    },
+    {
+     "start_checkpoint": 1618239470410,
+     "parent": "n.0.102",
+     "markdown": "## Zusammenfassung\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf ihre Umsetzung in Java genommen.<br/><br />\nDie `main`-Methode wird standardmäßig beim Ausfüühren eines Programms aufgerufen und kann mit (`fun main(args: Array) { ... }`) oder ohne (`fun main() { ... }`) Kommandizeilenargumente aufgerufen werden.<br />\nEine Variable oder ein Ausdruck kann mit `$` beziehungsweise `${ ... }` in einen `String` eingebaut werden.<br /><br />\nVariablen werden in Kotlin in zwei Arten unterteilt. `val` beschreibt eine schreibgeschützte Variable, während eine `var`-Variable beliebig oft verändert werden kann. Der Datentyp kann mit `:` getrennt nach dem Variablennamen angegeben werden, kann aber bei einer direkten Wertzuweisung weggelassen werden. Dann wird implizit vom Kompiler ein Datentyp zugewiesen. Aktuell kann kein bekannter Datentyp den Wert `null` annehmen. Eine Konstante besitzt den Typ `val` und wird `const`  vorangestellt. Syntax von Variablen:<br />\n>Variable -> \"var\" name \":\" Datentyp.<br />\nVariable -> [const] (\"var\"|\"val\") name [\":\" Datentyp] \"=\" Wert.<br />\n\nKotlin unterscheidet nicht zwischen primitiven und komplexen (Klassen) Datentypen. Alle Datentypen besitzen eine Klasse und werden somit groß geschrieben. Zusätzlich zu den bereits bekannten Datentypen aus Java kommen `Any`, `Nothing` und `Unit` dazu. `Any` beschreibt den Super-Typ, während `Nothing` der Sub-Typ aller Datentypen ist. `Unit` kommt bei Methoden zum Einsatz, die in Java den Rückgabetyp `void` besitzen. Er gibt an, dass nichts interessantes zurückgegeben wird.<br />\nVergleiche finden standardmäßig auf der Inhaltsebene statt. Mit `===` kann ein Vergleich auf der Referenzebene angestellt werden.<br /><br />\nMethoden besitzen in Kotlin folgenden Syntax:<br />\nFunktion -> \"fun\" name \"(\" Parameter \")\" [\":\" Rückgabetyp] \"{\" ... \"}\"<br />\nParameter -> Name \":\" Datentyp [\"=\" defaukt-Wert] {\",\" Parameter}<br />\nParametern kann ein default-Wert zugewiesen werden, der Anwendung findet, wenn dieser Parameter nicht ünergeben wird. Ansonsten wird der default-Wert des Datentyps angewendet. Parameter können außerdem mit ihrem Namen übergeben werden.<br />\nFalls ein Rückgabetyp vorhanden ist, muss ein Element dieses Typs zurückgegeben werden. Das Zurückgeben mehrerer Elemente ist nicht möglich. Falls nichts zurückgegeben werden soll, wird `Unit` als Rückgabetyp angegeben oder dieser komplett weggelassen. Terminiert die Methode nie oder wirft immer einen Fehler ist `Nothing` als Rückgabetyp zu präferieren.<br />\nFalls die Methode kurz ist, kann die Kurzschreibweise angewendet werden. Dabei wird der Rückgabetyp implizit vom Kompiler bestimmt.<br /><br />\nDie Kontrollstrukturen in Kotlin ähneln den in Java. <br />\nWird bei einer `if`-Verzweigung in allen Fällen ein Wert zurückgegeben, kann das `return` vor das `if` geschrieben und in den Fällen weggelassen werden.<br />\nDie `when`-Verzweigung ist ähnlich zu `switch-case` in Java und ist bei Verzweigungen mit mehr als zwei Fällen zu bevorzugen. Es wird im vergleich zu `switch` das Schlüsselwort im Kopf mit `when` ausgetauscht. Jeder Fall wird in eine rechte und eine linke Seite aufgeteilt. Während links ein Vergleichswert oder ein Wahrheitsausdruck zu finden ist, wird rechts die Folge in Form einer Anweisung hingeschrieben. Wenn ein Anweisungsblock ausgeführt wurde, wird der `when`-Block verlassen und nicht weiter ausgeführt.<br />\nDie `for`-Schleife iteriert über Bereiche. Diese werden durch einen Start- und Endpunkt definiert getrennt von `..`. Die von Kotlin bereitgestellten Bereiche sind von den Typen `Int`, `Long` und `Char`. Soll ein Bereich absteigend sein, muss statt `..` `downTo` verwendet werden. Bei einem Bereich mit dem Schlüsselwort `until` ist der Endwert explizit. Nach dem Endwert kann noch ein `step` mit anschließender Schrittweite angegeben werden.<br />\nDie normale Iteration über einen Bereich wird mit dem Schlüsselwort `in` herbeigeführt. Ebenso kann aber mit diesem auch über eine Datenstruktur (zum Beispiel eine Liste) iteriert werden. In diesem Fall wird in der Laufvariable das Element der Liste gespeichert. Dieses kann nicht verändert werden. Hängt man der Liste `withIndex()` an, so wird ein Paar aus Index und Element bei jedem Durchlauf belegt.<br />\nSoll eine bestimmte Schleife beendet werden, kann dies mit dem Schlüsselwort `break` passieren. Diesem wird getrennt mit einem `@` der Name der Schleife angegeben. Zuvor muss dieser Name dieser aber zugewiesen werden. Dies erfolgt mit name`@` vor dem Schleifenkopf.<br />\nEine weitere Schleife ist die `while`-Schleife. Diese ist identisch zu der Umsetzung in Java. Außerdem wird ebenfalls die `do-while`-Schleife unterstützt.<br />\nFür einfache Zwecke ist die `repeat`-Schleife vorteilhaft. Dieser wird als Parameter ein positiver `Int`-Wert übergeben, bis zu dem von 0 aus iteriert wird. In der Schleife kann auf die aktuelle Durchlaufzahl mit `it` zugegriffen werden.<br /><br />\nAbgesehen von den normalen, statischen Top-Level-Methoden, die nur mit dem Schlüsselwort `fun` eingeleitet werden, gibt es noch einiger weitere Methodentypen.<br />\n**Erweiterungsmethoden** können Klassen weitere objektmethodenähnliche Methoden hinzufügen. Dies findet vor Allem bei bestehenden Klassen, zum Beispiel aus einer Bibliothek, Anwendung. Der Kopf einer Erweiterungsmethode besitzt folgenden Syntax:<br />\n>Erweiterungsmethode -> \"fun \" Datentyp \".\" Name \"(\" Parameter \")\" \n\nObjektmethoden einer Klasse überlagern jedoch immer die Erweiterungsmethoden. In der Methode kann mit dem Schlüsselwort `this` auf das Objekt, auf dem die Methode ausgeführt wird, zugegriffen werden. Aufgerufen werden die Erweiterungsmethoden genauso wie Objektmethoden.<br />\nEine weitere Methodenart sind die sogenannten **`infix`-Methoden**. Das besondere an ihnen ist, dass anstelle eines Methodenaufrufs ein Schlüsselwort, der Name der Methode, benutzt wird, das auf die Methode verweist. Meist sind dabei zwei Objekte involviert, die durch das Schlüsselwort getrennt werden. Im Hintergrund wird die Methode auf dem ersten Objekt aufgerufen. Das Zweite wird der Methode übergeben. Ein gängiges Beispiel ist die Methode `util()`. Der Aufruf `0 until 10` wird im Hintergrund zu `0.until(10)`. Der Syntax des Kopfes einer `infix`-Methode ist:\n>infix-Methode -> \"infix fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\nWährend auf den ersten Parameter wieder mit `this` zugegriffen werden kann, muss dem Zweiten ein Name zugewiesen werden.<br />\nDie letzte Art der Methode in dieser Lektion wird leicht mit den `infix`-Methoden verwechselt, sind jedoch von einer anderen Natur. Ein Beispiel für diese Art ist die Addition `+`. In einer Anweisung wird das Symbol wie eine `infix`-Mehthode behandelt, jedoch gibt es keine Methode mit dem Namen `+`. Deswegen wird diese Klasse der Methoden **`operator`-Methoden** genannt. Sie bilden einen Operator, der in einer `infix`-Form verwendet werden kann, auf vordefinierte Methoden ab. Bei einer Addition wird beispielsweise die Methode `a.plus(b)` aufgerufen, bei `!a` hingegen `a.not()`. Es können keine neuen `operator`-Methoden implemenitert werden, jedoch eigene Klassen mit diesen ausgestattet werden. Der Syntax des Methodenkopf sieht folgendermaßen aus:\n>operator-Methode -> \"operator fun\" Datentyp \".\" Name \"(\" Parameter \")\"\n\n<br />Ein weiteres wichtiges Themenfeld sind Datenstrukturen.<br />\nEine bekannte, aber rudimentäre, Datenstruktur ist das **Array**.  Sie zeichnet sich dadurch aus, dass die Länge des Elementspeichers bei Initialisierung festgesetzt wird. Dies kann entweder implizit geschehen, indem das Array mit Elementen durch `arrayOf()`, oder expilizit, wenn ein leeres Array mit dem Konstruktor `Array(Länge) {Standardwert}` erzeugt wird. Auf das n-te Element eines Arrays `array` kann mit `array[n]` und die Länge mit `array.size` zugegriffen werden. Mehrdimensionale Arrays sind ineinader geschachtelte Arrays.<br />\nDie beliebeste Datenstruktur ist die **Liste**. Diese lässt sich in Kotlin in zwei Arten aufsplitten: `List` beschreibt eine unveränderbare, `MutableList` eine veränderbare Liste. Beide speichern nur Elemente eines Datentyps. Erzeugt könne diese mit dem Schlüsselwort `listOf` oder `mutableListOf`. Des Weiteren ist eine Initialisierung mit dem Konstruktoraufruf möglich (analog zum Array): `List(Länge) {Standardwert}`. Soll eine leere Liste erzeugt werden, muss zusätzlich der Datentyp angegeben werden: `listOf<Datentyp>()` oder `mutableListOf<Datentyp>()`.<br />\nSoll auf ein Element an Index `n` einer Liste zugegriffen werden, kann entweder der bereits bekannte Syntax eines Arrays angewendet werden (`liste[n]`) oder die `get(n)`-Methode benutzt werden. Auf die Länge kann mit `size` zugegriffen werden. Soll eine veränderbare Liste mit einem bestimmten Wert gefüllt werden, findet die Methode `fill()` Anwendung. `clear()` hingegen leert die Liste. Um ein Element zu einer Liste hinzuzufügen, ist die `add`-Methode zu verwenden. Ist nur das Element angegeben, wird es hinten angestellt. Wird zusätzlich ein Index übergeben, wird das Element dort eingefügt. Kotlin bietet zusätzlich zu dem einfachen `add()` mit `+=` eine Kurzschreibweise. Mit `remove()` kann ein übergebenes Element aus der Liste gelöscht werden. Soll jedoch das Element an Index `n` entfernt werden, ist die Methode `removeAt(n)` zu verwenden.<br />\nAuf eine Teilliste kann mit `subList(von, bis)` zugegriffen werden. Soll geprüft werden, ob ein Element in einer Liste vorhanden ist, kann dies mit `in` bewerkstelligt werden. Soll anstelle eines Wahrheitswertes der Index des Elements zurückgegeben werden, liefert diesen `indexOf()`. Ein weitere wichtige Methode ist `random()`. Diese liefert ein zufälliges Element aus einer Liste oder auch einem Bereich.<br />\nEine Vereinfachung der Liste ist das **Set**. Die listenähnliche Datenstruktur verzichtet auf Doppelungen und Ordnung und stellt eine Menge dar. Während ein veränderbares Set von der Klasse `MutableSet` ist und mit `mutableSetOf()` erzeugt werden kann, ist ein unveränderbares Set von der Klasse `Set` und wird mit `setOf()` initialisiert.<br />\nAuf Sets können klassische Mengenoperationen angewendet werden. Eine Vereinignung ist mit `union` oder `+` möglich, `intersect` gibt eine Schnittmenge zurück und `subtract` entfernt alle Elemente der ersten Menge aus der Zweiten.<br />\nEine Liste auf Paaren beschreibt die Datenstruktur **Map**. Bei dieser wird jedem Wert ein Schlüssel zugeordnet, mit dem auf diesen wie beim Array oder der Liste zugegriffen werden kann. Bei der Initialsierung werden diese mit einem `to` getrennt. Während bei einer `Map` die Erzeugung mit `mapOf()` stattfindet und keine Änderungen vorgenommen werden können, initialisiert `mutableMapOf()` eine veränderbare Map der Klasse `MutableMap`. Ein Paar kann einer `MutableMap` mit `put()` hinzugefügt und mit `remove()` gelöscht werden."
     }
    ]
   },
@@ -17909,7 +19236,7 @@
    "versions": [
     {
      "start_checkpoint": 1617617991364,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "### Typumwandlung\nDatentypen können mit dem Schlüsselwort `as` umgewandelt werden. Dabei ist zu beachten, dass der Wert der Variable bereits für den neuen Datentyp gültig sein muss. Deswegen ist eine vorherige Prüfung mit `is` (in Java `instanceof`) empfohlen. Eine Umwandlung von `Int` zu `Float` ist somit nicht möglich. In diesem Fall würde die Methode `toFloat()` Anwendung finden. Umwandlungen in andere Datentypen erfolgen analog."
     }
    ]
@@ -17919,8 +19246,28 @@
    "versions": [
     {
      "start_checkpoint": 1617617991364,
-     "parent": "n.0.95",
+     "parent": "n.0.102",
      "markdown": "Die Typumwandlung mit `as` kann aber auch noch vereinfacht werden. Da nach einer wahren `is`-Prüfung klar ist, dass die Variable diesen Typ besitzt, wandelt der Kompiler diese in den Typ \"smart\" um."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.198",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018172,
+     "parent": "n.0.102",
+     "markdown": "### Paar TODO"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.199",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018172,
+     "parent": "n.0.102",
+     "markdown": "#### Aufgabe TODO\nIn dieser Aufgabe sollen verschiedenen \"Mandalas\" gezeichnet werden.\n"
     }
    ]
   }
@@ -20820,6 +22167,54 @@
        "name": "stdout",
        "output_type": "stream",
        "text": "Typ von v1: Double\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.178",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018172,
+     "parent": "c.286.0",
+     "raw": [
+      {
+       "name": "stderr",
+       "output_type": "stream",
+       "text": "Line_20.jupyter.kts (19:9 - 12) Variable 'res' is never used\nLine_20.jupyter.kts (19:51 - 54) The character literal does not conform to the expected type MutableList<Char>\nLine_20.jupyter.kts (19:51 - 54) The character literal does not conform to the expected type MutableList<Char>\nLine_20.jupyter.kts (21:1 - 2) A 'return' expression required in a function with a block body ('{...}')"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.179",
+   "versions": [
+    {
+     "start_checkpoint": 1618400989368,
+     "parent": "c.201.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Hello World OLE.toLowerCase().\nHello World ole.\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.180",
+   "versions": [
+    {
+     "start_checkpoint": 1618400997236,
+     "parent": "c.201.2",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Hello World MAX.toLowerCase().\nHello World max.\n",
+       "output_type": "stream"
       }
      ]
     }

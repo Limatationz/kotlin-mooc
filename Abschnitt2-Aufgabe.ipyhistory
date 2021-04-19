@@ -26,6 +26,450 @@
      "changeType": "added"
     }
    ]
+  },
+  {
+   "timestamp": 1618137940672,
+   "notebook": 1,
+   "targetCells": [
+    {
+     "cell": "c.5.0",
+     "changeType": "added",
+     "index": 0
+    },
+    {
+     "cell": "m.0.0",
+     "changeType": "added",
+     "index": 1
+    },
+    {
+     "cell": "m.1.0",
+     "changeType": "added",
+     "index": 2
+    },
+    {
+     "cell": "c.6.0",
+     "changeType": "added",
+     "index": 3
+    },
+    {
+     "cell": "m.2.0",
+     "changeType": "added",
+     "index": 4
+    },
+    {
+     "cell": "c.7.0",
+     "changeType": "added",
+     "index": 5
+    },
+    {
+     "cell": "c.8.0",
+     "changeType": "added",
+     "index": 6
+    },
+    {
+     "cell": "m.3.0",
+     "changeType": "added",
+     "index": 7
+    },
+    {
+     "cell": "c.9.0",
+     "changeType": "added",
+     "index": 8
+    },
+    {
+     "cell": "c.10.0",
+     "changeType": "added",
+     "index": 9
+    },
+    {
+     "cell": "m.4.0",
+     "changeType": "added",
+     "index": 10
+    },
+    {
+     "cell": "c.11.0",
+     "changeType": "added",
+     "index": 11
+    },
+    {
+     "cell": "c.12.0",
+     "changeType": "added",
+     "index": 12
+    },
+    {
+     "cell": "c.13.0",
+     "changeType": "added",
+     "index": 13
+    }
+   ]
+  },
+  {
+   "timestamp": 1618138113468,
+   "notebook": 2,
+   "targetCells": [
+    {
+     "cell": "c.7.0",
+     "changeType": "output changed",
+     "output": [
+      "o.0.1"
+     ],
+     "index": 5
+    },
+    {
+     "cell": "c.9.0",
+     "changeType": "output changed",
+     "output": [
+      "o.5.0"
+     ],
+     "index": 8
+    },
+    {
+     "cell": "c.6.1",
+     "changeType": "edited",
+     "output": [],
+     "index": 3
+    }
+   ]
+  },
+  {
+   "timestamp": 1618138412404,
+   "notebook": 3,
+   "targetCells": [
+    {
+     "cell": "c.6.2",
+     "changeType": "edited",
+     "output": [
+      "o.6.0"
+     ],
+     "index": 3
+    }
+   ]
+  },
+  {
+   "timestamp": 1618138506191,
+   "notebook": 4,
+   "targetCells": [
+    {
+     "cell": "c.14.0",
+     "changeType": "added",
+     "index": 12
+    },
+    {
+     "cell": "c.15.0",
+     "changeType": "added",
+     "index": 13
+    },
+    {
+     "cell": "c.6.2",
+     "changeType": "output changed",
+     "output": [
+      "o.6.1"
+     ],
+     "index": 3
+    }
+   ]
+  },
+  {
+   "timestamp": 1618138522388,
+   "notebook": 5,
+   "targetCells": [
+    {
+     "cell": "c.6.3",
+     "changeType": "edited",
+     "output": [],
+     "index": 3
+    },
+    {
+     "cell": "m.4.1",
+     "changeType": "edited",
+     "index": 10
+    },
+    {
+     "cell": "c.14.1",
+     "changeType": "edited",
+     "output": [
+      "o.8.0"
+     ],
+     "index": 12
+    }
+   ]
+  },
+  {
+   "timestamp": 1618221549476,
+   "notebook": 6,
+   "targetCells": [
+    {
+     "cell": "c.16.0",
+     "changeType": "added",
+     "index": 3
+    },
+    {
+     "cell": "c.17.0",
+     "changeType": "added",
+     "index": 7
+    },
+    {
+     "cell": "m.5.0",
+     "changeType": "added",
+     "index": 11
+    },
+    {
+     "cell": "c.18.0",
+     "changeType": "added",
+     "index": 12
+    },
+    {
+     "cell": "c.19.0",
+     "changeType": "added",
+     "index": 13
+    },
+    {
+     "cell": "m.6.0",
+     "changeType": "added",
+     "index": 14
+    },
+    {
+     "cell": "c.20.0",
+     "changeType": "added",
+     "index": 15
+    },
+    {
+     "cell": "c.21.0",
+     "changeType": "added",
+     "index": 16
+    },
+    {
+     "cell": "c.22.0",
+     "changeType": "added",
+     "index": 17
+    },
+    {
+     "cell": "m.7.0",
+     "changeType": "added",
+     "index": 18
+    },
+    {
+     "cell": "c.23.0",
+     "changeType": "added",
+     "index": 19
+    },
+    {
+     "cell": "c.24.0",
+     "changeType": "added",
+     "index": 20
+    },
+    {
+     "cell": "m.8.0",
+     "changeType": "added",
+     "index": 21
+    },
+    {
+     "cell": "c.25.0",
+     "changeType": "added",
+     "index": 22
+    },
+    {
+     "cell": "c.26.0",
+     "changeType": "added",
+     "index": 23
+    },
+    {
+     "cell": "c.7.0",
+     "changeType": "output changed",
+     "output": [
+      "o.0.2"
+     ],
+     "index": 5
+    },
+    {
+     "cell": "c.8.0",
+     "changeType": "output changed",
+     "output": [
+      "o.1.1"
+     ],
+     "index": 6
+    },
+    {
+     "cell": "c.10.0",
+     "changeType": "output changed",
+     "output": [
+      "o.2.1"
+     ],
+     "index": 10
+    }
+   ]
+  },
+  {
+   "timestamp": 1618221758937,
+   "notebook": 7,
+   "targetCells": [
+    {
+     "cell": "c.25.1",
+     "changeType": "edited",
+     "output": [
+      "o.18.0"
+     ],
+     "index": 22
+    }
+   ]
+  },
+  {
+   "timestamp": 1618222410403,
+   "notebook": 8,
+   "targetCells": [
+    {
+     "cell": "c.27.0",
+     "changeType": "added",
+     "index": 22
+    },
+    {
+     "cell": "m.7.1",
+     "changeType": "edited",
+     "index": 18
+    }
+   ]
+  },
+  {
+   "timestamp": 1618222821786,
+   "notebook": 9,
+   "targetCells": [
+    {
+     "cell": "c.24.1",
+     "changeType": "edited",
+     "output": [
+      "o.19.0"
+     ],
+     "index": 20
+    },
+    {
+     "cell": "c.23.1",
+     "changeType": "edited",
+     "output": [
+      "o.20.0"
+     ],
+     "index": 19
+    }
+   ]
+  },
+  {
+   "timestamp": 1618222953906,
+   "notebook": 10,
+   "targetCells": [
+    {
+     "cell": "c.23.2",
+     "changeType": "edited",
+     "output": [
+      "o.21.0"
+     ],
+     "index": 19
+    }
+   ]
+  },
+  {
+   "timestamp": 1618222958981,
+   "notebook": 11,
+   "targetCells": [
+    {
+     "cell": "c.23.3",
+     "changeType": "edited",
+     "output": [],
+     "index": 19
+    }
+   ]
+  },
+  {
+   "timestamp": 1618222967229,
+   "notebook": 12,
+   "targetCells": [
+    {
+     "cell": "c.28.0",
+     "changeType": "added",
+     "index": 19
+    }
+   ]
+  },
+  {
+   "timestamp": 1618401690078,
+   "notebook": 13,
+   "targetCells": [
+    {
+     "cell": "c.29.0",
+     "changeType": "added",
+     "index": 19
+    },
+    {
+     "cell": "c.30.0",
+     "changeType": "added",
+     "index": 21
+    },
+    {
+     "cell": "c.31.0",
+     "changeType": "added",
+     "index": 23
+    },
+    {
+     "cell": "c.32.0",
+     "changeType": "added",
+     "index": 25
+    },
+    {
+     "cell": "c.23.3",
+     "changeType": "output changed",
+     "output": [
+      "o.23.0"
+     ],
+     "index": 20
+    }
+   ]
+  },
+  {
+   "timestamp": 1618565222576,
+   "notebook": 14,
+   "targetCells": [
+    {
+     "cell": "c.33.0",
+     "changeType": "added",
+     "index": 25
+    }
+   ]
+  },
+  {
+   "timestamp": 1618567892364,
+   "notebook": 15,
+   "targetCells": [
+    {
+     "cell": "c.16.1",
+     "changeType": "edited",
+     "output": [],
+     "index": 3
+    },
+    {
+     "cell": "c.7.0",
+     "changeType": "output changed",
+     "output": [
+      "o.0.3"
+     ],
+     "index": 5
+    },
+    {
+     "cell": "c.8.0",
+     "changeType": "output changed",
+     "output": [
+      "o.1.2"
+     ],
+     "index": 6
+    },
+    {
+     "cell": "m.1.0",
+     "changeType": "removed",
+     "index": 2
+    },
+    {
+     "cell": "m.0.1",
+     "changeType": "edited",
+     "index": 1
+    }
+   ]
   }
  ],
  "notebook": {
@@ -39,6 +483,402 @@
      "c.2.0",
      "c.3.0",
      "c.4.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618137940672,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.6.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.4.0",
+     "c.11.0",
+     "c.12.0",
+     "c.13.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618138113468,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.6.1",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.4.0",
+     "c.11.0",
+     "c.12.0",
+     "c.13.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618138412404,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.6.2",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.4.0",
+     "c.11.0",
+     "c.12.0",
+     "c.13.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618138506191,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.6.2",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.4.0",
+     "c.11.0",
+     "c.14.0",
+     "c.15.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618138522388,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.6.3",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.4.1",
+     "c.11.0",
+     "c.14.1",
+     "c.15.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618221549476,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.0",
+     "c.23.0",
+     "c.24.0",
+     "m.8.0",
+     "c.25.0",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618221758937,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.0",
+     "c.23.0",
+     "c.24.0",
+     "m.8.0",
+     "c.25.1",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618222410403,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.23.0",
+     "c.24.0",
+     "m.8.0",
+     "c.27.0",
+     "c.25.1",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618222821786,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.23.1",
+     "c.24.1",
+     "m.8.0",
+     "c.27.0",
+     "c.25.1",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618222953906,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.23.2",
+     "c.24.1",
+     "m.8.0",
+     "c.27.0",
+     "c.25.1",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618222958981,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.23.3",
+     "c.24.1",
+     "m.8.0",
+     "c.27.0",
+     "c.25.1",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618222967229,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.28.0",
+     "c.23.3",
+     "c.24.1",
+     "m.8.0",
+     "c.27.0",
+     "c.25.1",
+     "c.26.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618401690078,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.29.0",
+     "c.23.3",
+     "c.30.0",
+     "m.8.0",
+     "c.31.0",
+     "c.25.1",
+     "c.32.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618565222576,
+    "cells": [
+     "c.5.0",
+     "m.0.0",
+     "m.1.0",
+     "c.16.0",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.29.0",
+     "c.23.3",
+     "c.30.0",
+     "m.8.0",
+     "c.31.0",
+     "c.25.1",
+     "c.33.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1618567892364,
+    "cells": [
+     "c.5.0",
+     "m.0.1",
+     "c.16.1",
+     "m.2.0",
+     "c.7.0",
+     "c.8.0",
+     "c.17.0",
+     "m.3.0",
+     "c.9.0",
+     "c.10.0",
+     "m.5.0",
+     "c.18.0",
+     "c.19.0",
+     "m.6.0",
+     "c.20.0",
+     "c.21.0",
+     "c.22.0",
+     "m.7.1",
+     "c.29.0",
+     "c.23.3",
+     "c.30.0",
+     "m.8.0",
+     "c.31.0",
+     "c.25.1",
+     "c.33.0"
     ]
    }
   ]
@@ -133,10 +973,1269 @@
      }
     }
    ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.5",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "literal": "%use krangl",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 0,
+      "ch": 10
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "2": "o.6"
+   },
+   "artifact_name": "c.6",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.1",
+     "literal": "val dataUrl = \"https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv\" //URL zur Raw-Datei der Daten\nval dataRaw = DataFrame.readCSV(dataUrl) //Liest die csv-Datei und wandelt sie in einen DataFrame um\nval data = dataRaw.filterByRow { \n    (!(it[\"metric\"]as String).contains(\"erst\") && !(it[\"metric\"]as String).contains(\"voll\") && !(it[\"metric\"]as String).contains(\"impfstelle\")) || it[\"metric\"] == \"personen_erst_kumulativ\" || it[\"metric\"] == \"personen_zweit_kumulativ\"\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 4,
+      "ch": 0
+     }
+    },
+    {
+     "start_checkpoint": 1618138113468,
+     "parent": "n.0.2",
+     "literal": "//val dataUrl = \"https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv\" //URL zur Raw-Datei der Daten\nval path = System.getProperty(\"user.dir\")\nval dataUrl = path + \"/data/impfzahlen_10_4_21.csv\"\nval dataRaw = DataFrame.readCSV(dataUrl) //Liest die csv-Datei und wandelt sie in einen DataFrame um\n//val data = dataRaw.filterByRow { \n//    (!(it[\"metric\"]as String).contains(\"erst\") && !(it[\"metric\"]as String).contains(\"voll\") && !(it[\"metric\"]as String).contains(\"impfstelle\")) || it[\"metric\"] == \"personen_erst_kumulativ\" || it[\"metric\"] == \"personen_zweit_kumulativ\"\n//}"
+    },
+    {
+     "start_checkpoint": 1618138412404,
+     "parent": "n.0.4",
+     "literal": "//val dataUrl = \"https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv\" //URL zur Raw-Datei der Daten\nval path = System.getProperty(\"user.dir\")\nval dataUrl = path + \"/data/impfzahlen_10_4_21.csv\"\nval dataRaw = DataFrame.readCSV(dataUrl) //Liest die csv-Datei und wandelt sie in einen DataFrame um\n//val data = dataRaw.filterByRow { \n//    (!(it[\"metric\"]as String).contains(\"erst\") && !(it[\"metric\"]as String).contains(\"voll\") && !(it[\"metric\"]as String).contains(\"impfstelle\")) || it[\"metric\"] == \"personen_erst_kumulativ\" || it[\"metric\"] == \"personen_zweit_kumulativ\"\n//}\ndataRaw.head()"
+    },
+    {
+     "start_checkpoint": 1618138522388,
+     "parent": "n.0.5",
+     "literal": "//val dataUrl = \"https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv\" //URL zur Raw-Datei der Daten\nval path = System.getProperty(\"user.dir\")\nval dataUrl = path + \"/data/impfzahlen_10_4_21.csv\"\nval dataRaw = DataFrame.readCSV(dataUrl) //Liest die csv-Datei und wandelt sie in einen DataFrame um\nval data = dataRaw.filterByRow { \n    (!(it[\"metric\"]as String).contains(\"erst\") && !(it[\"metric\"]as String).contains(\"voll\") && !(it[\"metric\"]as String).contains(\"impfstelle\")) || it[\"metric\"] == \"personen_erst_kumulativ\" || it[\"metric\"] == \"personen_zweit_kumulativ\"\n}"
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.0"
+   },
+   "artifact_name": "c.7",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "literal": "data.schema()",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 0,
+      "ch": 12
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.1"
+   },
+   "artifact_name": "c.8",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "literal": "data.head(20)",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 0,
+      "ch": 12
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.5"
+   },
+   "artifact_name": "c.9",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "literal": "//TODO\n\nval ergebnis = listOf(\"dosen_kumulativ\", \"personen_erst_kumulativ\", \"dosen_biontech_kumulativ\", \"dosen_moderna_kumulativ\", \"dosen_astrazeneca_kumulativ\", \"indikation_alter_dosen\", \"indikation_beruf_dosen\", \"indikation_medizinisch_dosen\", \"indikation_pflegeheim_dosen\", \"dosen_differenz_zum_vortag\", \"impf_quote_dosen\", \"impf_inzidenz_dosen\", \"dosen_kumulativ_alter_unter60\", \"dosen_kumulativ_alter_60plus\")\nif(data.gibBeschreibungen() == ergebnis)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: \\n$ergebnis\\ndata.gibBeschreibungen(): \\n${data.gibBeschreibungen()}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 6,
+      "ch": 104
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.2"
+   },
+   "artifact_name": "c.10",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "literal": "//Lösung\nfun DataFrame.gibBeschreibungen() = this.rows.groupBy { it[\"metric\"] }.keys.toList()\n\nval ergebnis = listOf(\"dosen_kumulativ\", \"personen_erst_kumulativ\", \"dosen_biontech_kumulativ\", \"dosen_moderna_kumulativ\", \"dosen_astrazeneca_kumulativ\", \"indikation_alter_dosen\", \"indikation_beruf_dosen\", \"indikation_medizinisch_dosen\", \"indikation_pflegeheim_dosen\", \"dosen_differenz_zum_vortag\", \"impf_quote_dosen\", \"impf_inzidenz_dosen\", \"dosen_kumulativ_alter_unter60\", \"dosen_kumulativ_alter_60plus\")\nif(data.gibBeschreibungen() == ergebnis)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: \\n$ergebnis\\ndata.gibBeschreibungen(): \\n${data.gibBeschreibungen()}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 7,
+      "ch": 104
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.3"
+   },
+   "artifact_name": "c.11",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.4",
+     "literal": "//TODO\n\nif (data.gibAnzahlGestern() == 17580596)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: 17580596\\ndata.gibAnzahlGestern(): \\n${data.gibAnzahlGestern()}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 5,
+      "ch": 99
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.4"
+   },
+   "artifact_name": "c.12",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.1",
+     "literal": "//Lösung geht aber bestimmt noch schöner!!\nimport java.time.LocalDateTime\nimport java.time.format.DateTimeFormatter\n\nfun gibDatumGestern(): String{\n    val current = LocalDateTime.now().minusDays(1);\n    val formatter = DateTimeFormatter.ofPattern(\"yyyy-MM-dd\")\n    val datumHeute = current.format(formatter).toString()\n    return datumHeute\n}\n\nfun DataFrame.gibAnzahlGestern(): Int{\n    val datumGestern = gibDatumGestern()\n    val row = data.rows.filter { it[\"date\"] == datumGestern && it[\"metric\"] == \"dosen_kumulativ\" && it[\"region\"] == \"DE\" }\n    return (row[0].get(\"value\") as String).toInt()\n}\n\nif (data.gibAnzahlGestern() == 17580596)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: 17580596\\ndata.gibAnzahlGestern(): \\n${data.gibAnzahlGestern()}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 20,
+      "ch": 99
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.13",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.1",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.7",
+    "1": "o.8"
+   },
+   "artifact_name": "c.14",
+   "versions": [
+    {
+     "start_checkpoint": 1618138506191,
+     "parent": "n.0.4",
+     "literal": "fun DataFrame.gibAnzahlGestern(): Int {\n    val datumGestern = gibDatumGestern()\n    val row = data.rows.filter { it[\"date\"] == datumGestern && it[\"metric\"] == \"dosen_kumulativ\" && it[\"region\"] == \"DE\" }\n    return (row[0].get(\"value\") as String).toInt()\n}\n\nif (data.gibAnzahlGestern() == 17580596)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: 17580596\\ndata.gibAnzahlGestern(): \\n${data.gibAnzahlGestern()}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 9,
+      "ch": 99
+     }
+    },
+    {
+     "start_checkpoint": 1618138522388,
+     "parent": "n.0.5",
+     "literal": "fun DataFrame.gibAnzahlDosen(datum: String): Int {\n    val row = data.rows.filter { it[\"date\"] == datum && it[\"metric\"] == \"dosen_kumulativ\" && it[\"region\"] == \"DE\" }\n    return (row[0].get(\"value\") as String).toInt()\n}\n\nif (data.gibAnzahlDosen(\"2021-04-09\") == 17580596)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: 17580596\\ndata.gibAnzahlDosen(): \\n${data.gibAnzahlDosen(\"2021-04-09\")}\")"
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.15",
+   "versions": [
+    {
+     "start_checkpoint": 1618138506191,
+     "parent": "n.0.4",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.16",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "//val dataUrl = \"https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv\" //URL zur Raw-Datei der Daten\nval path = System.getProperty(\"user.dir\")\nval dataUrl = path + \"/data/impfzahlen_10_4_21.csv\"\nval dataRaw = DataFrame.readCSV(dataUrl) //Liest die csv-Datei und wandelt sie in einen DataFrame um\nval data = dataRaw.filterByRow { \n    (!(it[\"metric\"]as String).contains(\"erst\") && !(it[\"metric\"]as String).contains(\"voll\") && !(it[\"metric\"]as String).contains(\"impfstelle\")) || it[\"metric\"] == \"personen_erst_kumulativ\" || it[\"metric\"] == \"personen_voll_kumulativ\"\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 6,
+      "ch": 0
+     }
+    },
+    {
+     "start_checkpoint": 1618567892364,
+     "parent": "n.0.15",
+     "literal": "//val dataUrl = \"https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv\" //URL zur Raw-Datei der Daten\nval path = System.getProperty(\"user.dir\")\nval dataUrl = path + \"/data/impfzahlenDendenland.csv\"\nval dataRaw = DataFrame.readCSV(dataUrl) //Liest die csv-Datei und wandelt sie in einen DataFrame um\nval data = dataRaw.filterByRow { \n    (!(it[\"metric\"]as String).contains(\"erst\") && !(it[\"metric\"]as String).contains(\"voll\") && !(it[\"metric\"]as String).contains(\"impfstelle\")) || it[\"metric\"] == \"personen_erst_kumulativ\" || it[\"metric\"] == \"personen_voll_kumulativ\"\n}"
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.9"
+   },
+   "artifact_name": "c.17",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "data.filterByRow { it[\"region\"] == \"DE\" && it[\"metric\"] == \"dosen_differenz_zum_vortag\" }",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 0,
+      "ch": 88
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.10"
+   },
+   "artifact_name": "c.18",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "//TODO\n\n\n//Test\nval tests = mapOf(\"2021-04-09\" to 544898, \"2020-12-27\" to 21566, \"2021-01-18\" to 74406)\nfor ((datum, anzahl) in tests){\n    if (data.gibAnzahlDosen(datum, \"DE\") == anzahl)\n        println(\"Richtig!\")\n    else\n        println(\"Falsch! Richtig wäre: $anzahl\\ndata.gibAnzahlDosen($datum): ${data.gibAnzahlDosen(datum, \"DE\")}\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 10,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.11"
+   },
+   "artifact_name": "c.19",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "//Lösung\nfun DataFrame.gibAnzahlDosen(datum: String, region: String): Int {\n    val dosenKumulativ = data.filterByRow { it[\"metric\"] == \"dosen_kumulativ\" && it[\"region\"] == region }.addRowNumber()\n    val rowNumber = dosenKumulativ.rows.find { it[\"date\"] == datum }?.get(\"row_number\")\n    val rowGestern = (rowNumber as Int?)?.minus(1)\n    if (rowGestern == 0){\n        return (dosenKumulativ.rows.find { it[\"row_number\"] == rowNumber }?.get(\"value\") as String).toInt()\n    }\n    else {\n        val dosenHeute = dosenKumulativ.rows.find { it[\"row_number\"] == rowNumber }?.get(\"value\") as String?\n        val dosenGestern = dosenKumulativ.rows.find { it[\"row_number\"] == rowGestern }?.get(\"value\") as String?\n        if (dosenHeute != null && dosenGestern != null){\n            return dosenHeute?.toInt() - dosenGestern?.toInt()\n        }\n        return -1\n    }\n}\n\n//Test\nval tests = mapOf(\"2021-04-09\" to 544898, \"2020-12-27\" to 21566, \"2021-01-18\" to 74406)\nfor ((datum, anzahl) in tests){\n    if (data.gibAnzahlDosen(datum, \"DE\") == anzahl)\n        println(\"Richtig!\")\n    else\n        println(\"Falsch! Richtig wäre: $anzahl\\ndata.gibAnzahlDosen($datum): ${data.gibAnzahlDosen(datum, \"DE\")}\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 25,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.12"
+   },
+   "artifact_name": "c.20",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "var dataVollstaendig: DataFrame = emptyDataFrame()\n//TODO\n\n//Test\nval luecken = (dataVollstaendig.filterByRow { it[\"metric\"] == \"dosen_differenz_zum_vortag\" && \n        if (dataVollstaendig.get(\"value\")::class.simpleName == \"DoubleCol\")\n            it[\"value\"] == -1\n        else \n            it[\"value\"] == \"\"\n    }.count().get(0).get(0) as Int)\nif (luecken == 0)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: 0\\nAnzahl der Lücken: ${luecken}\")\n//Test der Zusatzaufgabe\nif( dataVollstaendig.get(\"value\")::class.simpleName == \"DoubleCol\" )\n    println(\"Zusatz: Richtiger Datentyp!\")\nelse\n    println(\"Zusatz: Falsch! Richtig wäre der Datentyp: DoubleCol, Aktueller Datentyp: ${dataVollstaendig.get(\"value\")::class.simpleName}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 18,
+      "ch": 138
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.13"
+   },
+   "artifact_name": "c.21",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "//Lösung\nvar dataVollstaendig: DataFrame = emptyDataFrame()\ndata.rows.forEach {\n    if (it[\"metric\"] != \"dosen_differenz_zum_vortag\"){\n        dataVollstaendig = dataVollstaendig.bindRows(\n            mapOf(\"date\" to it[\"date\"], \"publication_date\" to it[\"publication_date\"], \"region\" to it[\"region\"], \"metric\" to it[\"metric\"], \"value\" to it[\"value\"])\n        ) \n    }\n    else{\n        val diff: String = data.gibAnzahlDosen(it[\"date\"] as String, it[\"region\"] as String).toString()\n        dataVollstaendig = dataVollstaendig.bindRows(\n            mapOf(\"date\" to it[\"date\"], \"publication_date\" to it[\"publication_date\"], \"region\" to it[\"region\"], \"metric\" to it[\"metric\"], \"value\" to diff)\n        )\n    }\n        \n}\n\n//Test\nval luecken = (dataVollstaendig.filterByRow { it[\"metric\"] == \"dosen_differenz_zum_vortag\" && \n        if (dataVollstaendig.get(\"value\")::class.simpleName == \"DoubleCol\")\n            it[\"value\"] == -1\n        else \n            it[\"value\"] == \"\"\n    }.count().get(0).get(0) as Int)\nif (luecken == 0)\n    println(\"Richtig!\")\nelse\n    println(\"Falsch! Richtig wäre: 0\\nAnzahl der Lücken: ${luecken}\")\n//Test der Zusatzaufgabe\nif( dataVollstaendig.get(\"value\")::class.simpleName == \"DoubleCol\" )\n    println(\"Zusatz: Richtiger Datentyp!\")\nelse\n    println(\"Zusatz: Falsch! Richtig wäre der Datentyp: DoubleCol, Aktueller Datentyp: ${dataVollstaendig.get(\"value\")::class.simpleName}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 32,
+      "ch": 138
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.14"
+   },
+   "artifact_name": "c.22",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "literal": "//Erweiterung\nvar dataVollstaendigZusatz: DataFrame = emptyDataFrame()\ndata.rows.forEach {\n    if (it[\"metric\"] != \"dosen_differenz_zum_vortag\"){\n        if(it[\"value\"] == \"\"){\n            dataVollstaendigZusatz = dataVollstaendigZusatz.bindRows(\n                mapOf(\"date\" to it[\"date\"], \"publication_date\" to it[\"publication_date\"], \"region\" to it[\"region\"], \"metric\" to it[\"metric\"], \"value\" to -1.0)\n            )\n        }\n        else{\n            dataVollstaendigZusatz = dataVollstaendigZusatz.bindRows(\n                mapOf(\"date\" to it[\"date\"], \"publication_date\" to it[\"publication_date\"], \"region\" to it[\"region\"], \"metric\" to it[\"metric\"], \"value\" to (it[\"value\"] as String).toDouble())\n            )\n        }  \n    }\n    else{\n        val diff = data.gibAnzahlDosen(it[\"date\"] as String, it[\"region\"] as String).toDouble()\n        dataVollstaendigZusatz = dataVollstaendigZusatz.bindRows(\n            mapOf(\"date\" to it[\"date\"], \"publication_date\" to it[\"publication_date\"], \"region\" to it[\"region\"], \"metric\" to it[\"metric\"], \"value\" to diff)\n        )\n    }\n        \n}\n\n//Test\nval luecken = (dataVollstaendig.filterByRow { it[\"metric\"] == \"dosen_differenz_zum_vortag\" && \n        if (dataVollstaendig.get(\"value\")::class.simpleName == \"DoubleCol\")\n            it[\"value\"] == -1\n        else \n            it[\"value\"] == \"\"\n    }.count().get(0).get(0) as Int)\nif (luecken == 0)\n    println(\"Richtige Werte!\")\nelse\n    println(\"Falsch! Richtig wäre: 0\\nAnzahl der Lücken: ${luecken}\")\n//Test der Zusatzaufgabe\nif( dataVollstaendigZusatz.get(\"value\")::class.simpleName == \"DoubleCol\" )\n    println(\"Richtiger Datentyp!\")\nelse\n    println(\"Zusatz: Falsch! Richtig wäre der Datentyp: DoubleCol, Aktueller Datentyp: ${dataVollstaendigZusatz.get(\"value\")::class.simpleName}\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 39,
+      "ch": 144
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.15",
+    "1": "o.20",
+    "2": "o.21",
+    "3": "o.23"
+   },
+   "artifact_name": "c.23",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.6",
+     "literal": "//Lösung mit reduce\nval alter = dataVollstaendig.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\nalter.rows.reduce { zeile1, zeile2 ->\n    val anzahlZeile1 = (zeile1[\"value\"] as String).toDouble()\n    val anzahlZeile2 = (zeile2[\"value\"] as String).toDouble()\n    val dif01 = if (zeile1[\"row_number\"] == 1)\n                    anzahlZeile1\n                else{\n                    val anzahlZeile0 = (alter.row((zeile1[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n                    anzahlZeile1 - anzahlZeile0\n                }\n    val dif12 = anzahlZeile2 - anzahlZeile1\n    if(dif01 > dif12){\n        zeile1\n    }\n    else{\n        zeile2\n    }\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 18,
+      "ch": 0
+     }
+    },
+    {
+     "start_checkpoint": 1618222821786,
+     "parent": "n.0.9",
+     "literal": "//Lösung mit reduce\nfun DataFrame.gibDatumAlter(): Any {\n    val alter = this.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\n    return alter.rows.reduce { zeile1, zeile2 ->\n        val anzahlZeile1 = (zeile1[\"value\"] as String).toDouble()\n        val anzahlZeile2 = (zeile2[\"value\"] as String).toDouble()\n        val dif01 = if (zeile1[\"row_number\"] == 1)\n                        anzahlZeile1\n                    else{\n                        val anzahlZeile0 = (alter.row((zeile1[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n                        anzahlZeile1 - anzahlZeile0\n                    }\n        val dif12 = anzahlZeile2 - anzahlZeile1\n        if(dif01 > dif12){\n            zeile1\n        }\n        else{\n            zeile2\n        }\n    }\n}\n\n//Test\nif (dataVollstaendig.gibDatumAlter() == \"2021-04-05\"){\n    println(\"Richtig!\")\n}\nelse{\n    println(\"Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber ${dataVollstaendig.gibDatumAlter()}.\")\n}"
+    },
+    {
+     "start_checkpoint": 1618222953906,
+     "parent": "n.0.10",
+     "literal": "//Lösung mit reduce\nfun DataFrame.gibDatumAlter(): Any {\n    val alter = this.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\n    return alter.rows.reduce { zeile1, zeile2 ->\n        val anzahlZeile1 = (zeile1[\"value\"] as String).toDouble()\n        val anzahlZeile2 = (zeile2[\"value\"] as String).toDouble()\n        val dif01 = if (zeile1[\"row_number\"] == 1)\n                        anzahlZeile1\n                    else{\n                        val anzahlZeile0 = (alter.row((zeile1[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n                        anzahlZeile1 - anzahlZeile0\n                    }\n        val dif12 = anzahlZeile2 - anzahlZeile1\n        if(dif01 > dif12){\n            zeile1\n        }\n        else{\n            zeile2\n        }\n    }.get(\"date\") as String\n}\n\n//Test\nif (dataVollstaendig.gibDatumAlter() == \"2021-04-05\"){\n    println(\"Richtig!\")\n}\nelse{\n    println(\"Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber ${dataVollstaendig.gibDatumAlter()}.\")\n}"
+    },
+    {
+     "start_checkpoint": 1618222958981,
+     "parent": "n.0.14",
+     "literal": "//Lösung mit reduce\nfun DataFrame.gibDatumAlter(): String {\n    val alter = this.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\n    return alter.rows.reduce { zeile1, zeile2 ->\n        val anzahlZeile1 = (zeile1[\"value\"] as String).toDouble()\n        val anzahlZeile2 = (zeile2[\"value\"] as String).toDouble()\n        val dif01 = if (zeile1[\"row_number\"] == 1)\n                        anzahlZeile1\n                    else{\n                        val anzahlZeile0 = (alter.row((zeile1[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n                        anzahlZeile1 - anzahlZeile0\n                    }\n        val dif12 = anzahlZeile2 - anzahlZeile1\n        if(dif01 > dif12){\n            zeile1\n        }\n        else{\n            zeile2\n        }\n    }.get(\"date\") as String\n}\n\n//Test\nif (dataVollstaendig.gibDatumAlter() == \"2021-04-05\"){\n    println(\"Richtig!\")\n}\nelse{\n    println(\"Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber ${dataVollstaendig.gibDatumAlter()}.\")\n}"
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.16",
+    "1": "o.19"
+   },
+   "artifact_name": "c.24",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.6",
+     "literal": "//Lösung mit maxBy\nval alter = dataVollstaendig.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\nvar zeileAlter = alter.rows.maxBy { \n    val anzahlZeile1 = (it[\"value\"] as String).toDouble()\n    if (it[\"row_number\"] == 1 || it[\"row_number\"] == 0)\n        anzahlZeile1\n    else{\n        val anzahlZeile0 = (alter.row((it[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n        anzahlZeile1 - anzahlZeile0\n    }\n}\nzeileAlter?.get(\"date\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 11,
+      "ch": 22
+     }
+    },
+    {
+     "start_checkpoint": 1618222821786,
+     "parent": "n.0.9",
+     "literal": "//Lösung mit maxBy\nfun DataFrame.gibDatumAlter(): String{\n  val alter = this.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\n    var zeileAlter = alter.rows.maxBy { \n        val anzahlZeile1 = (it[\"value\"] as String).toDouble()\n        if (it[\"row_number\"] == 1 || it[\"row_number\"] == 0)\n            anzahlZeile1\n        else{\n            val anzahlZeile0 = (alter.row((it[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n            anzahlZeile1 - anzahlZeile0\n        }\n    }\n    return zeileAlter?.get(\"date\") as String\n}\n\nif (dataVollstaendig.gibDatumAlter() == \"2021-04-05\"){\n    println(\"Richtig!\")\n}\nelse{\n    println(\"Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber ${dataVollstaendig.gibDatumAlter()}.\")\n    \n}\n"
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.17",
+    "1": "o.18"
+   },
+   "artifact_name": "c.25",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.6",
+     "literal": "//Lösung\nfun DataFrame.gibIndikationen(): List<Map<String, Map<String, Any>>> {\n    val filtered = this.filterByRow { \n        (it[\"metric\"] == \"indikation_alter_dosen\" || it[\"metric\"] == \"indikation_beruf_dosen\" || \n        it[\"metric\"] == \"indikation_medizinisch_dosen\" || it[\"metric\"] == \"indikation_pflegeheim_dosen\" ) \n        && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" \n    }.addRowNumber()\n    return filtered.groupBy(\"date\").groups().map { \n        val alter = (it[\"value\"][0] as String).toDouble() \n        val diffAlter: Double = if (it[\"row_number\"][0] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][0] as Int) - 5\n                            val alter0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            alter - alter0\n                        }\n                        else{\n                            alter\n                        }\n        val beruf = (it[\"value\"][1] as String).toDouble()\n        val diffBeruf: Double = if (it[\"row_number\"][1] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][1] as Int) - 5\n                            val beruf0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            beruf - beruf0\n                        }\n                        else{\n                            beruf\n                        }\n        val medi = (it[\"value\"][2] as String).toDouble()\n        val diffMedi: Double = if (it[\"row_number\"][2] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][2] as Int) - 5\n                            val medi0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            medi - medi0\n                        }\n                        else{\n                            medi\n                        }\n        val pflege = (it[\"value\"][3] as String).toDouble()\n        val diffPflege: Double = if (it[\"row_number\"][3] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][3] as Int) - 5\n                            val pflege0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            pflege - pflege0\n                        }\n                        else{\n                            pflege\n                        }\n        val max = mapOf(\n            when (listOf( diffBeruf, diffMedi, diffPflege).maxOrNull()){\n                diffAlter -> \"Alter\";\n                diffBeruf -> \"Beruf\";\n                diffMedi -> \"Medizinisch\";\n                diffPflege -> \"Pflegeheim\";\n                else -> \"else\"\n            }\n            to\n             listOf(diffAlter, diffBeruf, diffMedi, diffPflege).maxOrNull()\n        )\n        mapOf(it[\"date\"][0] as String to mapOf(\"Alter\" to diffAlter, \"Beruf\" to diffBeruf, \"Medizinisch\" to diffMedi, \"Pflegeheim\" to diffPflege, \"Max\" to max))\n    }\n}\n\n//Test\nval testData = dataVollstaendig.gibIndikationen()\nvar tests = 0\nvar fehler = 0\nval testZeilen = listOf(\"{2020-12-27={Alter=5833.0, Beruf=7618.0, Medizinisch=962.0, Pflegeheim=11646.0, Max={Pflegeheim=11646.0}}}\", \"{2020-12-28={Alter=6399.0, Beruf=7346.0, Medizinisch=699.0, Pflegeheim=10121.0, Max={Pflegeheim=10121.0}}}\")\nfor (i in 0 until testZeilen.size){\n    if (testData[i].toString() != testZeilen[i]){\n        println(\"Falsch! Richtige Zeile:\\n${testZeilen[i]}\\nAktuell:\\n${testData[i].toString()}\")\n    }\n}\n\n//Maximum\ntestData.forEach {\n    val max = it.values.toList()[0].values.take(4).toList().maxByOrNull { it as Double }\n    var string = it.values.toList()[0].values.drop(4)[0].toString()\n    val (indikator, dosen) = string.substring(1, string.length-1).split(\"=\")\n    if(max != dosen.toDouble()){\n        println(\"Falsch! Das Maximum müsste eigentlich $max sein, ist aber $dosen. Zeile: $it\")\n        fehler++\n    }\n    tests++\n}\ntestData.toList()[0].entries",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 81,
+      "ch": 27
+     }
+    },
+    {
+     "start_checkpoint": 1618221758937,
+     "parent": "n.0.14",
+     "literal": "//Lösung\nfun DataFrame.gibIndikationen(): List<Map<String, Map<String, Any>>> {\n    val filtered = this.filterByRow { \n        (it[\"metric\"] == \"indikation_alter_dosen\" || it[\"metric\"] == \"indikation_beruf_dosen\" || \n        it[\"metric\"] == \"indikation_medizinisch_dosen\" || it[\"metric\"] == \"indikation_pflegeheim_dosen\" ) \n        && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" \n    }.addRowNumber()\n    return filtered.groupBy(\"date\").groups().map { \n        val alter = (it[\"value\"][0] as String).toDouble() \n        val diffAlter: Double = if (it[\"row_number\"][0] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][0] as Int) - 5\n                            val alter0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            alter - alter0\n                        }\n                        else{\n                            alter\n                        }\n        val beruf = (it[\"value\"][1] as String).toDouble()\n        val diffBeruf: Double = if (it[\"row_number\"][1] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][1] as Int) - 5\n                            val beruf0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            beruf - beruf0\n                        }\n                        else{\n                            beruf\n                        }\n        val medi = (it[\"value\"][2] as String).toDouble()\n        val diffMedi: Double = if (it[\"row_number\"][2] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][2] as Int) - 5\n                            val medi0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            medi - medi0\n                        }\n                        else{\n                            medi\n                        }\n        val pflege = (it[\"value\"][3] as String).toDouble()\n        val diffPflege: Double = if (it[\"row_number\"][3] as Int > 4){\n                            val zeile0 = (it[\"row_number\"][3] as Int) - 5\n                            val pflege0 = (filtered.row(zeile0)[\"value\"] as String).toDouble()\n                            pflege - pflege0\n                        }\n                        else{\n                            pflege\n                        }\n        val max = mapOf(\n            when (listOf(diffAlter, diffBeruf, diffMedi, diffPflege).maxOrNull()){\n                diffAlter -> \"Alter\";\n                diffBeruf -> \"Beruf\";\n                diffMedi -> \"Medizinisch\";\n                diffPflege -> \"Pflegeheim\";\n                else -> \"else\"\n            }\n            to\n             listOf(diffAlter, diffBeruf, diffMedi, diffPflege).maxOrNull()\n        )\n        mapOf(it[\"date\"][0] as String to mapOf(\"Alter\" to diffAlter, \"Beruf\" to diffBeruf, \"Medizinisch\" to diffMedi, \"Pflegeheim\" to diffPflege, \"Max\" to max))\n    }\n}\n\n//Test\nval testData = dataVollstaendig.gibIndikationen()\nvar tests = 0\nvar fehler = 0\nval testZeilen = listOf(\"{2020-12-27={Alter=5833.0, Beruf=7618.0, Medizinisch=962.0, Pflegeheim=11646.0, Max={Pflegeheim=11646.0}}}\", \"{2020-12-28={Alter=6399.0, Beruf=7346.0, Medizinisch=699.0, Pflegeheim=10121.0, Max={Pflegeheim=10121.0}}}\")\nfor (i in 0 until testZeilen.size){\n    if (testData[i].toString() != testZeilen[i]){\n        println(\"Falsch! Richtige Zeile:\\n${testZeilen[i]}\\nAktuell:\\n${testData[i].toString()}\")\n        fehler++\n    }\n    tests++\n}\n\ntestData.forEach {\n    val max = it.values.toList()[0].values.take(4).toList().maxByOrNull { it as Double }\n    var string = it.values.toList()[0].values.drop(4)[0].toString()\n    val (indikator, dosen) = string.substring(1, string.length-1).split(\"=\")\n    if(max != dosen.toDouble()){\n        println(\"Falsch! Das Maximum müsste eigentlich $max sein, ist aber $dosen. Zeile: $it\")\n        fehler++\n    }\n    tests++\n}\n\nif(fehler == 0)\n    println(\"Super! Alle $tests Tests bestanden!\")\nelse\n    println(\"Bei $fehler vom $tests Tests kamen Fehler auf.\")"
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.26",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.6",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.27",
+   "versions": [
+    {
+     "start_checkpoint": 1618222410403,
+     "parent": "n.0.8",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.28",
+   "versions": [
+    {
+     "start_checkpoint": 1618222967229,
+     "parent": "n.0.12",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.29",
+   "versions": [
+    {
+     "start_checkpoint": 1618401690078,
+     "parent": "n.0.14",
+     "literal": "//TODO\n\n//Test\nif (dataVollstaendig.gibDatumAlter() == \"2021-04-05\"){\n    println(\"Richtig!\")\n}\nelse{\n    println(\"Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber ${dataVollstaendig.gibDatumAlter()}.\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 8,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.22"
+   },
+   "artifact_name": "c.30",
+   "versions": [
+    {
+     "start_checkpoint": 1618401690078,
+     "parent": "n.0.14",
+     "literal": "//Lösung mit maxBy\nfun DataFrame.gibDatumAlter(): String {\n  val alter = this.filterByRow { it[\"metric\"] == \"indikation_alter_dosen\" && it[\"region\"] == \"DE\" && it[\"value\"] != \"\" }.addRowNumber()\n    var zeileAlter = alter.rows.maxBy { \n        val anzahlZeile1 = (it[\"value\"] as String).toDouble()\n        if (it[\"row_number\"] == 1 || it[\"row_number\"] == 0)\n            anzahlZeile1\n        else{\n            val anzahlZeile0 = (alter.row((it[\"row_number\"] as Int)-2)[\"value\"] as String).toDouble()\n            anzahlZeile1 - anzahlZeile0\n        }\n    }\n    return zeileAlter?.get(\"date\") as String\n}\n\n//Test\nif (dataVollstaendig.gibDatumAlter() == \"2021-04-05\"){\n    println(\"Richtig!\")\n}\nelse{\n    println(\"Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber ${dataVollstaendig.gibDatumAlter()}.\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 21,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.31",
+   "versions": [
+    {
+     "start_checkpoint": 1618401690078,
+     "parent": "n.0.14",
+     "literal": "fun DataFrame.gibIndikationen(): List<Map<String, Map<String, Any>>> {\n    //TODO\n}\n\n//Test\nval testData = dataVollstaendig.gibIndikationen()\nvar tests = 0\nvar fehler = 0\nval testZeilen = listOf(\"{2020-12-27={Alter=5833.0, Beruf=7618.0, Medizinisch=962.0, Pflegeheim=11646.0, Max={Pflegeheim=11646.0}}}\", \"{2020-12-28={Alter=6399.0, Beruf=7346.0, Medizinisch=699.0, Pflegeheim=10121.0, Max={Pflegeheim=10121.0}}}\")\nfor (i in 0 until testZeilen.size){\n    if (testData[i].toString() != testZeilen[i]){\n        println(\"Falsch! Richtige Zeile:\\n${testZeilen[i]}\\nAktuell:\\n${testData[i].toString()}\")\n        fehler++\n    }\n    tests++\n}\n\ntestData.forEach {\n    val max = it.values.toList()[0].values.take(4).toList().maxByOrNull { it as Double }\n    var string = it.values.toList()[0].values.drop(4)[0].toString()\n    val (indikator, dosen) = string.substring(1, string.length-1).split(\"=\")\n    if(max != dosen.toDouble()){\n        println(\"Falsch! Das Maximum müsste eigentlich $max sein, ist aber $dosen. Zeile: $it\")\n        fehler++\n    }\n    tests++\n}\n\nif(fehler == 0)\n    println(\"Super! Alle $tests Tests bestanden!\")\nelse\n    println(\"Bei $fehler vom $tests Tests kamen Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 31,
+      "ch": 60
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.32",
+   "versions": [
+    {
+     "start_checkpoint": 1618401690078,
+     "parent": "n.0.13",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.33",
+   "versions": [
+    {
+     "start_checkpoint": 1618565222576,
+     "parent": "n.0.14",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
   }
  ],
- "markdownCells": [],
+ "markdownCells": [
+  {
+   "artifact_name": "m.0",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "markdown": "# Aufgabe - Impfdaten\nEine weitere interessante Datensammlung ist die Zusammenstellung des Impffortschritts in Deutschland. Im folgenden sollen mit Hilfe von Lambda-Ausdrücken in Verbindung mit kennengelernten Methoden verschiedene Daten aus einem Datensatz extrahiert und aufbereitet werden. Die Quelle der der Daten ist das [rki-impf-archive](https://github.com/ard-data/2020-rki-impf-archive), welches die Rohdaten des Robert-Koch-Instituts archiviert und aufbereitet."
+    },
+    {
+     "start_checkpoint": 1618567892364,
+     "parent": "n.0.15",
+     "markdown": "# Aufgabe - Impfdaten\nSchnell haben die ersten Länder auf Erde-14 angefangen mit der Impfstoffentwicklung, da Allen klar war, dass man das Virus nur mit einer Herdenimmunität, durch beispielsweise einer Impfung, kontrollieren kann. Ende des Jahres 2052 waren die ersten Impfstoffe bereit für die Bevölkerung. Die ersten drei Zugelassenen sind von den Unternehmen Bioneca, Moderntech und Asterna. Da das Land Dendenland eine ähnliche Geseelschaft zu Deutschland besitzt, werden Sie zusätzlich damit beauftragt den Impfablauf auszuwerten, um aus möglichen Fehlern zu lernen. Dazu wird Ihnen der folgende Datensatz bereitgestellt:"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.1",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "markdown": "**Aktuelle Daten oder aus data-Ordner!?!!**"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.2",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "markdown": "Der Aufbau der Daten ist folgendermaßen:"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.3",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.14",
+     "markdown": "## Die Daten kennenlernen\nIn dieser Teilaufgabe sollen die Daten und deren Struktur kennengelernt werden. Es ist zu erkennen, dass in der Spalte metric eine Liste an Beschreibungen für die Daten, die in value zufinden sein, zu finden ist. Implementieren Sie eine Erweiterungsmethode `gibBeschreibungen()` der Klasse `DataFrame`, die alle Beschreibungen in einer Liste zurückgibt.<br />\nBeispiel: [dosen_kumulativ, personen_erst_kumulativ, personen_voll_kumulativ, ...]"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.4",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "n.0.4",
+     "markdown": "## Wieviele Dosen wurden gestern verimpft?\nImplementieren Sie eine Methode `gibAnzahlGestern()`, die die Anzahl der Impfdosen, welche gestern verimpft wurden, zurückgibt.\n<details><summary>Tipp 1: Datum</summary><p>Um das gestrige Datum zu berechnen, können Sie beispielsweise die Bibliothek <a href=\"https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html\"><code>java.time.LocalDateTimejava.time.LocalDateTime</code></a> in Verbindung mit <a href=\"https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html\"><code>java.time.format.DateTimeFormatter</code></a> verwenden.</p></details>\n<details><summary>Tipp 2</summary><p>Mit <code>data.schema()</code> können Sie die Datentypen der Spalten herausfinden.</p></details>\n\nErweiterung:<br />\nAnstelle dem gestrigen Tag, soll ab heute jeder Tag nach Daten geprüft werden und der erste, an dem die Prüfung gelingt, ausgewählt werden."
+    },
+    {
+     "start_checkpoint": 1618138522388,
+     "parent": "n.0.5",
+     "markdown": "## Wieviele Dosen wurden an einem bestimmten Tag verimpft?\nImplementieren Sie eine Methode `gibAnzahlDosen()`, die die Anzahl der Impfdosen, welche an dem übergebenen Datum verimpft wurden, zurückgibt. Zur Vereinfachung ist anzunehmen, dass das Datum als `String` im Format `yyyy-mm-dd` übergeben werden\n\nErweiterung:<br />\nAnstelle dem gestrigen Tag, soll ab heute jeder Tag nach Daten geprüft werden und der erste, an dem die Prüfung gelingt, ausgewählt werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.5",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "markdown": "## Wieviele Dosen wurden an einem bestimmten Tag verimpft?\nImplementieren Sie eine Erweiterungsmethode `gibAnzahlDosen(datum, region)` der Klasse `DataFrame`, die die Anzahl der Impfdosen, welche an dem übergebenen Datum und in der übergebenen Region verimpft wurden, zurückgibt. Zur Vereinfachung ist anzunehmen, dass das Datum als `String` im Format `yyyy-mm-dd` und die Region als `String` mit zwei Buchstabenübergeben werden. In dieser Aufgabe soll nicht mit dem Eintrag `dosen_differenz_zum_vortag` gearbeitet werden, da die Daten unvollständig sind (näheres dazu in der nächsten Aufgabe)."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.6",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "markdown": "## Verbesserung der Daten\nMit der Methode `gibAnzahlDosen(datum, region)` kann nun die Differenz der Dosen zum Vortag ausgerechnet werden. Da der Datensatz einige Lücken bezüglich dem Eintrag `dosen_differenz_zum_vortag` hat, sollen diese jetzt geschlossen werden. Dazu bauen wir uns einen neuen Datensatz `dataVollstaendig` zusammen. Das Grundgerüst des `DataFrame`s ist bereits vorbereitet. Eine Zeile kann mit der Methode [`bindRows(map)`](https://holgerbrandl.github.io/krangl/javadoc/krangl/krangl/bind-rows.html) angehängt werden.\n\n### Zusatzaufgabe\nIn den Rohdaten sind in der Spalte Daten des Typs `String` zu finden. Für eine einfachere Verwendung der Daten wäre aber ein numerischer Datentyp besser. Ändern Sie deshalb den Datentyp der Rohdaten in dieser Spalte  zu `Double`. Falls keine Daten vorhanden sind, soll -1.0 eingetragen werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.7",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.6",
+     "markdown": "## Wer wird eigentlich geimpft?\nIn dieser Aufgabe soll der Frage nachgegangen werden, wer eigentlich geimpft wird. In den Daten gibt es dazu 4 Metriken: indikation_alter_dosen, indikation_beruf_dosen, indikation_medizinisch_dosen, indikation_pflegeheim_dosen. Implementieren Sie eine Erweiterungsmethode `gibGruppe()` der Klasse `DataFrame`, die die Gruppe (Alter, Beruf, Medizinisch oder Pflegeheim) zurückgibt, die bisher am Meisten Dosen erhalten hat."
+    },
+    {
+     "start_checkpoint": 1618222410403,
+     "parent": "n.0.14",
+     "markdown": "## Wann wurden am Meisten Dosen mit dem Indikator Alter verimpft?\nIn den Daten ist außerdem angegeben aus welchem Grund eine Impfung verabreicht wurde. Implementieren Sie eine Erweiterungsmethode `gibDatumAlter()`, die das Datum des Tages zurückgibt, an dem am meisten Dosen augrund der Indikation Alter verabreicht wurden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.8",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "n.0.14",
+     "markdown": "## Wer wird eigentlich geimpft?\nIn dieser Aufgabe soll der Frage nachgegangen werden, wer eigentlich geimpft wird. In den Daten gibt es dazu 4 Metriken: indikation_alter_dosen, indikation_beruf_dosen, indikation_medizinisch_dosen, indikation_pflegeheim_dosen. Implementieren Sie eine Erweiterungsmethode `gibIndikationen()` der Klasse `DataFrame`, die eine Liste des Datentyps `List<Map<String, Map<String, Any>>>` zurückgibt. In dieser soll für jedes Datum eine Map, in der die verschiedenenen Indikationen der Schlüssel (Alter, Beruf, Medizinisch, Pflegeheim) sind, existieren. Die Werte zu den Indikationen sind die an diesem Tag verimpften Dosen für diese Indikation. Außerdem soll unter dem Schlüssel Max eine weitere Map zu finden sein, die als Schlüssel die Indikation mit den meisten Dosen an diesem Datum und als Wert die Anzahl besitzt.<br />\nBeispiel:<br />\n[{2020-12-27={Alter=5833.0, Beruf=7618.0, Medizinisch=962.0, Pflegeheim=11646.0, Max={Pflegeheim=11646.0}}}, {2020-12-28={Alter=6399.0, Beruf=7346.0, Medizinisch=699.0, Pflegeheim=10121.0, Max={Pflegeheim=10121.0}}}, ... ]"
+    }
+   ]
+  }
+ ],
  "rawCells": [],
  "snippets": [],
- "output": []
+ "output": [
+  {
+   "artifact_name": "o.0",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "c.7.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "DataFrame with 112200 observations\ndate              [Str]  2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020...\npublication_date  [Str]  2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28...\nregion            [Str]  BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, ...\nmetric            [Str]  dosen_kumulativ, personen_erst_kumulativ, personen_voll_kumulativ, dosen_biontech_kumulativ, dosen_e...\nvalue             [Str]  2084, 2084, 0, 2084, 2084, 0, 0, 0, 0, 0, 0, 0, 624, 624, 0, 964, 964, 0, 151, 151, 0, 0, , 0, , , ,...\n"
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618138113468,
+     "parent": "c.7.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "DataFrame with 20944 observations\ndate              [Str]  2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020...\npublication_date  [Str]  2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28...\nregion            [Str]  BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BY, BY, BY, BY, BY, BY, BY, BY, BY, BY, BY, ...\nmetric            [Str]  dosen_kumulativ, personen_erst_kumulativ, dosen_biontech_kumulativ, dosen_moderna_kumulativ, dosen_a...\nvalue             [Str]  2084, 2084, 2084, 0, 0, 624, 964, 151, 0, , 0.018774108378495392, 0.18774108378495394, , , 3389, 338...\n",
+       "output_type": "stream"
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.7.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "DataFrame with 22440 observations\ndate              [Str]  2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020-12-27, 2020...\npublication_date  [Str]  2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28 16:15, 2020-12-28...\nregion            [Str]  BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BY, BY, BY, BY, BY, BY, BY, BY, BY, BY, ...\nmetric            [Str]  dosen_kumulativ, personen_erst_kumulativ, personen_voll_kumulativ, dosen_biontech_kumulativ, dosen_m...\nvalue             [Str]  2084, 2084, 0, 2084, 0, 0, 624, 964, 151, 0, , 0.018774108378495392, 0.18774108378495394, , , 3389, ...\n",
+       "output_type": "stream"
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618567892364,
+     "parent": "c.7.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "DataFrame with 22440 observations\ndate              [Str]  2052-12-27, 2052-12-27, 2052-12-27, 2052-12-27, 2052-12-27, 2052-12-27, 2052-12-27, 2052-12-27, 2052...\npublication_date  [Str]  2052-12-28 16:15, 2052-12-28 16:15, 2052-12-28 16:15, 2052-12-28 16:15, 2052-12-28 16:15, 2052-12-28...\nregion            [Str]  BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BW, BY, BY, BY, BY, BY, BY, BY, BY, BY, BY, ...\nmetric            [Str]  dosen_kumulativ, personen_erst_kumulativ, personen_voll_kumulativ, dosen_bioneca_kumulativ, dosen_mo...\nvalue             [Str]  2084, 2084, 0, 2084, 0, 0, 624, 964, 151, 0, , 0.018774108378495392, 0.18774108378495394, , , 3389, ...\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.1",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "c.8.0",
+     "raw": [
+      {
+       "execution_count": 13,
+       "output_type": "execute_result",
+       "data": {
+        "text/html": "<html><body><table><tr><th style=\"text-align:left\">date</th><th style=\"text-align:left\">publication_date</th><th style=\"text-align:left\">region</th><th style=\"text-align:left\">metric</th><th style=\"text-align:left\">value</th></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_biontech_kumulativ\">dosen_biontech_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_moderna_kumulativ\">dosen_moderna_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_astrazeneca_kumulativ\">dosen_astrazeneca_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_alter_dosen\">indikation_alter_dosen</td><td style=\"text-align:left\" title=\"624\">624</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_beruf_dosen\">indikation_beruf_dosen</td><td style=\"text-align:left\" title=\"964\">964</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_medizinisch_dosen\">indikation_medizinisch_dosen</td><td style=\"text-align:left\" title=\"151\">151</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_pflegeheim_dosen\">indikation_pflegeheim_dosen</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"impf_quote_dosen\">impf_quote_dosen</td><td style=\"text-align:left\" title=\"0.018774108378495392\">0.018774108378495392</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"impf_inzidenz_dosen\">impf_inzidenz_dosen</td><td style=\"text-align:left\" title=\"0.18774108378495394\">0.18774108378495394</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ_alter_unter60\">dosen_kumulativ_alter_unter60</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ_alter_60plus\">dosen_kumulativ_alter_60plus</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_biontech_kumulativ\">dosen_biontech_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_moderna_kumulativ\">dosen_moderna_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_astrazeneca_kumulativ\">dosen_astrazeneca_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"indikation_alter_dosen\">indikation_alter_dosen</td><td style=\"text-align:left\" title=\"994\">994</td></tr></table></body></html>"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.8.0",
+     "raw": [
+      {
+       "execution_count": 4,
+       "output_type": "execute_result",
+       "data": {
+        "text/html": "<html><body><table><tr><th style=\"text-align:left\">date</th><th style=\"text-align:left\">publication_date</th><th style=\"text-align:left\">region</th><th style=\"text-align:left\">metric</th><th style=\"text-align:left\">value</th></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_voll_kumulativ\">personen_voll_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_biontech_kumulativ\">dosen_biontech_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_moderna_kumulativ\">dosen_moderna_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_astrazeneca_kumulativ\">dosen_astrazeneca_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_alter_dosen\">indikation_alter_dosen</td><td style=\"text-align:left\" title=\"624\">624</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_beruf_dosen\">indikation_beruf_dosen</td><td style=\"text-align:left\" title=\"964\">964</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_medizinisch_dosen\">indikation_medizinisch_dosen</td><td style=\"text-align:left\" title=\"151\">151</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_pflegeheim_dosen\">indikation_pflegeheim_dosen</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"impf_quote_dosen\">impf_quote_dosen</td><td style=\"text-align:left\" title=\"0.018774108378495392\">0.018774108378495392</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"impf_inzidenz_dosen\">impf_inzidenz_dosen</td><td style=\"text-align:left\" title=\"0.18774108378495394\">0.18774108378495394</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ_alter_unter60\">dosen_kumulativ_alter_unter60</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ_alter_60plus\">dosen_kumulativ_alter_60plus</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"personen_voll_kumulativ\">personen_voll_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_biontech_kumulativ\">dosen_biontech_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_moderna_kumulativ\">dosen_moderna_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr></table></body></html>"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618567892364,
+     "parent": "c.8.0",
+     "raw": [
+      {
+       "execution_count": 5,
+       "output_type": "execute_result",
+       "data": {
+        "text/html": "<html><body><table><tr><th style=\"text-align:left\">date</th><th style=\"text-align:left\">publication_date</th><th style=\"text-align:left\">region</th><th style=\"text-align:left\">metric</th><th style=\"text-align:left\">value</th></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_voll_kumulativ\">personen_voll_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_bioneca_kumulativ\">dosen_bioneca_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_moderntech_kumulativ\">dosen_moderntech_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_asterna_kumulativ\">dosen_asterna_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_alter_dosen\">indikation_alter_dosen</td><td style=\"text-align:left\" title=\"624\">624</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_beruf_dosen\">indikation_beruf_dosen</td><td style=\"text-align:left\" title=\"964\">964</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_medizinisch_dosen\">indikation_medizinisch_dosen</td><td style=\"text-align:left\" title=\"151\">151</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"indikation_pflegeheim_dosen\">indikation_pflegeheim_dosen</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"impf_quote_dosen\">impf_quote_dosen</td><td style=\"text-align:left\" title=\"0.018774108378495392\">0.018774108378495392</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"impf_inzidenz_dosen\">impf_inzidenz_dosen</td><td style=\"text-align:left\" title=\"0.18774108378495394\">0.18774108378495394</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ_alter_unter60\">dosen_kumulativ_alter_unter60</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ_alter_60plus\">dosen_kumulativ_alter_60plus</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"personen_voll_kumulativ\">personen_voll_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_bioneca_kumulativ\">dosen_bioneca_kumulativ</td><td style=\"text-align:left\" title=\"3389\">3389</td></tr><tr><td style=\"text-align:left\" title=\"2052-12-27\">2052-12-27</td><td style=\"text-align:left\" title=\"2052-12-28 16:15\">2052-12-28 16:15</td><td style=\"text-align:left\" title=\"BY\">BY</td><td style=\"text-align:left\" title=\"dosen_moderntech_kumulativ\">dosen_moderntech_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr></table></body></html>"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.2",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "c.10.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\n"
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.10.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Falsch! Richtig wäre: \n[dosen_kumulativ, personen_erst_kumulativ, dosen_biontech_kumulativ, dosen_moderna_kumulativ, dosen_astrazeneca_kumulativ, indikation_alter_dosen, indikation_beruf_dosen, indikation_medizinisch_dosen, indikation_pflegeheim_dosen, dosen_differenz_zum_vortag, impf_quote_dosen, impf_inzidenz_dosen, dosen_kumulativ_alter_unter60, dosen_kumulativ_alter_60plus]\ndata.gibBeschreibungen(): \n[dosen_kumulativ, personen_erst_kumulativ, personen_voll_kumulativ, dosen_biontech_kumulativ, dosen_moderna_kumulativ, dosen_astrazeneca_kumulativ, indikation_alter_dosen, indikation_beruf_dosen, indikation_medizinisch_dosen, indikation_pflegeheim_dosen, dosen_differenz_zum_vortag, impf_quote_dosen, impf_inzidenz_dosen, dosen_kumulativ_alter_unter60, dosen_kumulativ_alter_60plus]\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.3",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "c.11.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.4",
+   "versions": [
+    {
+     "start_checkpoint": 1618137940672,
+     "parent": "c.12.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.5",
+   "versions": [
+    {
+     "start_checkpoint": 1618138113468,
+     "parent": "c.9.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.6",
+   "versions": [
+    {
+     "start_checkpoint": 1618138412404,
+     "parent": "c.6.2",
+     "raw": [
+      {
+       "execution_count": 21,
+       "output_type": "execute_result",
+       "data": {
+        "text/html": "<html><body><table><tr><th style=\"text-align:left\">Datum;Schätzer_Neuerkrankungen;UG_PI_Neuerkrankungen;OG_PI_Neuerkrankungen;Schätzer_Neuerkrankungen_ma4;UG_PI_Neuerkrankungen_ma4;OG_PI_Neuerkrankungen_ma4;Schätzer_Reproduktionszahl_R;UG_PI_Reproduktionszahl_R;OG_PI_Reproduktionszahl_R;Schätzer_7_Tage_R_Wert;UG_PI_7_Tage_R_Wert;OG_PI_7_Tage_R_Wert</th></tr><tr><td style=\"text-align:left\" title=\"02.03.2020;304;292;319;225;213;238;.;.;.;.;.;.\">02.03.2020;304;292;319;225;213;238;.;.;.;.;.;.</td></tr><tr><td style=\"text-align:left\" title=\"03.03.2020;321;304;337;261;248;276;.;.;.;.;.;.\">03.03.2020;321;304;337;261;248;276;.;.;.;.;.;.</td></tr><tr><td style=\"text-align:left\" title=\"04.03.2020;448;430;467;326;311;342;.;.;.;.;.;.\">04.03.2020;448;430;467;326;311;342;.;.;.;.;.;.</td></tr><tr><td style=\"text-align:left\" title=\"05.03.2020;503;485;525;394;378;412;.;.;.;.;.;.\">05.03.2020;503;485;525;394;378;412;.;.;.;.;.;.</td></tr><tr><td style=\"text-align:left\" title=\"06.03.2020;757;732;783;507;488;528;2\">06.03.2020;757;732;783;507;488;528;2</td></tr></table></body></html>"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    },
+    {
+     "start_checkpoint": 1618138506191,
+     "parent": "c.6.2",
+     "raw": [
+      {
+       "execution_count": 22,
+       "output_type": "execute_result",
+       "data": {
+        "text/html": "<html><body><table><tr><th style=\"text-align:left\">date</th><th style=\"text-align:left\">publication_date</th><th style=\"text-align:left\">region</th><th style=\"text-align:left\">metric</th><th style=\"text-align:left\">value</th></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_kumulativ\">dosen_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_erst_kumulativ\">personen_erst_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"personen_voll_kumulativ\">personen_voll_kumulativ</td><td style=\"text-align:left\" title=\"0\">0</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_biontech_kumulativ\">dosen_biontech_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"BW\">BW</td><td style=\"text-align:left\" title=\"dosen_erst_biontech_kumulativ\">dosen_erst_biontech_kumulativ</td><td style=\"text-align:left\" title=\"2084\">2084</td></tr></table></body></html>"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.7",
+   "versions": [
+    {
+     "start_checkpoint": 1618138506191,
+     "parent": "c.14.0",
+     "raw": [
+      {
+       "name": "stderr",
+       "output_type": "stream",
+       "text": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0\njava.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)\njava.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)\njava.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)\njava.base/java.util.Objects.checkIndex(Objects.java:359)\njava.base/java.util.ArrayList.get(ArrayList.java:427)\nLine_14_jupyter.gibAnzahlGestern(Line_14.jupyter.kts:14)\nLine_14_jupyter.<init>(Line_14.jupyter.kts:17)\njava.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\njava.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\njava.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\njava.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\njava.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\nkotlin.script.experimental.jvm.BasicJvmScriptEvaluator.evalWithConfigAndOtherScriptsResults(BasicJvmScriptEvaluator.kt:96)\nkotlin.script.experimental.jvm.BasicJvmScriptEvaluator.invoke$suspendImpl(BasicJvmScriptEvaluator.kt:41)\nkotlin.script.experimental.jvm.BasicJvmScriptEvaluator.invoke(BasicJvmScriptEvaluator.kt)\nkotlin.script.experimental.jvm.BasicJvmReplEvaluator.eval(BasicJvmReplEvaluator.kt:51)\norg.jetbrains.kotlin.jupyter.ReplForJupyterImpl$doEval$resultWithDiagnostics$1.invokeSuspend(repl.kt:604)\nkotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)\nkotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)\nkotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:274)\nkotlinx.coroutines.BlockingCoroutine.joinBlocking(Builders.kt:84)\nkotlinx.coroutines.BuildersKt__BuildersKt.runBlocking(Builders.kt:59)\nkotlinx.coroutines.BuildersKt.runBlocking(Unknown Source)\nkotlinx.coroutines.BuildersKt__BuildersKt.runBlocking$default(Builders.kt:38)\nkotlinx.coroutines.BuildersKt.runBlocking$default(Unknown Source)\norg.jetbrains.kotlin.jupyter.ReplForJupyterImpl.doEval(repl.kt:604)\norg.jetbrains.kotlin.jupyter.ReplForJupyterImpl.eval(repl.kt:434)\norg.jetbrains.kotlin.jupyter.ProtocolKt$shellMessagesHandler$res$1.invoke(protocol.kt:248)\norg.jetbrains.kotlin.jupyter.ProtocolKt$shellMessagesHandler$res$1.invoke(protocol.kt)\norg.jetbrains.kotlin.jupyter.ProtocolKt.evalWithIO(protocol.kt:400)\norg.jetbrains.kotlin.jupyter.ProtocolKt.shellMessagesHandler(protocol.kt:247)\norg.jetbrains.kotlin.jupyter.IkotlinKt.kernelServer(ikotlin.kt:127)\norg.jetbrains.kotlin.jupyter.IkotlinKt.kernelServer$default(ikotlin.kt:95)\norg.jetbrains.kotlin.jupyter.IkotlinKt.main(ikotlin.kt:72)\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.8",
+   "versions": [
+    {
+     "start_checkpoint": 1618138522388,
+     "parent": "c.14.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.9",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.17.0",
+     "raw": [
+      {
+       "execution_count": 5,
+       "output_type": "execute_result",
+       "data": {
+        "text/html": "<html><body><table><tr><th style=\"text-align:left\">date</th><th style=\"text-align:left\">publication_date</th><th style=\"text-align:left\">region</th><th style=\"text-align:left\">metric</th><th style=\"text-align:left\">value</th></tr><tr><td style=\"text-align:left\" title=\"2020-12-27\">2020-12-27</td><td style=\"text-align:left\" title=\"2020-12-28 16:15\">2020-12-28 16:15</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"1357\">1357</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-28\">2020-12-28</td><td style=\"text-align:left\" title=\"2020-12-29 08:00\">2020-12-29 08:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"19084\">19084</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-30\">2020-12-30</td><td style=\"text-align:left\" title=\"2020-12-31 08:30\">2020-12-31 08:30</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"51465\">51465</td></tr><tr><td style=\"text-align:left\" title=\"2020-12-31\">2020-12-31</td><td style=\"text-align:left\" title=\"2021-01-01 12:30\">2021-01-01 12:30</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"31846\">31846</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-01\">2021-01-01</td><td style=\"text-align:left\" title=\"2021-01-02 08:00\">2021-01-02 08:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"21087\">21087</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-02\">2021-01-02</td><td style=\"text-align:left\" title=\"2021-01-03 08:00\">2021-01-03 08:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"40665\">40665</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-03\">2021-01-03</td><td style=\"text-align:left\" title=\"2021-01-04 12:00\">2021-01-04 12:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"22892\">22892</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-04\">2021-01-04</td><td style=\"text-align:left\" title=\"2021-01-05 12:00\">2021-01-05 12:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"44563\">44563</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-05\">2021-01-05</td><td style=\"text-align:left\" title=\"2021-01-06 11:00\">2021-01-06 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"45233\">45233</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-06\">2021-01-06</td><td style=\"text-align:left\" title=\"2021-01-07 11:00\">2021-01-07 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"46332\">46332</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-07\">2021-01-07</td><td style=\"text-align:left\" title=\"2021-01-08 11:00\">2021-01-08 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"50938\">50938</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-08\">2021-01-08</td><td style=\"text-align:left\" title=\"2021-01-09 11:00\">2021-01-09 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"50066\">50066</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-10\">2021-01-10</td><td style=\"text-align:left\" title=\"2021-01-11 11:00\">2021-01-11 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"28221\">28221</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-11\">2021-01-11</td><td style=\"text-align:left\" title=\"2021-01-12 11:00\">2021-01-12 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"60858\">60858</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-12\">2021-01-12</td><td style=\"text-align:left\" title=\"2021-01-13 11:00\">2021-01-13 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"69178\">69178</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-13\">2021-01-13</td><td style=\"text-align:left\" title=\"2021-01-14 11:00\">2021-01-14 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"78116\">78116</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-14\">2021-01-14</td><td style=\"text-align:left\" title=\"2021-01-15 11:00\">2021-01-15 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"94654\">94654</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-15\">2021-01-15</td><td style=\"text-align:left\" title=\"2021-01-16 11:00\">2021-01-16 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"79759\">79759</td></tr><tr><td style=\"text-align:left\" title=\"2021-01-17\">2021-01-17</td><td style=\"text-align:left\" title=\"2021-01-18 11:00\">2021-01-18 11:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"\"></td></tr><tr><td style=\"text-align:left\" title=\"2021-01-18\">2021-01-18</td><td style=\"text-align:left\" title=\"2021-01-19 14:00\">2021-01-19 14:00</td><td style=\"text-align:left\" title=\"DE\">DE</td><td style=\"text-align:left\" title=\"dosen_differenz_zum_vortag\">dosen_differenz_zum_vortag</td><td style=\"text-align:left\" title=\"\"></td></tr></table><p>... only showing top 20 rows</p></body></html>"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.10",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.18.0",
+     "raw": [
+      {
+       "name": "stderr",
+       "output_type": "stream",
+       "text": "Line_10.jupyter.kts (7:14 - 28) Unresolved reference: gibAnzahlDosen\nLine_10.jupyter.kts (10:85 - 99) Unresolved reference: gibAnzahlDosen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.11",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.19.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\nRichtig!\nRichtig!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.12",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.20.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\n"
+      },
+      {
+       "name": "stderr",
+       "output_type": "stream",
+       "text": "java.util.NoSuchElementException: Could not find column 'value' in dataframe\nkrangl.SimpleDataFrame.get(SimpleDataFrame.kt:129)\nLine_12_jupyter.<init>(Line_12.jupyter.kts:16)\njava.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\njava.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\njava.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\njava.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\njava.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\nkotlin.script.experimental.jvm.BasicJvmScriptEvaluator.evalWithConfigAndOtherScriptsResults(BasicJvmScriptEvaluator.kt:96)\nkotlin.script.experimental.jvm.BasicJvmScriptEvaluator.invoke$suspendImpl(BasicJvmScriptEvaluator.kt:41)\nkotlin.script.experimental.jvm.BasicJvmScriptEvaluator.invoke(BasicJvmScriptEvaluator.kt)\nkotlin.script.experimental.jvm.BasicJvmReplEvaluator.eval(BasicJvmReplEvaluator.kt:51)\norg.jetbrains.kotlin.jupyter.ReplForJupyterImpl$doEval$resultWithDiagnostics$1.invokeSuspend(repl.kt:604)\nkotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)\nkotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)\nkotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:274)\nkotlinx.coroutines.BlockingCoroutine.joinBlocking(Builders.kt:84)\nkotlinx.coroutines.BuildersKt__BuildersKt.runBlocking(Builders.kt:59)\nkotlinx.coroutines.BuildersKt.runBlocking(Unknown Source)\nkotlinx.coroutines.BuildersKt__BuildersKt.runBlocking$default(Builders.kt:38)\nkotlinx.coroutines.BuildersKt.runBlocking$default(Unknown Source)\norg.jetbrains.kotlin.jupyter.ReplForJupyterImpl.doEval(repl.kt:604)\norg.jetbrains.kotlin.jupyter.ReplForJupyterImpl.eval(repl.kt:434)\norg.jetbrains.kotlin.jupyter.ProtocolKt$shellMessagesHandler$res$1.invoke(protocol.kt:248)\norg.jetbrains.kotlin.jupyter.ProtocolKt$shellMessagesHandler$res$1.invoke(protocol.kt)\norg.jetbrains.kotlin.jupyter.ProtocolKt.evalWithIO(protocol.kt:400)\norg.jetbrains.kotlin.jupyter.ProtocolKt.shellMessagesHandler(protocol.kt:247)\norg.jetbrains.kotlin.jupyter.IkotlinKt.kernelServer(ikotlin.kt:127)\norg.jetbrains.kotlin.jupyter.IkotlinKt.kernelServer$default(ikotlin.kt:95)\norg.jetbrains.kotlin.jupyter.IkotlinKt.main(ikotlin.kt:72)\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.13",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.21.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\nZusatz: Falsch! Richtig wäre der Datentyp: DoubleCol, Aktueller Datentyp: StringCol\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.14",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.22.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtige Werte!\nRichtiger Datentyp!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.15",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.23.0",
+     "raw": [
+      {
+       "execution_count": 17,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "{row_number=84, date=2021-04-05, publication_date=2021-04-06 08:00, region=DE, metric=indikation_alter_dosen, value=7450338}"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.16",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.24.0",
+     "raw": [
+      {
+       "execution_count": 18,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "2021-04-05"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.17",
+   "versions": [
+    {
+     "start_checkpoint": 1618221549476,
+     "parent": "c.25.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Falsch! Das Maximum müsste eigentlich 59742.0 sein, ist aber 43413.0. Zeile: {2021-01-21={Alter=59742.0, Beruf=1257.0, Medizinisch=9361.0, Pflegeheim=43413.0, Max={Pflegeheim=43413.0}}}\nFalsch! Das Maximum müsste eigentlich 35952.0 sein, ist aber 27246.0. Zeile: {2021-01-26={Alter=35952.0, Beruf=24413.0, Medizinisch=2970.0, Pflegeheim=27246.0, Max={Pflegeheim=27246.0}}}\nFalsch! Das Maximum müsste eigentlich 53092.0 sein, ist aber 23596.0. Zeile: {2021-01-28={Alter=53092.0, Beruf=23596.0, Medizinisch=3722.0, Pflegeheim=20987.0, Max={Beruf=23596.0}}}\nFalsch! Das Maximum müsste eigentlich 123687.0 sein, ist aber 66164.0. Zeile: {2021-01-31={Alter=123687.0, Beruf=66164.0, Medizinisch=18246.0, Pflegeheim=35905.0, Max={Beruf=66164.0}}}\nFalsch! Das Maximum müsste eigentlich 44705.0 sein, ist aber 37083.0. Zeile: {2021-02-08={Alter=44705.0, Beruf=37083.0, Medizinisch=3753.0, Pflegeheim=17256.0, Max={Beruf=37083.0}}}\nFalsch! Das Maximum müsste eigentlich 81659.0 sein, ist aber 57078.0. Zeile: {2021-02-09={Alter=81659.0, Beruf=35287.0, Medizinisch=8737.0, Pflegeheim=57078.0, Max={Pflegeheim=57078.0}}}\nFalsch! Das Maximum müsste eigentlich 74763.0 sein, ist aber 69407.0. Zeile: {2021-02-10={Alter=74763.0, Beruf=69407.0, Medizinisch=3322.0, Pflegeheim=25976.0, Max={Beruf=69407.0}}}\nFalsch! Das Maximum müsste eigentlich 91508.0 sein, ist aber 74171.0. Zeile: {2021-02-14={Alter=91508.0, Beruf=74171.0, Medizinisch=4164.0, Pflegeheim=27595.0, Max={Beruf=74171.0}}}\nFalsch! Das Maximum müsste eigentlich 70605.0 sein, ist aber 55859.0. Zeile: {2021-02-15={Alter=70605.0, Beruf=55859.0, Medizinisch=4341.0, Pflegeheim=21520.0, Max={Beruf=55859.0}}}\nFalsch! Das Maximum müsste eigentlich 69781.0 sein, ist aber 59114.0. Zeile: {2021-02-16={Alter=69781.0, Beruf=59114.0, Medizinisch=2852.0, Pflegeheim=29254.0, Max={Beruf=59114.0}}}\nFalsch! Das Maximum müsste eigentlich 78753.0 sein, ist aber 58882.0. Zeile: {2021-02-17={Alter=78753.0, Beruf=58882.0, Medizinisch=4974.0, Pflegeheim=22409.0, Max={Beruf=58882.0}}}\nFalsch! Das Maximum müsste eigentlich 72195.9879999999 sein, ist aber 54369.62999999989. Zeile: {2021-02-18={Alter=72195.9879999999, Beruf=54369.62999999989, Medizinisch=3471.0, Pflegeheim=21714.0, Max={Beruf=54369.62999999989}}}\nFalsch! Das Maximum müsste eigentlich 86427.92599999998 sein, ist aber 63897.799999999814. Zeile: {2021-02-19={Alter=86427.92599999998, Beruf=63897.799999999814, Medizinisch=7914.0, Pflegeheim=32271.0, Max={Beruf=63897.799999999814}}}\nFalsch! Das Maximum müsste eigentlich 117344.08600000013 sein, ist aber 84499.5700000003. Zeile: {2021-02-21={Alter=117344.08600000013, Beruf=84499.5700000003, Medizinisch=6030.0, Pflegeheim=22300.0, Max={Beruf=84499.5700000003}}}\nFalsch! Das Maximum müsste eigentlich 78520.0 sein, ist aber 59685.0. Zeile: {2021-02-22={Alter=78520.0, Beruf=59685.0, Medizinisch=4911.0, Pflegeheim=17885.0, Max={Beruf=59685.0}}}\nFalsch! Das Maximum müsste eigentlich 75928.0 sein, ist aber 61841.0. Zeile: {2021-02-23={Alter=75928.0, Beruf=61841.0, Medizinisch=5287.0, Pflegeheim=18519.0, Max={Beruf=61841.0}}}\nFalsch! Das Maximum müsste eigentlich 84506.0 sein, ist aber 72730.0. Zeile: {2021-02-24={Alter=84506.0, Beruf=72730.0, Medizinisch=6235.0, Pflegeheim=18246.0, Max={Beruf=72730.0}}}\nFalsch! Das Maximum müsste eigentlich 111094.0 sein, ist aber 93374.0. Zeile: {2021-03-01={Alter=111094.0, Beruf=93374.0, Medizinisch=8922.0, Pflegeheim=16305.0, Max={Beruf=93374.0}}}\nFalsch! Das Maximum müsste eigentlich 116652.0 sein, ist aber 93551.0. Zeile: {2021-03-02={Alter=116652.0, Beruf=93551.0, Medizinisch=9943.0, Pflegeheim=16565.0, Max={Beruf=93551.0}}}\nFalsch! Das Maximum müsste eigentlich 103552.0 sein, ist aber 88049.0. Zeile: {2021-03-03={Alter=103552.0, Beruf=88049.0, Medizinisch=8220.0, Pflegeheim=16482.0, Max={Beruf=88049.0}}}\nFalsch! Das Maximum müsste eigentlich 126500.0 sein, ist aber 118982.0. Zeile: {2021-03-04={Alter=126500.0, Beruf=118982.0, Medizinisch=15845.0, Pflegeheim=18526.0, Max={Beruf=118982.0}}}\nFalsch! Das Maximum müsste eigentlich 113663.0 sein, ist aber 110385.0. Zeile: {2021-03-05={Alter=113663.0, Beruf=110385.0, Medizinisch=14262.0, Pflegeheim=14083.0, Max={Beruf=110385.0}}}\nFalsch! Das Maximum müsste eigentlich 152673.0 sein, ist aber 147700.0. Zeile: {2021-03-07={Alter=152673.0, Beruf=147700.0, Medizinisch=18481.0, Pflegeheim=12869.0, Max={Beruf=147700.0}}}\nFalsch! Das Maximum müsste eigentlich 123274.0 sein, ist aber 99413.0. Zeile: {2021-03-08={Alter=123274.0, Beruf=99413.0, Medizinisch=16646.0, Pflegeheim=12928.0, Max={Beruf=99413.0}}}\nFalsch! Das Maximum müsste eigentlich 126586.0 sein, ist aber 111521.0. Zeile: {2021-03-09={Alter=126586.0, Beruf=111521.0, Medizinisch=17744.0, Pflegeheim=15856.0, Max={Beruf=111521.0}}}\nFalsch! Das Maximum müsste eigentlich 130959.0 sein, ist aber 108474.0. Zeile: {2021-03-10={Alter=130959.0, Beruf=108474.0, Medizinisch=19426.0, Pflegeheim=14111.0, Max={Beruf=108474.0}}}\nFalsch! Das Maximum müsste eigentlich 131955.0 sein, ist aber 123226.0. Zeile: {2021-03-11={Alter=131955.0, Beruf=123226.0, Medizinisch=21579.0, Pflegeheim=15605.0, Max={Beruf=123226.0}}}\nFalsch! Das Maximum müsste eigentlich 182345.0 sein, ist aber 35840.0. Zeile: {2021-03-12={Alter=182345.0, Beruf=35840.0, Medizinisch=25724.0, Pflegeheim=-48535.0, Max={Beruf=35840.0}}}\nFalsch! Das Maximum müsste eigentlich 134002.0 sein, ist aber 102658.0. Zeile: {2021-03-15={Alter=134002.0, Beruf=102658.0, Medizinisch=20251.0, Pflegeheim=12860.0, Max={Beruf=102658.0}}}\nFalsch! Das Maximum müsste eigentlich 126633.0 sein, ist aber 45835.0. Zeile: {2021-03-16={Alter=126633.0, Beruf=45835.0, Medizinisch=12376.0, Pflegeheim=11278.0, Max={Beruf=45835.0}}}\nFalsch! Das Maximum müsste eigentlich 148015.0 sein, ist aber 45178.0. Zeile: {2021-03-17={Alter=148015.0, Beruf=45178.0, Medizinisch=13570.0, Pflegeheim=11170.0, Max={Beruf=45178.0}}}\nFalsch! Das Maximum müsste eigentlich 136576.0 sein, ist aber 47438.0. Zeile: {2021-03-18={Alter=136576.0, Beruf=47438.0, Medizinisch=11826.0, Pflegeheim=11524.0, Max={Beruf=47438.0}}}\nFalsch! Das Maximum müsste eigentlich 137812.0 sein, ist aber 51956.0. Zeile: {2021-03-19={Alter=137812.0, Beruf=51956.0, Medizinisch=17313.0, Pflegeheim=9297.0, Max={Beruf=51956.0}}}\nFalsch! Das Maximum müsste eigentlich 221359.0 sein, ist aber 119980.0. Zeile: {2021-03-21={Alter=221359.0, Beruf=119980.0, Medizinisch=41381.0, Pflegeheim=8452.0, Max={Beruf=119980.0}}}\nFalsch! Das Maximum müsste eigentlich 152355.0 sein, ist aber 71226.0. Zeile: {2021-03-22={Alter=152355.0, Beruf=71226.0, Medizinisch=18787.0, Pflegeheim=9413.0, Max={Beruf=71226.0}}}\nFalsch! Das Maximum müsste eigentlich 229954.0 sein, ist aber 69495.0. Zeile: {2021-03-23={Alter=229954.0, Beruf=69495.0, Medizinisch=24039.0, Pflegeheim=17408.0, Max={Beruf=69495.0}}}\nFalsch! Das Maximum müsste eigentlich 165053.0 sein, ist aber 76830.0. Zeile: {2021-03-24={Alter=165053.0, Beruf=76830.0, Medizinisch=27137.0, Pflegeheim=10128.0, Max={Beruf=76830.0}}}\nFalsch! Das Maximum müsste eigentlich 189353.0 sein, ist aber 105663.0. Zeile: {2021-03-25={Alter=189353.0, Beruf=105663.0, Medizinisch=37612.0, Pflegeheim=11246.0, Max={Beruf=105663.0}}}\nFalsch! Das Maximum müsste eigentlich 171291.0 sein, ist aber 104627.0. Zeile: {2021-03-26={Alter=171291.0, Beruf=104627.0, Medizinisch=38876.0, Pflegeheim=13552.0, Max={Beruf=104627.0}}}\nFalsch! Das Maximum müsste eigentlich 325439.0 sein, ist aber 179371.0. Zeile: {2021-03-28={Alter=325439.0, Beruf=179371.0, Medizinisch=66669.0, Pflegeheim=-2670.0, Max={Beruf=179371.0}}}\nFalsch! Das Maximum müsste eigentlich 152140.0 sein, ist aber 89452.0. Zeile: {2021-03-29={Alter=152140.0, Beruf=89452.0, Medizinisch=34752.0, Pflegeheim=10962.0, Max={Beruf=89452.0}}}\nFalsch! Das Maximum müsste eigentlich 189060.0 sein, ist aber 82358.0. Zeile: {2021-03-30={Alter=189060.0, Beruf=82358.0, Medizinisch=46588.0, Pflegeheim=12233.0, Max={Beruf=82358.0}}}\nFalsch! Das Maximum müsste eigentlich 165337.0 sein, ist aber 64558.0. Zeile: {2021-03-31={Alter=165337.0, Beruf=64558.0, Medizinisch=42644.0, Pflegeheim=11194.0, Max={Beruf=64558.0}}}\nFalsch! Das Maximum müsste eigentlich 321736.0 sein, ist aber 159123.0. Zeile: {2021-04-02={Alter=321736.0, Beruf=159123.0, Medizinisch=89278.0, Pflegeheim=21047.0, Max={Beruf=159123.0}}}\nFalsch! Das Maximum müsste eigentlich 390738.0 sein, ist aber 153230.0. Zeile: {2021-04-05={Alter=390738.0, Beruf=153230.0, Medizinisch=99963.0, Pflegeheim=9828.0, Max={Beruf=153230.0}}}\nFalsch! Das Maximum müsste eigentlich 194588.0 sein, ist aber 69656.0. Zeile: {2021-04-06={Alter=194588.0, Beruf=69656.0, Medizinisch=52387.0, Pflegeheim=9803.0, Max={Beruf=69656.0}}}\n"
+      },
+      {
+       "execution_count": 193,
+       "output_type": "execute_result",
+       "data": {
+        "text/plain": "[2020-12-27={Alter=5833.0, Beruf=7618.0, Medizinisch=962.0, Pflegeheim=11646.0, Max={Pflegeheim=11646.0}}]"
+       },
+       "metadata": {
+        "new_classpath": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.18",
+   "versions": [
+    {
+     "start_checkpoint": 1618221758937,
+     "parent": "c.25.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Super! Alle 87 Tests bestanden!\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.19",
+   "versions": [
+    {
+     "start_checkpoint": 1618222821786,
+     "parent": "c.24.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.20",
+   "versions": [
+    {
+     "start_checkpoint": 1618222821786,
+     "parent": "c.23.1",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Falsch! Das Ergebnis müsste eigentlich 2021-04-05 sein, ist aber {row_number=84, date=2021-04-05, publication_date=2021-04-06 08:00, region=DE, metric=indikation_alter_dosen, value=7450338}.\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.21",
+   "versions": [
+    {
+     "start_checkpoint": 1618222953906,
+     "parent": "c.23.2",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.22",
+   "versions": [
+    {
+     "start_checkpoint": 1618401690078,
+     "parent": "c.30.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.23",
+   "versions": [
+    {
+     "start_checkpoint": 1618401690078,
+     "parent": "c.23.3",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "Richtig!\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }

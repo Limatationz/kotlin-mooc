@@ -353,6 +353,72 @@
      "index": 6
     }
    ]
+  },
+  {
+   "timestamp": 1618320018147,
+   "notebook": 18,
+   "targetCells": [
+    {
+     "cell": "m.4.0",
+     "changeType": "added",
+     "index": 0
+    },
+    {
+     "cell": "c.9.0",
+     "changeType": "added",
+     "index": 2
+    },
+    {
+     "cell": "m.5.0",
+     "changeType": "added",
+     "index": 3
+    },
+    {
+     "cell": "c.10.0",
+     "changeType": "added",
+     "index": 4
+    },
+    {
+     "cell": "c.11.0",
+     "changeType": "added",
+     "index": 5
+    },
+    {
+     "cell": "c.12.0",
+     "changeType": "added",
+     "index": 7
+    },
+    {
+     "cell": "c.13.0",
+     "changeType": "added",
+     "index": 8
+    },
+    {
+     "cell": "m.6.0",
+     "changeType": "added",
+     "index": 9
+    },
+    {
+     "cell": "c.14.0",
+     "changeType": "added",
+     "index": 10
+    },
+    {
+     "cell": "c.15.0",
+     "changeType": "added",
+     "index": 11
+    },
+    {
+     "cell": "c.16.0",
+     "changeType": "added",
+     "index": 12
+    },
+    {
+     "cell": "c.17.0",
+     "changeType": "added",
+     "index": 13
+    }
+   ]
   }
  ],
  "notebook": {
@@ -578,6 +644,25 @@
      "c.6.1",
      "c.7.0"
     ]
+   },
+   {
+    "start_checkpoint": 1618320018147,
+    "cells": [
+     "m.4.0",
+     "c.4.0",
+     "c.9.0",
+     "m.5.0",
+     "c.10.0",
+     "c.11.0",
+     "m.3.1",
+     "c.12.0",
+     "c.13.0",
+     "m.6.0",
+     "c.14.0",
+     "c.15.0",
+     "c.16.0",
+     "c.17.0"
+    ]
    }
   ]
  },
@@ -687,7 +772,7 @@
    "versions": [
     {
      "start_checkpoint": 1617641097128,
-     "parent": "n.0.5",
+     "parent": "n.0.18",
      "literal": "fun String.anzahlKleinbuchstaben(): Int{\n    var counter = 0\n    for(char in this){\n        if (char in 'a'..'z'){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlGrossbuchstaben(): Int{\n    var counter = 0\n    for(char in this){\n        if (char in 'A'..'Z'){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlZahlen(): Int{\n    var counter = 0\n    for(char in this){\n        if (char in '0'..'9'){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlSonderzeichen(): Int{\n    val sonderzeichen = listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    var counter = 0\n    for(char in this){\n        if (char in sonderzeichen){\n            counter++\n        }\n    }\n    return counter\n}\n\nfun String.anzahlZeichenarten(): Int{\n    var counter = 0\n    if (this.anzahlGrossbuchstaben() > 0) \n        counter++\n    if (this.anzahlKleinbuchstaben() > 0) \n        counter++\n    if (this.anzahlZahlen() > 0) \n        counter++\n    if (this.anzahlSonderzeichen() > 0) \n        counter++\n    return counter\n}",
      "start": {
       "line": 0,
@@ -855,6 +940,183 @@
      "literal": "//Test von passwortstaerke\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 3, \"a2\" to 20, \"D#\" to 22, \"jdfVqed&213\" to 98, \"AAAaaa111\" to 54, \"aaBDA2834\" to 81, \"adhGDUWahduWe\" to 60, \"234#34#123+34Hca\" to 100)\nfor((pw, staerke) in pwTests){\n    if(passwortstaerke(pw) == staerke)\n        println(\"Richtig! $pw hat die Stärke ${passwortstaerke(pw)}\")\n    else\n        println(\"Falsch! $pw hat die Stärke $staerke, Ergebnis passwortstaerke(): ${passwortstaerke(pw)}\")   \n}"
     }
    ]
+  },
+  {
+   "output_histories": {
+    "0": "o.18"
+   },
+   "artifact_name": "c.9",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "//Test von anzahlZeichenarten\nvar fehler = 0\nvar tests = 0\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 1, \"a2\" to 2, \"D#\" to 2, \"#1\" to 2, \"aB+\" to 3, \"aaBDA2834\" to 3, \"adhGDUWahduWe\" to 2, \"234#34#123+34Hca\" to 4)\nfor((pw, anzahl) in pwTests){\n    if(pw.anzahlZeichenarten() != anzahl){\n        fehler++\n        println(\"Falsch! $pw hat $anzahl Zeichenarten, Ergebnis anzahlZeichenarten(): ${pw.anzahlZeichenarten()}\")   \n    }\n    tests++\n}\nif(fehler == 0)\n    println(\"Super! Alle $tests Tests bestanden!\")\nelse\n    println(\"Bei $fehler vom $tests Tests kamen Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 14,
+      "ch": 60
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.10",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "fun passwortstaerke(pw: String) : Int{\n    var staerke = pw.length * 4 + pw.anzahlZahlen() * 4 + pw.anzahlSonderzeichen() * 6 + pw.anzahlZeichenarten() * 3\n    \n    if (pw.anzahlGrossbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlGrossbuchstaben()) * 2\n    if (pw.anzahlKleinbuchstaben() > 0)\n        staerke += (pw.length - pw.anzahlKleinbuchstaben()) * 2\n    \n    if (\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() > 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() > 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() == 0 && pw.anzahlKleinbuchstaben() > 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0) ||\n        (pw.anzahlGrossbuchstaben() > 0 && pw.anzahlKleinbuchstaben() == 0 && pw.anzahlZahlen() == 0 && pw.anzahlSonderzeichen() == 0)\n    )\n           staerke -= pw.length\n    \n    var wiederholendeZeichen = 0\n    for (char in pw.toSet()){\n        if (pw.count {char == it} > 1)\n            wiederholendeZeichen += pw.count {char == it}\n    }\n    staerke -= wiederholendeZeichen * 3\n    \n    return if (staerke > 100) 100 else if (staerke < 0) 0 else staerke\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 24,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.19"
+   },
+   "artifact_name": "c.11",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "//Test von passwortstaerke\nvar fehler = 0\nvar tests = 0\nval pwTests = mapOf(\"\" to 0, \"aaaaa\" to 3, \"a2\" to 20, \"D#\" to 22, \"jdfVqed&213\" to 98, \"AAAaaa111\" to 54, \"aaBDA2834\" to 81, \"adhGDUWahduWe\" to 60, \"234#34#123+34Hca\" to 100)\nfor((pw, staerke) in pwTests){\n    if(passwortstaerke(pw) != staerke){\n        println(\"Falsch! $pw hat die Stärke $staerke, Ergebnis passwortstaerke(): ${passwortstaerke(pw)}\")  \n        fehler++\n    }\n    tests++\n}\nif(fehler == 0)\n    println(\"Super! Alle $tests Tests bestanden!\")\nelse\n    println(\"Bei $fehler vom $tests Tests kamen Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 14,
+      "ch": 60
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.12",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "fun passwortGenerieren(staerke : Int) : String{\n    var pw: String = \"\"\n    val zeichen: List<Char> = ('a'..'z').toList() + ('A'..'Z').toList() + ('0'..'9').toList() + listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    do{\n        pw = \"\"\n        for(i in 1 .. (1..12).random()){\n            pw += zeichen.random()\n        }\n    }\n    while(passwortstaerke(pw) < staerke)\n    return pw\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 11,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.20"
+   },
+   "artifact_name": "c.13",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "//Test von passwortGenerieren\nvar fehler = 0\nvar tests = 0\nfor (i in 0..100 step 5){\n    val testPasswort = passwortGenerieren(i)\n    if (passwortstaerke(testPasswort) < i){\n        println(\"Falsch! $testPasswort hat die Stärke ${passwortstaerke(testPasswort)}, Mindeststärke: $i\")   \n        fehler++\n    }\n    tests++\n}\nfor (i in 0..5){\n    val testPasswort = passwortGenerieren(100)\n    if (passwortstaerke(testPasswort) < 100){\n        println(\"Falsch! $testPasswort hat die Stärke ${passwortstaerke(testPasswort)}, Mindeststärke: 100\")   \n        fehler++\n    }\n    tests++\n}\nif(fehler == 0)\n    println(\"Super! Alle $tests Tests bestanden!\")\nelse\n    println(\"Bei $fehler vom $tests Tests kamen Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 22,
+      "ch": 60
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.14",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "fun passwortGenerierenErweitert(staerke: Int = 75, vorGross: Int = 0, vorKlein: Int = 0, vorZahlen: Int = 0, vorSonder: Int = 0): String{\n    val kleinbuchstaben = ('a'..'z').toList()\n    val grossbuchstaben = ('A'..'Z').toList() \n    val zahlen = ('0'..'9').toList()\n    val sonderzeichen = listOf('@', '/', '#', '+', '-', '*', '!', '?', '&')\n    val laenge = vorGross + vorKlein + vorZahlen + vorSonder\n    \n    var versuche = 0\n    var pw = \"\"\n    do{\n        pw = \"\"\n        do{\n            val rand = (0..3).random()\n            when {\n                rand == 0 && pw.anzahlGrossbuchstaben() < vorGross -> pw += grossbuchstaben.random()\n                rand == 1 && pw.anzahlKleinbuchstaben() < vorKlein -> pw += kleinbuchstaben.random()\n                rand == 2 && pw.anzahlZahlen() < vorZahlen -> pw += zahlen.random()\n                rand == 3 && pw.anzahlSonderzeichen() < vorSonder -> pw += sonderzeichen.random()\n            }\n            \n        }\n        while(pw.length < laenge)\n        versuche++\n    }\n    while(passwortstaerke(pw) < staerke && versuche < 200)\n    return if (versuche == 200) \"Fehler\" else pw\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 26,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.21"
+   },
+   "artifact_name": "c.15",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "literal": "//Test von passwortGenerieren mit erweiterten Parametern\nvar fehler = 0\nvar tests = 0\nfor(i in 0..49){\n    val staerke = (0..100).random()\n    val gross = (0..6).random()\n    val klein = (0..6).random()\n    val zahlen = (0..6).random()\n    val sonder = (0..6).random()\n    val testPasswort = passwortGenerierenErweitert(staerke, gross, klein, zahlen, sonder)\n    if (\n        (testPasswort.anzahlGrossbuchstaben() != gross || testPasswort.anzahlKleinbuchstaben() != klein ||\n        testPasswort.anzahlZahlen() != zahlen || testPasswort.anzahlSonderzeichen() != sonder ||\n        passwortstaerke(testPasswort) < staerke) && testPasswort != \"Fehler\"\n    ){\n        fehler++\n        println(\"Falsch! Passwort: $testPasswort, Stärke: Soll: $staerke, Ist: ${passwortstaerke(testPasswort)}, Großbuchstaben: Soll: $gross, Ist: ${testPasswort.anzahlGrossbuchstaben()}, Kleinbuchstaben: Soll: $klein, Ist: ${testPasswort.anzahlKleinbuchstaben()}, Zahlen: Soll: $zahlen, Ist: ${testPasswort.anzahlZahlen()}, Sonderzeichen: Soll: $sonder, Ist: ${testPasswort.anzahlSonderzeichen()} \\n\")   \n    }\n    tests++\n}\nfor(i in 0..4){\n    val staerke = 100\n    val gross = (0..6).random()\n    val klein = (0..6).random()\n    val zahlen = (0..6).random()\n    val sonder = (0..6).random()\n    val testPasswort = passwortGenerierenErweitert(staerke, gross, klein, zahlen, sonder)\n    if (\n        (testPasswort.anzahlGrossbuchstaben() != gross || testPasswort.anzahlKleinbuchstaben() != klein ||\n        testPasswort.anzahlZahlen() != zahlen || testPasswort.anzahlSonderzeichen() != sonder ||\n        passwortstaerke(testPasswort) < staerke) && testPasswort != \"Fehler\"\n    ){\n        fehler++\n        println(\"Falsch! Passwort: $testPasswort, Stärke: Soll: $staerke, Ist: ${passwortstaerke(testPasswort)}, Großbuchstaben: Soll: $gross, Ist: ${testPasswort.anzahlGrossbuchstaben()}, Kleinbuchstaben: Soll: $klein, Ist: ${testPasswort.anzahlKleinbuchstaben()}, Zahlen: Soll: $zahlen, Ist: ${testPasswort.anzahlZahlen()}, Sonderzeichen: Soll: $sonder, Ist: ${testPasswort.anzahlSonderzeichen()} \\n\")   \n    }\n    tests++\n}\nval testPasswort = passwortGenerierenErweitert(10, 5, 2)\nif (\n    (testPasswort.anzahlGrossbuchstaben() != 5 || testPasswort.anzahlKleinbuchstaben() != 2 ||\n    testPasswort.anzahlZahlen() != 0 || testPasswort.anzahlSonderzeichen() != 0 ||\n    passwortstaerke(testPasswort) < 10) && testPasswort != \"Fehler\"\n){\n    fehler++\n    println(\"Falsch! Passwort: $testPasswort, Stärke: Soll: 10, Ist: ${passwortstaerke(testPasswort)}, Großbuchstaben: Soll: 5, Ist: ${testPasswort.anzahlGrossbuchstaben()}, Kleinbuchstaben: Soll: 2, Ist: ${testPasswort.anzahlKleinbuchstaben()}, Zahlen: Soll: 0, Ist: ${testPasswort.anzahlZahlen()}, Sonderzeichen: Soll: 0, Ist: ${testPasswort.anzahlSonderzeichen()} \\n\")   \n}\ntests++\n\nif(fehler == 0)\n    println(\"Super! Alle $tests Tests bestanden!\")\nelse\n    println(\"Bei $fehler von $tests Tests kamen Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 51,
+      "ch": 60
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.16",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.17",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
   }
  ],
  "markdownCells": [
@@ -918,8 +1180,38 @@
     },
     {
      "start_checkpoint": 1617641979263,
-     "parent": "n.0.17",
+     "parent": "n.0.18",
      "markdown": "## Passwortgenerator\n\nUnter Verwendung der `passwordstaerke`-Methode soll nun mit Hilfe der [Brute-Force-Methode](https://de.wikipedia.org/wiki/Brute-Force-Methode) ein Passwort generiert werden. Implementieren Sie dazu eine Methode `passwortGenerieren`. Die Stärke des generierten Passworts soll eine bestimmte Stärke, die übergeben werde soll, übersteigen."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.4",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "markdown": "# Einführung\n\nJeder Abschnitt wird von einer größeren Übungsaufgabe begleitet. Während in den Abschnitten 1-3 die Übungen mit Jupyter erledigt werden könne, wird in den Abschnitten 4 & 5 mit Android Studio gearbeitet (näheres dazu folgt in Abschnitt 4). In den ersten 3 Übungen wird ein seperates Notebook angeboten, das Sie runterladen und bearbeiten sollen. Eine Bearbeitung der Übungsaufgaben ist für das Abschlusszertifikat nötig. In der Aufgabenbeschreibung wird angegeben, wie die zu implementierenden Methoden oder Klassen benannt werden sollen. Bitte halten Sie sich an diese Vorgaben, da nur so die Tests, mit denen Sie Ihren Code ausprobieren können, funktionieren.\n\n\n\n# Aufgabe - Passwörter\n\nHeutzutage ist es immer wichtiger sichere Passwörter zu benutzen. Ob es der Zugang zum Online-Banking oder das Passwort für Netflix ist. Ein fremder Zugang kann einen großen Schaden verursachen. Deswegen soll im Folgenden ein Passwortgenerator und -validator programmiert werden, der sichere Passwörter erkennt und auch vorschlägt.<br />\nEin Passwort ist in dieser Aufgabe als \"sicher\" anzusehen, wenn es die [Standards des BSI](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.htmlhttps://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html) erfüllt:\n- 20 bis 25 Zeichen lang und zwei Zeichenarten genutzt (beispielsweise eine Folge von Wörtern).\n- 8 bis 12 Zeichen lang und vier Zeichenarten genutzt. \n- 8 Zeichen lang, drei Zeichenarten genutzt und es zusätzlich durch eine Mehr-Faktor-Authentisierung abgesichert (beispielsweise durch einen Fingerabdruck, eine Bestätigung per App oder eine PIN).\n\nDer dritten Stichpunkt soll im Folgenden ignoriert werden, da eine Mehr-Faktor-Authentisierung die Aufgabe übersteigen würde. Es soll sich auf die ersten beiden Stichpunkte fokussiert werden.\n\nDie 4 Zeichenarten sind:\n- Großbuchstaben\n- Kleinbuchstaben\n- Zahlen\n- Sonderzeichen (zur Vereinfachnung nur `@`, `/`, `#`, `+`, `-`, `*`, `!`, `?`, `&`)\n\n## Anzahl der Zeichenarten\nImplementieren Sie als Vorbereitung auf die eigentliche Aufgabe Erweiterungsmethoden für die Klasse `String`.\n- `anzahlKleinbuchstaben`: gibt die Anzahl an Kleinbuchstaben zurück\n- `anzahlGrossbuchstaben`: gibt die Anzahl an Großbuchstaben zurück\n- `anzahlZahlen`: gibt die Anzahl an Zahlen zurück\n- `anzahlSonderzeichen`: gibt die Anzahl der Sonderzeichen zurück\n- `anzahlZeichenarten`: gibt die Anzahl der Zeichenarten zurück"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.5",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "markdown": "## Passwortstärke\nNun soll die Stärke des Passworts von 0 - 100 berechnet werden. Die Berechnung ist an [Passwordmeter](http://www.passwordmeter.com/) angelehnt. Folgende Attribute geben Punkte:\n\n<table style=\"font-size: 18px; width: 100%\">\n<thead>\n  <tr>\n    <th>Eigenschaft</th>\n    <th style=\"width: 20%; min-width: 100px\">Punkte</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Anzahl Zeichen insgesamt</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Großbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Kleinbuchstaben</td>\n    <td>+((len-n)*2)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zahlen</td>\n    <td>+(n*4)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Sonderzeichen</td>\n    <td>+(n*6)</td>\n  </tr>\n  <tr>\n    <td>Anzahl Zeichenarten (2-4)</td>\n    <td>+(n*3)</td>\n  </tr>\n  <tr>\n    <td>Nur 1 Zeichenart</td>\n    <td>-len</td>\n  </tr>\n  <tr>\n      <td>Wiederholende Zeichen (Bsp: \"<b>aaaa</b>\" n=4, \"<b>a</b>C<b>w</b>i3Wf<b>a</b>sd<b>aw</b>\" n=5)</td>\n    <td>-(n*3)</td>\n  </tr>\n</tbody>\n</table>\n\nImplementieren Sie eine Methode `passwortstaerke`, die das Passwort (als `String`) übergeben bekommt. Zurückgegeben soll die Stärke des Passworts, welche mit der obigen Tabelle berechnet werden soll. Der beste Wert ist 100, der Schlechteste 0."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.6",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "n.0.18",
+     "markdown": "Nun soll die Passwortgenerierung erweitert werden. Implementieren Sie eine zusätzliche Methode `passwortGenerierenErweitert`, die zusätzlich zu der Mindeststärke auch die Anzahl der Zeichen jeder Art übergeben werden. Standardmäßig soll die Mindeststärke 75 und die Anzahl an Zeichen jeder Art 0 sein. Die Zeichen sollen an zufälligen Stellen im Passwort zu finden sein. Ist nach 200 Versuchen kein Passwort für die Mindeststärke mit der Kombination an Zeichen möglich, soll ein Fehler geworfen/ausgegeben werden.<br />\nBeispiel:<br />\n`passwortGenerierenErweitert(80,3,4,2,1)`: Generiert ein Passwort, das mindestens die Stärke 80, 3 Großbuchstaben, 4 Kleinbuchstaben, 2 Zahlen und 1 Sonderzeichen besitzt.<br />\n`passwortGenerierenErweitert(50,5,7)`: Generiert ein Passwort, das mindestens die Stärke 50, 5 Großbuchstaben, 7 Kleinbuchstaben, 0 Zahlen und 0 Sonderzeichen besitzt.<br />"
     }
    ]
   }
@@ -1293,6 +1585,70 @@
        "metadata": {
         "new_classpath": []
        }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.18",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "c.9.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Alle 9 Tests bestanden!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.19",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "c.11.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Alle 9 Tests bestanden!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.20",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "c.13.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Alle 27 Tests bestanden!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.21",
+   "versions": [
+    {
+     "start_checkpoint": 1618320018147,
+     "parent": "c.15.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Alle 56 Tests bestanden!\n"
       }
      ]
     }
