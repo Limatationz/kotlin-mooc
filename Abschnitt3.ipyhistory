@@ -789,6 +789,22 @@
      "index": 0
     }
    ]
+  },
+  {
+   "timestamp": 1619530334504,
+   "notebook": 24,
+   "targetCells": [
+    {
+     "cell": "c.55.0",
+     "changeType": "added",
+     "index": 60
+    },
+    {
+     "cell": "c.56.0",
+     "changeType": "added",
+     "index": 82
+    }
+   ]
   }
  ],
  "notebook": {
@@ -2137,6 +2153,94 @@
      "m.37.0",
      "c.54.0"
     ]
+   },
+   {
+    "start_checkpoint": 1619530334504,
+    "cells": [
+     "m.38.1",
+     "c.13.0",
+     "m.2.0",
+     "c.2.0",
+     "m.3.0",
+     "c.3.0",
+     "m.4.0",
+     "c.4.0",
+     "m.5.0",
+     "c.5.0",
+     "m.6.0",
+     "c.6.0",
+     "m.7.0",
+     "c.7.0",
+     "m.8.0",
+     "c.8.0",
+     "m.9.1",
+     "c.14.0",
+     "m.11.0",
+     "c.15.0",
+     "c.16.0",
+     "m.12.0",
+     "c.17.0",
+     "m.13.0",
+     "c.18.0",
+     "m.14.0",
+     "c.19.0",
+     "m.15.0",
+     "c.20.0",
+     "m.16.0",
+     "c.21.0",
+     "m.17.0",
+     "m.18.0",
+     "c.22.0",
+     "m.29.0",
+     "c.33.0",
+     "c.34.0",
+     "m.20.0",
+     "c.23.0",
+     "m.21.0",
+     "c.24.0",
+     "m.22.0",
+     "c.25.0",
+     "m.23.0",
+     "c.26.0",
+     "m.24.0",
+     "m.25.0",
+     "c.27.0",
+     "m.26.0",
+     "c.28.0",
+     "m.30.0",
+     "c.29.0",
+     "m.28.0",
+     "c.30.0",
+     "m.31.0",
+     "c.35.0",
+     "m.32.0",
+     "c.36.0",
+     "m.33.0",
+     "c.37.0",
+     "c.55.0",
+     "m.34.1",
+     "c.40.9",
+     "m.39.0",
+     "c.45.0",
+     "m.40.0",
+     "c.46.0",
+     "m.41.0",
+     "c.47.0",
+     "m.42.0",
+     "c.48.0",
+     "m.43.0",
+     "c.49.0",
+     "m.44.0",
+     "c.50.0",
+     "m.45.0",
+     "c.51.0",
+     "m.46.0",
+     "c.52.0",
+     "m.47.0",
+     "c.53.0",
+     "m.37.0",
+     "c.56.0"
+    ]
    }
   ]
  },
@@ -2188,7 +2292,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Auto (\n    val marke: String, //Es wird ein Feld mit dem Namen marke und ein Getter hinzugefügt und bei Erzeugung mit dem übergebenen Wert gefüllt.\n    var farbe: String, //Es wird ein Feld mit dem Namen farbe und einem Getter sowie Setter hinzugefügt und bei Erzeugung mit dem übergebenen Wert gefüllt.\n    ps: Int //Dies ist lediglich ein Übergabeparameter, der im Konstruktor verwendet werden kann.\n)\n\nval a1 = Auto (\"BMW\", \"Gelb\", 220)\nprintln(\"Marke von a1: ${a1.marke}, Farbe von a1: ${a1.farbe}.\") //Benutzung der Getter von marke und farbe\n//println(a1.ps) -> Error, da ps kein Feld sondern nur ein Übergabeparameter ist\n//a1.marke = \"Audi\" -> Error, da das Feld marke nicht verändert werden kann und auch keinen Setter besitzt\na1.farbe = \"Rot\" //Aufruf des Setters von farbe. Das Feld farbe kann verändert werden, da ein Setter vorhanden ist und das Feld den Typ var besitzt\nprintln(\"Farbe von a1 nach Umlackierung: ${a1.farbe}.\")",
      "start": {
       "line": 0,
@@ -2209,7 +2313,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Computer (){\n    val marke: String = \"Fuhitsu\"\n    var istAn: Boolean = false\n}\n\nval c1 = Computer ()\nprintln(\"Marke von c1: ${c1.marke}, ist c1 an?: ${c1.istAn}.\") //Benutzung der Getter von marke und istAn\n// c1.marke = \"LD\" -> Error, da das Feld marke nicht verändert werden kann und auch keinen Setter besitzt\nc1.istAn = true //Aufruf des Setters von istAn. Das Feld istAn kann verändert werden, da ein Setter vorhanden ist und das Feld den Typ var besitzt\nprintln(\"ist c1 an?: ${c1.istAn}\")",
      "start": {
       "line": 0,
@@ -2230,7 +2334,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Flasche (val farbe: String, var füllung: Int)\nval f1 = Flasche (\"Grau\", 20)\nprintln(\"Die Flasche mit der Farbe ${f1.farbe} ist zu ${f1.füllung}% gefüllt.\")",
      "start": {
       "line": 0,
@@ -2251,7 +2355,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Bett (\n    laenge: Int, breite: Int, belegt: Boolean //Übergabeparameter bei Objekterzeugung. Können im init-Block verwendet werden.\n){\n    val laenge: Int\n    val breite: Int\n    var belegt: Boolean\n    \n    init { //primärer Konstruktor mit init-Block. In diesem kann auf die Parameter zugegriffen werden.\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = if (breite > 0) breite else 0\n        this.belegt = belegt\n    }\n}\nval b1 = Bett (160, 200, false)\nval b2 = Bett (-100, 50, true)\nprintln(\"Bett b1: Länge ${b1.laenge}, Breite ${b1.breite}, belegt ${b1.belegt}\")\nprintln(\"Bett b2: Länge ${b2.laenge}, Breite ${b2.breite}, belegt ${b2.belegt}\")",
      "start": {
       "line": 0,
@@ -2272,7 +2376,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Tisch (\n    laenge: Int, breite: Int, farbe: String //Übergabeparameter bei Objekterzeugung. Können den Feldern direkt zugewiesen werden.\n){\n    val laenge: Int = if (laenge > 0) laenge else 0\n    val breite = if (breite > 0) breite else 0 //Kurzschreibweise ist zulässig. Dabei wird der Datentyp des Parameters übernommen\n    var farbe: String = farbe\n}\n\nval t1 = Tisch (100, 100, \"Braun\")\nval t2 = Tisch (-100, 50, \"Weiß\")\nprintln(\"Tisch t1: Länge ${t1.laenge}, Breite ${t1.breite}, Farbe ${t1.farbe}\")\nprintln(\"Tisch t2: Länge ${t2.laenge}, Breite ${t2.breite}, Farbe ${t2.farbe}\")",
      "start": {
       "line": 0,
@@ -2293,7 +2397,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Stuhl (laenge: Int, breite: Int, var belegt: Boolean){\n    val laenge = if (laenge > 0) laenge else 0\n    val breite: Int\n    \n    init {\n        this.breite = if (breite > 0) breite else 0\n    }\n}\nval s1 = Stuhl (20, 20, true)\nval s2 = Stuhl (-20, 30, false)\nprintln(\"Stuhl s1: Länge ${s1.laenge}, Breite ${s1.breite}, belegt ${s1.belegt}\")\nprintln(\"Stuhl s2: Länge ${s2.laenge}, Breite ${s2.breite}, belegt ${s2.belegt}\")",
      "start": {
       "line": 0,
@@ -2314,7 +2418,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Fenster { //Parameterklammern fehlen\n    val laenge: Int\n    val breite: Int\n    var zustand: String\n    \n    //Konstruktor eines normalen Fensters\n    constructor (laenge: Int, breite: Int, zustand: String){\n        println(\"Konstruktor eines normalen Fensters\")\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = if (breite > 0) breite else 0\n        this.zustand = zustand\n    }\n    //Konstruktor eines quadratischen Fensters\n    constructor (laenge: Int, zustand: String){\n        println(\"Konstruktor eines quadratischen Fensters\")\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = laenge\n        this.zustand = zustand\n    }\n    //Konstruktor eines neuen Fensters\n    constructor (laenge: Int, breite: Int){\n        println(\"Konstruktor eines neuen Fensters\")\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = if (breite > 0) breite else 0\n        this.zustand = \"Neu\"\n    }\n}\n\nval fensterNormal = Fenster (50, -80, \"Gebraucht\")\nprintln(\"Fenster fensterNormal: Länge ${fensterNormal.laenge}, Breite ${fensterNormal.breite}, Zustand ${fensterNormal.zustand} \\n\")\nval fensterQuadrat = Fenster (60, \"Schmutzig\")\nprintln(\"Fenster fensterQuadrat: Länge ${fensterQuadrat.laenge}, Breite ${fensterQuadrat.breite}, Zustand ${fensterQuadrat.zustand} \\n\")\nval fensterNeu = Fenster (100, 120)\nprintln(\"Fenster fensterNeu: Länge ${fensterNeu.laenge}, Breite ${fensterNeu.breite}, Zustand ${fensterNeu.zustand}\")",
      "start": {
       "line": 0,
@@ -2431,7 +2535,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Person (val name: String, var alter: Int)\n\nval p1 = Person(\"Max Mustermann\", 21)\nprintln(\"Person p1, $p1: \\nName: ${p1.name}, Alter: ${p1.alter}\")",
      "start": {
       "line": 0,
@@ -2452,7 +2556,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "//primärer Konstruktor: Defaultkonstruktor\nclass Batterie (val kapazitaet: Int, val wiederaufladbar: Boolean, var ladezyklen: Int, val status: String){\n    //sekundärer Konstruktor: Neue Batterie mit Angabe von Kapazität und Wiederaufladbarkeit\n    constructor (kapazitaet: Int, wiederaufladbar: Boolean) : this(kapazitaet, wiederaufladbar, 0, \"Neu\") //Benutzt den primären Konstruktor\n    //sekundärer Konstruktor: Neue BB Einmalbatterie\n    constructor () : this(2400, false) //Benutzt den anderen sekundären Konstruktor\n}\nval eigeneBatterie = Batterie(2000, true, 42, \"Gebraucht\") //primärer Konstruktor\nprintln(\"Batterie eigeneBatterie: Kapazität ${eigeneBatterie.kapazitaet}, Wiederaufladbar ${eigeneBatterie.wiederaufladbar}, Ladezyklen ${eigeneBatterie.ladezyklen}, Status ${eigeneBatterie.status}\")\nval neueBatterie = Batterie(3000, false) //sekundärer Konstruktor: Neue Batterie mit Angabe von Kapazität und Wiederaufladbarkeit\nprintln(\"Batterie neueBatterie: Kapazität ${neueBatterie.kapazitaet}, Wiederaufladbar ${neueBatterie.wiederaufladbar}, Ladezyklen ${neueBatterie.ladezyklen}, Status ${neueBatterie.status}\")\nval BBBatterie = Batterie() //sekundärer Konstruktor: Neue BB Einmalbatterie\nprintln(\"Batterie BBBatterie: Kapazität ${BBBatterie.kapazitaet}, Wiederaufladbar ${BBBatterie.wiederaufladbar}, Ladezyklen ${BBBatterie.ladezyklen}, Status ${BBBatterie.status}\")",
      "start": {
       "line": 0,
@@ -2473,7 +2577,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "//TODO\n\n//Tests\nvar fehler = 0\nval test1 = Pizza(25, listOf(\"Schinken\"), false)\nif( test1.groeße != 25 || test1.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test1.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 1! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test1.groeße}, Beläge ${test1.belaege}, Geschnitten ${test1.geschnitten}\")\n}\nval test2 = Pizza(31, listOf(\"Schinken\"), false)\nif( test2.groeße != -1 || test2.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test2.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 2! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test2.groeße}, Beläge ${test2.belaege}, Geschnitten ${test2.geschnitten}\")\n}\nval test3 = Pizza(14, listOf(\"Schinken\"), false)\nif( test3.groeße != -1 || test3.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test3.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 3! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test3.groeße}, Beläge ${test3.belaege}, Geschnitten ${test3.geschnitten}\")\n}\nval test4 = Pizza(31, listOf(\"Schinken\"), false)\nif( test4.groeße != -1 || test4.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test4.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 4! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test4.groeße}, Beläge ${test4.belaege}, Geschnitten ${test4.geschnitten}\")\n}\nval test5 = Pizza(28, emptyList(), true)\nif( test5.groeße != 28 || test5.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test5.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 5! Richtig wäre: Größe 28, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test5.groeße}, Beläge ${test5.belaege}, Geschnitten ${test5.geschnitten}\")\n}\nval test6 = Pizza(15)\nif( test6.groeße != 15 || test6.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test6.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 6! Richtig wäre: Größe 15, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test6.groeße}, Beläge ${test6.belaege}, Geschnitten ${test6.geschnitten}\")\n}\nval test7 = Pizza()\nif( test7.groeße != 25 || test7.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Thunfisch\", \"Zwiebeln\", \"Peperoni\") || test7.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 7! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Thunfisch, Zwiebeln, Peperoni], Geschnitten false \\n  Ist: Größe ${test7.groeße}, Beläge ${test7.belaege}, Geschnitten ${test7.geschnitten}\")\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -2494,7 +2598,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "//Lösung\nclass Pizza (groeße: Int, belaege: List<String>, geschnitten: Boolean){\n    val groeße: Int\n    val belaege: MutableList<String>\n    val geschnitten: Boolean\n    \n    init {\n        this.groeße = if (15 <= groeße && groeße <= 30) groeße else -1\n        this.belaege = mutableListOf(\"Tomatensoße\", \"Mozzarella\")\n        this.belaege += belaege\n        this.geschnitten = geschnitten\n    }\n    \n    constructor (groeße: Int) : this(groeße, emptyList(), true)\n    constructor () : this(25, listOf(\"Thunfisch\", \"Zwiebeln\", \"Peperoni\"), true)\n}\n\n//Tests\nvar fehler = 0\nval test1 = Pizza(25, listOf(\"Schinken\"), false)\nif( test1.groeße != 25 || test1.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test1.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 1! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test1.groeße}, Beläge ${test1.belaege}, Geschnitten ${test1.geschnitten}\")\n}\nval test2 = Pizza(31, listOf(\"Schinken\"), false)\nif( test2.groeße != -1 || test2.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test2.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 2! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test2.groeße}, Beläge ${test2.belaege}, Geschnitten ${test2.geschnitten}\")\n}\nval test3 = Pizza(14, listOf(\"Schinken\"), false)\nif( test3.groeße != -1 || test3.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test3.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 3! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test3.groeße}, Beläge ${test3.belaege}, Geschnitten ${test3.geschnitten}\")\n}\nval test4 = Pizza(31, listOf(\"Schinken\"), false)\nif( test4.groeße != -1 || test4.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test4.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 4! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test4.groeße}, Beläge ${test4.belaege}, Geschnitten ${test4.geschnitten}\")\n}\nval test5 = Pizza(28, emptyList(), true)\nif( test5.groeße != 28 || test5.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test5.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 5! Richtig wäre: Größe 28, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test5.groeße}, Beläge ${test5.belaege}, Geschnitten ${test5.geschnitten}\")\n}\nval test6 = Pizza(15)\nif( test6.groeße != 15 || test6.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test6.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 6! Richtig wäre: Größe 15, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test6.groeße}, Beläge ${test6.belaege}, Geschnitten ${test6.geschnitten}\")\n}\nval test7 = Pizza()\nif( test7.groeße != 25 || test7.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Thunfisch\", \"Zwiebeln\", \"Peperoni\") || test7.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 7! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Thunfisch, Zwiebeln, Peperoni], Geschnitten false \\n  Ist: Größe ${test7.groeße}, Beläge ${test7.belaege}, Geschnitten ${test7.geschnitten}\")\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -2515,7 +2619,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "public class Person (name: String, alter: Int){\n    val name: String = name\n        get() = \"Name: $field\" //Wird auf das Feld name zugegeriffen, wird der String \"Name: name\" zurückgegeben\n        //Kein Setter möglich, da val\n    var alter = if (alter > 0) alter else -1\n        get() = field //Standardgetter\n        set(value){ //Eigener Setter. Der neue Wert wird in value gespeichert\n            field = if (value > field) value else field //Das Feld wird auf den neuen Wert gesetzt, falls dieser größer als der Aktuelle ist.\n        }\n}\nval p1 = Person (\"Max Mustermann\", -10)\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}\")\np1.alter = 21\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}\")\np1.alter = -10\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}\")",
      "start": {
       "line": 0,
@@ -2536,7 +2640,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "public class Person (name: String, alter: Int){\n    val name: String = name\n        get() = \"Name: $field\" //Wird auf das Feld name zugegeriffen, wird der String \"Name: name\" zurückgegeben\n        //Kein Setter möglich, da val\n    var alter = if (alter > 0) alter else -1\n        get() = field //Standardgetter\n        set(value){ //Eigener Setter. Der neue Wert wird in value gespeichert\n            field = if (value > field) value else field //Das Feld wird auf den neuen Wert gesetzt, falls dieser größer als der Aktuelle ist.\n        }\n    val istVolljaerig //Datentyp Boolean aus dem Getter\n        get() = alter > 17\n}\nval p1 = Person (\"Max Mustermann\", 21)\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}, Volljährig ${p1.istVolljaerig}\")",
      "start": {
       "line": 0,
@@ -2557,7 +2661,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "public class Person (name: String, alter: Int){\n    val name = name\n    var alter = alter\n    val istVolljaehrig: Boolean by lazy {\n        println(\"Wird berechnet...\")\n        alter > 18\n    }\n}\nval p1 = Person(\"Erika Musterfrau\", 32)\nprintln(p1.istVolljaehrig)\nprintln(p1.istVolljaehrig)",
      "start": {
       "line": 0,
@@ -2578,7 +2682,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "public class Person (name: String, alter: Int){\n    val name = name\n    var alter = alter\n    lateinit var istVolljaehrig: String\n    \n    fun berechneIstVolljaehrig(){\n        istVolljaehrig = if (alter > 17) \"Volljährig\" else \"Nicht Volljährig\"\n    }\n}\nval p1 = Person (\"Max Mustermann\", 30)\n//println(p1.istVolljaehrig) //Error: UninitializedPropertyAccessException: lateinit property istVolljaehrig has not been initialized\np1.berechneIstVolljaehrig() //istVolljaehrig wird berechnet\nprintln(p1.istVolljaehrig)",
      "start": {
       "line": 0,
@@ -2599,7 +2703,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "public class Person (name: String, alter: Int){\n    val name = name\n    var alter = alter\n    lateinit var istVolljaehrig: String\n    \n    fun berechneIstVolljaehrig(){\n        istVolljaehrig = if (alter > 17) \"Volljährig\" else \"Nicht Volljährig\"\n    }\n    fun istInitialisiert() = this::istVolljaehrig.isInitialized\n}\n\nval p1 = Person (\"Max Mustermann\", 30)\nprintln(p1.istInitialisiert())\np1.berechneIstVolljaehrig() //istVolljaehrig wird berechnet\nprintln(p1.istInitialisiert())",
      "start": {
       "line": 0,
@@ -2620,7 +2724,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Person(val name: String, var alter: Int){\n    fun hatGeburtstag() = alter++ //Objektmethode\n    override fun toString() = \"$name ist $alter Jahre alt.\" //Objektmethode die die Methode toString() überschreibt\n}\n\nval p1 = Person(\"Max Mustermann\", 30)\nprintln(\"Vor Geburtstag: $p1\")\np1.hatGeburtstag()\nprintln(\"Nach Geburtstag: $p1\")",
      "start": {
       "line": 0,
@@ -2641,7 +2745,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "data class Punkt(val x: Int, val y: Int, val z: Int)\nval p1 = Punkt (0,0,0)\nprintln(\"Punkt p1: $p1\") //Verwendung der automatisch generierten toString()-Methode\nval p2 = Punkt (1,1,1)\nif (p1 == p2) //Verwendung der automatisch generierten equals()-Methode\n    println(\"p1 und p2 sind gleich.\")\nelse\n    println(\"p1 und p2 sind ungleich.\")",
      "start": {
       "line": 0,
@@ -2662,7 +2766,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "val p1 = Punkt (0,1,2)\nprintln(\"p1.component1(): ${p1.component1()}\")\nval (x, y, z) = p1\nprintln(\"x: $x, y: $y, z: $z\")",
      "start": {
       "line": 0,
@@ -2683,7 +2787,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "val p1 = Punkt (0,1,2)\nval p2 = p1.copy()\nprintln(\"p1: $p1\")\nprintln(\"p2: $p2\")\nval p3 = p1.copy(x=4)\nprintln(\"p3: $p3\")",
      "start": {
       "line": 0,
@@ -2704,7 +2808,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "data class Punkt (val x: Int, val y: Int, val z: Int){\n    val istUrsprung = x == 0 && y == 0 && z == 0\n}\nval p1 = Punkt (0,0,0)\nprintln(\"Punkt p1 ist im Ursprung: ${p1.istUrsprung}, $p1\")\nval p2 = Punkt (1,1,1)\nprintln(\"Punkt p2 ist im Ursprung: ${p2.istUrsprung}, $p2\")",
      "start": {
       "line": 0,
@@ -2725,7 +2829,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "private val satz = object {\n    val subjekt = \"Kotlin\"\n    val praedikat = \"ist\"\n    val objekt = \"Programmiersprache\"\n    val vollstaendig = \"Kotlin ist eine Programmiersprache\"\n}\n\nprintln(\"Das Subjekt des Satzes ${satz.vollstaendig} ist ${satz.subjekt} \")",
      "start": {
       "line": 0,
@@ -2746,7 +2850,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "object Rechner {\n    val zahl: Int\n    init {\n        println(\"Singleton Rechner wurde erzeugt.\")\n        zahl = (0..10).random()\n    }\n    \n    fun addieren(a: Int, b: Int) = a + b\n}\n\nval a = 5\nval b = 10\nprintln(\"Berechnung ohne Singleton: ${a+b}\")\nprintln(\"Berechnung mit Singleton: ${Rechner.addieren(a,b)}\")\nprintln(\"Zufallszahl des Singletons: ${Rechner.zahl}\")",
      "start": {
       "line": 0,
@@ -2767,7 +2871,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Student(val name: String, var alter: Int){\n    companion object {\n        var zaehler = 0\n            get() = field++\n    }\n    \n    var matrikelnummer: Int\n    \n    init {\n        matrikelnummer = zaehler\n    }\n}\n\nval s1 = Student (\"Max\", 21)\nval s2 = Student (\"Anna\", 25)\nval s3 = Student (\"Simon\", 26)\nval s4 = Student (\"Sophie\", 19)\nprintln(\"Die Marikelnummer von ${s1.name} ist ${s1.matrikelnummer}.\")\nprintln(\"Die Marikelnummer von ${s2.name} ist ${s2.matrikelnummer}.\")\nprintln(\"Die Marikelnummer von ${s3.name} ist ${s3.matrikelnummer}.\")\nprintln(\"Die Marikelnummer von ${s4.name} ist ${s4.matrikelnummer}.\")",
      "start": {
       "line": 0,
@@ -2788,7 +2892,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "import java.time.LocalTime\n\nclass Zahlen(){\n    companion object {\n        var nummer = 1\n            get() = field\n    }\n    object Zwei {\n        var nummer = 2\n    }\n    object Drei {\n        var nummer = 3\n    }\n    object Zeit {\n        fun gibZeit() = LocalTime.now()\n    }\n}\n\nprintln(\"Die Nummer des Standard Companion Objects ist ${Zahlen.nummer}.\")\nprintln(\"Die Nummer des Companion Objects Zwei ist ${Zahlen.Zwei.nummer}.\")\nprintln(\"Die Nummer des Companion Objects Drei ist ${Zahlen.Drei.nummer}.\")\nprintln(\"Es ist aktuell ${Zahlen.Zeit.gibZeit()} Uhr.\")",
      "start": {
       "line": 0,
@@ -2852,7 +2956,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "//TODO\n\n//Test\nvar fehler = 0\nval p1 = Parkplatzverwaltung(mutableListOf(true, true, false, false, true))\nif (p1.toString() != \"xx--x\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nif (!p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich nicht belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.toString() != \"xx-xx\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nval p2 = Parkplatzverwaltung()\nif (p2.toString() != \"-----\"){\n    println(\"Fehler! p2 sollte eigentlich '-----' sein, ist jedoch '$p2'\")\n    fehler++\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -2873,7 +2977,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "//Lösung\nclass Parkplatzverwaltung(parkplatz: MutableList<Boolean>){\n    private val parkplatz: MutableList<Boolean> = parkplatz\n    \n    constructor() : this(MutableList<Boolean>(5) { false })\n    \n    fun einparken(nummer: Int): Boolean {\n        return if (!parkplatz[nummer]) {\n            parkplatz[nummer] = true\n            true\n        }\n        else {\n            false\n        }\n    } \n\n    override fun toString(): String {\n        var res = \"\"\n        parkplatz.forEach {\n            res += if (it) \"x\" else \"-\"\n        }\n        return res\n    }\n}\n\n//Test\nvar fehler = 0\nval p1 = Parkplatzverwaltung(mutableListOf(true, true, false, false, true))\nif (p1.toString() != \"xx--x\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nif (!p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich nicht belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.toString() != \"xx-xx\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nval p2 = Parkplatzverwaltung()\nif (p2.toString() != \"-----\"){\n    println(\"Fehler! p2 sollte eigentlich '-----' sein, ist jedoch '$p2'\")\n    fehler++\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -2894,7 +2998,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "enum class Wochentag {\n    MONTAG, DIENSTAG, MITTWOCH, DONNERSTAG, FREITAG, SAMSTAG, SONNTAG\n}\n\nclass Tag (val name : Wochentag)\n\nval montag = Tag(Wochentag.MONTAG)\nprintln(\"Der Name von montag ist ${montag.name}\")",
      "start": {
       "line": 0,
@@ -2915,7 +3019,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "print(\"Alle Einträge des Enums: \")\nWochentag.values().forEach { \n    print(\"$it, \")\n}\n\nprintln()\nprintln(\"Vollständiger Name von FREITAG: ${Wochentag.valueOf(\"FREITAG\")}\")",
      "start": {
       "line": 0,
@@ -2936,7 +3040,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "enum class Wochentag (val nummer: Int){\n    MONTAG(1), DIENSTAG(2), MITTWOCH(3), DONNERSTAG(4), FREITAG(5), SAMSTAG(6), SONNTAG(7);\n    \n    val zufallszahl = (0..10).random()\n    \n    fun istWochenende() = if (this == SAMSTAG || this == SONNTAG) true else false\n}\n\nval montag = Wochentag.MONTAG\nprintln(\"Montag ist ein Tag des Wochenendes: ${montag.istWochenende()}, Nummer des Tags: ${montag.nummer}, Zufallszahl: ${montag.zufallszahl}\")\nval samstag = Wochentag.SAMSTAG\nprintln(\"Samstag ist ein Tag des Wochenendes: ${samstag.istWochenende()}, Nummer des Tags: ${samstag.nummer}, Zufallszahl: ${montag.zufallszahl}\")",
      "start": {
       "line": 0,
@@ -3049,7 +3153,7 @@
     },
     {
      "start_checkpoint": 1619345085096,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "open class Person(val name: String, var alter: Int){\n    override fun toString() = \"Ich bin $name und bin $alter Jahre alt.\"\n}\n\nclass Student(name: String, alter: Int) : Person (name, alter){\n    companion object {\n        var zaehler = 0\n            get() = field++\n    }\n    val matrikelnummer = zaehler\n    \n    override fun toString() = \"Ich bin $name, bin $alter Jahre alt und besitze die Matrikelnummer $matrikelnummer.\"\n}\n\nval p1 = Person (\"Max Mustermann\", 25)\nval s1 = Student (\"Erika Mustermann\", 21)\nprintln(\"p1: $p1\")\nprintln(\"s1: $s1\")"
     }
    ]
@@ -3134,7 +3238,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "open class Person(val name: String, var alter: Int){\n    open val schlachtruf\n        get() = \"Für die Horde!\"\n    \n    open fun hatGeburtstag() {\n        println(\"$name hat Geburtstag. Alles Gute!\")\n        alter++\n    } \n    override fun toString() = \"Ich bin $name und bin $alter Jahre alt. $schlachtruf\"\n}\n\nclass Student(name: String, alter: Int) : Person (name, alter){\n    companion object {\n        var zaehler = 0\n            get() = field++\n    }\n    val matrikelnummer = zaehler\n    \n    override val schlachtruf\n        get() = \"Für die Allianz!\"\n    \n    override fun hatGeburtstag() {\n        println(\"$name hat Geburtstag. Alles Gute!\")\n        alter--\n    } \n    \n    override fun toString() = \"Ich bin $name, bin $alter Jahre alt und habe die Matrikelnummer $matrikelnummer. $schlachtruf Oder vielleicht doch: ${super.schlachtruf}?\"\n}\n\nval p1 = Person (\"Max Mustermann\", 25)\nval s1 = Student (\"Erika Mustermann\", 21)\nprintln(\"p1: $p1\")\np1.hatGeburtstag()\nprintln(\"p1: $p1\")\nprintln(\"s1: $s1\")\ns1.hatGeburtstag()\nprintln(\"s1: $s1\")",
      "start": {
       "line": 0,
@@ -3155,7 +3259,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "open class Punkt2D (val x: Int, val y: Int){\n    override fun toString() = \"x: $x, y: $y\"\n}\n\nclass Punkt3D : Punkt2D{\n    val z: Int\n    \n    //sekundäre Konstruktoren\n    constructor (x: Int, y: Int, z: Int) : super (x, y) {\n        this.z = z\n    }\n    constructor () : super (0, 0) {\n        this.z = 0\n    }\n    \n    override fun toString() = \"${super.toString()}, z: $z\"\n}\n\nval p1 = Punkt3D (4, 2, 8)\nprintln(\"Punkt p1: $p1\")\nval p2 = Punkt3D()\nprintln(\"Punkt p2: $p2\")",
      "start": {
       "line": 0,
@@ -3176,7 +3280,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "abstract class Computer (val kerne: Int, val farbe: String){\n    var istAn = false\n    abstract fun einschalten()\n}\n\nclass Laptop (kerne: Int, farbe: String, val hatTouchscreen: Boolean) : Computer(kerne, farbe){\n    var istAufgeklappt = false\n    override fun einschalten() {\n        if (!istAufgeklappt) \n            istAufgeklappt = true\n        istAn = true\n        println(\"Laptop wurde eingeschalten.\")\n    }\n}\n\nclass Standcomputer (kerne: Int, farbe: String) : Computer(kerne, farbe){\n    override fun einschalten() {\n        istAn = true\n        println(\"Standcomputer wurde eingeschalten.\")\n    }\n}\n\n//val c1 = Computer (8, \"Schwarz\") -> Error: Cannot create an instance of an abstract class\nval l1 = Laptop(6, \"Rot\", false)\nl1.einschalten()\nval s1 = Standcomputer(12, \"Weiß\")\ns1.einschalten()",
      "start": {
       "line": 0,
@@ -3197,7 +3301,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "//Kotlin Fehelr??\n\nsealed class Fehler\ndata class Laufzeitfehler(val f: Int) : Fehler()\ndata class Kompilierfehler() : Fehler()\ndata class Referenzfehler() : Fehler()\n\nval f1 = Kompilierfehler()\n\nwhen (f1){\n    is Laufzeitfehler -> println(\"Es ist ein Laufzeitfehler aufgetreten.\")\n    is Kompilierfehler -> println(\"Es ist ein Kompilierfehler aufgetreten.\")\n    is Referenzfehler -> println(\"Es ist ein Referenzfehler aufgetreten.\")\n}",
      "start": {
       "line": 0,
@@ -3218,7 +3322,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "interface Addition {\n    val dieZahl: Int\n    \n    fun add2(a: Int, b: Int): Int\n    fun add3(a: Int, b: Int, c: Int) = a + b + c\n}\n\nclass Rechner : Addition {\n    override val dieZahl = 42\n    override fun add2(a: Int, b: Int) = a + b\n}\n\nval rechner = Rechner()\nprintln(\"rechner.dieZahl: ${rechner.dieZahl}\")\nprintln(\"rechner.add2(5,3): ${rechner.add2(5,3)}\")\nprintln(\"rechner.add3(5,9,3): ${rechner.add3(5,9,3)}\")",
      "start": {
       "line": 0,
@@ -3239,7 +3343,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "data class Speicher<T> (var platz1: T, var platz2: T, var platz3: T)\n\nval s1 = Speicher(1,2,3)\nval s2 = Speicher(listOf(1,2,3),listOf(1,2,3),listOf(1,2,3))\nval s3 = Speicher(\"Kotlin\",\"Java\",\"C\")\nprintln(\"s1: $s1\")\nprintln(\"s2: $s2\")\nprintln(\"s3: $s3\")",
      "start": {
       "line": 0,
@@ -3260,7 +3364,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "class Gleichheitstest<T: Comparable<T>>{\n    fun istGleich(a: T, b: T) = if(a.compareTo(b) == 0) true else false\n}\nval gleichheitstestInt = Gleichheitstest<Int>()\nprintln(\"gleichheitstestInt.istGleich(3,3): ${gleichheitstestInt.istGleich(3,3)}\")\nprintln(\"gleichheitstestInt.istGleich(10,3): ${gleichheitstestInt.istGleich(10,3)}\")\nval gleichheitstestString = Gleichheitstest<String>()\nprintln(\"gleichheitstestString.istGleich('Kotlin','Kotlin'): ${gleichheitstestString.istGleich(\"Kotlin\",\"Kotlin\")}\")",
      "start": {
       "line": 0,
@@ -3281,7 +3385,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "fun <T: Comparable<T>> istGleich(a: T, b: T) = if(a.compareTo(b) == 0) true else false\nprintln(\"istGleich(3,3): ${istGleich(3,3)}\")\nprintln(\"istGleich('Kotlin','Kotlin'): ${istGleich(\"Kotlin\",\"Kotlin\")}\")",
      "start": {
       "line": 0,
@@ -3302,7 +3406,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "literal": "fun <T: Comparable<T>> MutableList<T>.entferneMinimum(): T?{\n    val min = minOrNull()\n    return if (min != null){\n        remove(min)\n        min\n    }\n    else {\n        null\n    }\n}\n\nval liste = mutableListOf(3,6,1,8,10)\nprintln(\"Entferntes Element: ${liste.entferneMinimum()}\")\nprintln(\"liste: $liste\")",
      "start": {
       "line": 0,
@@ -3322,6 +3426,42 @@
     {
      "start_checkpoint": 1619427664533,
      "parent": "n.0.22",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.55",
+   "versions": [
+    {
+     "start_checkpoint": 1619530334504,
+     "parent": "n.0.24",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.56",
+   "versions": [
+    {
+     "start_checkpoint": 1619530334504,
+     "parent": "n.0.24",
      "start": {
       "line": 1,
       "ch": 0
@@ -3360,7 +3500,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Es ist zu erkennen, dass der Kotlincode deutlich kürzer und übersichtlicher ist. Warum er so aussieht wird in den folgenden Lektionen genauer besprochen.\n\n### Felder\nFelder können Klassen einfach Hinzugefügt werden. Die erste Möglichkeit ist durch die Übergabeparameter der Klasse. Diese entsprechen den Parametern des Konstruktors und sind im Kopf der Klasse angesiedelt. Wird diesen bei öffentlicher Sichtbarkeit eine Variablenart (`val` oder `var`) zugewiesen, werden die Parameter zu Feldern umgewandelt. Das heißt es wird im Hintergrund ein Feld mit dem Namen des Parameters angelegt, welches bei Objekterzeugung mit dem Wert des Übergabeparameters gefüllt wird. Außerdem wird immer ein unsichtbarer Standard-Getter erzeugt. Wird dem Parameter `var` zugeordnet, wird zusätzlich ein rudimentärer Setter der Klasse hinzugefügt."
     }
    ]
@@ -3370,7 +3510,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Eine weitere Möglichkeit Felder zu definieren ist klassisch zu Beginn im Rumpf der Klasse. Diese werden jedoch nicht automatisch bei Objekterzeugung, sondern mit dem angegebenen Standardwert gefüllt. Diesen wird auch je nach Typ im Hintergrund ein Getter und Setter bei Seite gestellt."
     }
    ]
@@ -3380,7 +3520,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Konstruktor\nMit dem Konstruktor können die Felder mit Werten bestückt werden. Aufgrund des Konstruktorwirrars in Java, unterscheidet Kotlin zwischen 2 verschiedenenen Arten:\n* primärer Konstruktor: Dieser Konstruktor muss mindestens ein Mal in jeder Klasse enthalten sein. Falls er nicht explizit definiert wird, wird ein automatisch generierter Konstruktor implizit hinzugefügt.\n* sekundärer Konstruktor: Eine Anweisung, die auf den primären Konstruktor verweist und eine alternative Handhabung des primären Konstruktors ermöglicht.\n#### Primärer Konstruktor\nDer primäre Konstruktor besitzt drei verschiedene Erscheinungsformen:\n<ul>\n    <li>Defaultkonstruktor</li>\n    <li>Konstruktor mit <code>init</code>-Block</li>\n    <li>Konstruktor durch direkte Zuweisung</li>\n</ul>\n\nIm folgenden wird auf alle Arten Bezug genommen und im Anschluss ein Vergleich angestellt.\n##### Defaultkonstruktor\nDen Defaultkonstruktor wurde bereits bei den [Feldern](#Felder) kennengelernt. Dieser wird vom Compiler für alle Parameter, die einem Variablentyp zugewiesen sind, generiert.  "
     }
    ]
@@ -3390,7 +3530,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "##### Konstruktor mit `init`-Block\nNatürlich kann der Konstruktor auch selbst, wie in Java gewohnt, definiert werden. Dieser ist zwischen der Deklaration der Felder und den Objektmethoden anzusiedeln. Eingeleitet wird er mit dem Schlüsselwort `init` gefolgt von einem Methodenrumpf. Anders als von Java gewöhnt werden dessen Parameter nicht direkt im Kopf des Konstruktors angegeben, sondern im Kopf der Klasse. Die dort definierten Parameter können im Konstruktor benutzt werden. Bei Namenskonflikten findet wieder das Schlüsselwort `this` Anwendung, das das aktuelle Objekt referenziert."
     }
    ]
@@ -3400,7 +3540,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "##### Konstruktor durch direkte Initialisierung\nEine weitere Möglichkeit der Initialisierung ist die Felder direkt bei der Deklaration den Parametern oder festgelegten Werten zuzuweisen."
     }
    ]
@@ -3410,7 +3550,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "##### Vergleich\nJede Erscheinungsform des Konstruktors hat seine Vorteile und Anwendungsbereiche. Während der Defaultkonstruktor bei einfachen Klassen, bei denen nicht mit den Übergabedaten vor der Zuweisung gearbeitet werden, zu bevorzugen ist, bieten die expliziten Konstruktoren genau das. Auf dem ersten Blick scheint es so, als benötige man den Konstruktor mit einem `init`-Block nicht, da die Parameter scheinbar mit dem gleichen Ergebnis direkt zugewiesen werden können. Jedoch ist dieser bei komplexeren Klassen zu bevorzugen, da dort alle Daten erst auf Richtigkeit geprüft werden und so beispielweise auch mit `try` und `catch` gearbeitet werden kann (näheres dazu in [Lektion X](Lektion-X---Fehlerbehandlung)).\n\n##### Kombination\nDie verschiedenen Konstruktoren können auch beliebig miteinander kombiniert werden. "
     }
    ]
@@ -3420,7 +3560,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "##### Mehrere primäre Konstruktoren\nEine wichtige Eigenschaft einer Klasse fehlt aber noch: Die Erzeugung eines Objekts mit unterschiedlichen Parameterprofilen. Dazu können in der Klasse mehrere primäre Konstruktoren implementiert werden. Diesen wird das Schlüsselwort `constructor` vorangestellt. Außerdem bekommt jeder Konstruktor sein eigenes Parameterprofil, mit dem dieser dann in dessen Rumpf arbeiten kann. Die Konstruktoren ähnelm dabei dem `init`-Verfahren, da sie alle ihren eigenen Rumpf besitzen. Die Parameterklammern der Klasse werden weggelassen."
     }
    ]
@@ -3435,7 +3575,7 @@
     },
     {
      "start_checkpoint": 1619167525913,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "#### Sekundärer Konstruktor\nMit Hilfe eines sekundären Konstruktors ist es einfach möglich alternative Objekterzeugungen zu implementierten. Dazu wird ein primärer Konstruktor mit `this()` mit zu bestimmenden Parametern aufgerufen. Auch kann ein anderer sekündärer Konstruktor aufgerufen, jedoch muss am Ende ein Primärer benutzt werden, da nur dieser das Objekt erzeugen kann. Die Implementierung eines sekundären Konstruktors ähnelt der bei Benutzung mehrerer primärer Konstruktoren. Jedoch ist nur eine Anweisung erlaubt, die von den Parametern mit `:` getrennt wird. Diese muss einen Konstruktor aufrufen (`this()` oder `super()`)."
     }
    ]
@@ -3455,7 +3595,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Aufgabe\nImplementieren Sie eine Klasse `Pizza`. Jede Pizza soll eine Größe `groeße` (zwischen 15 und 30 [cm], ansonsten -1) und eine Liste aus Belägen `belaege` (Standardmäßig bereits mit Tomatensoße und Käse befüllt) enthalten. Außerdem soll gespeichert werden, ob sie geschnitten `geschnitten` werden soll. Wählen Sie einen passenden primären Konstruktor, der für jedes Feld einen Übergabeparameter besitzt. Fügen Sie außerdem weitere (sekundäre) Konstruktoren hinzu, die eine Pizza Magaritha (Tomatensoße, Mozzarella) und eine 25cm Pizza al Tonno (Tomatensoße, Mozzarella, Thunfisch, Zwiebeln, Peperoni) initialisieren. Beide Pizzas sollen geschnitten werden."
     }
    ]
@@ -3465,7 +3605,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Getter und Setter\nEs können aber auch eigene Getter und Setter für jedes Feld definiert werden, falls der Variablentyp dies zulässt. Sie müssen direkt nach den Feld definiert werden. Auf der aktuelle Wert des Feldes kann mit `field` zugegriffen werden. Der Setter bekommt den neuen Wert als Parameter übergeben. Der Datentyp des Parameters muss nicht angegeben werden, da dieser durch das Feld gegeben ist, jedoch muss ihm ein Name zugewiesen werden, der im Rumpf den neuen Wert repräsentiert. Ein Wert wird dem Feld mit einer Zuweisung an `field` geändert. Es sind immer die Datentypen der Felder zu beachten."
     }
    ]
@@ -3475,7 +3615,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "#### Computed Properties\nDurch die Definition eigener Getter können Felder auch kleine Methoden darstellen ohne einen eigenen Wert zu speichern. So können beispielsweise berechnete Wahrheitswerte zurückgegeben werden. Diese Handhabung kann rudimentäre Methoden ersetzen. Als Beispiel wird die bereits kennengelernte Klasse `Person` mit einem berechnetem Feld `istVolljaerig` ergänzt."
     }
    ]
@@ -3485,7 +3625,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "#### Lazy Properties\nEine Variable oder ein Feld des Typs `val` kann mit dem Schlüsselwort `by lazy` träge gemacht werden. Das heißt, dass der Wert erst bei Verwendung berechnet wird. Dazu ist ein Lambda-Ausdruck nötig, dessen Ergebnis der Wert des Feldes oder der Variable ist. Wird die Variable danach noch einmal verwendet, wird der Wert jedoch nicht noch einmal berechnet, sondern der gespeicherte Wert wird verwendet.\n\nQuiz: Wie oft wird \"Wird berechnet...\" ausgegeben?"
     }
    ]
@@ -3495,7 +3635,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "#### `lateinit`\nEin weiteres ähnliches Konstrukt ist `lateinit`. Dies findet Anwendung, wenn ein Feld erst nach der Objekterzeugung einen Wert zurgewiesen bekommt. Dieses Feld kann dann im Konstruktor ignoriert werden.<br />\nVorraussetzungen:\n* Das Feld ist vom Typ `var`\n* Der Datentyp des Feldes ist nonnullable\n* Der Datentyp des Feldes ist nicht primitiv"
     }
    ]
@@ -3505,7 +3645,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Einem `lateinit` Feld ist zusätzlich gespeichert, ob es bereits initialisiert wurde. Diese Information kann mit `this::name.isInitialized` abgerufen werden."
     }
    ]
@@ -3515,7 +3655,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Sichtbarkeiten\nBis jetzt wurden alle Variablen, Felder und Klassen öffentlich implementiert. Jedoch gibt es in Kotlin wie auch in Java Sichtbarkeiten, mit denen der Zugriff eingeschränkt werden kann.\n* `private`: Das Element kann nur in der Klasse verwendet werden. \n* `protected`: Erweitertung von `private`. Zusätzlich können auf die Elemente auch in Unterklassen zugegriffen werden.\n* `internal`: Erweiterung von `protected`. Das Element kann im ganzen Modul verwendet werden. Module können sich als größere Pakete vorgestellt werden.\n* `public`: Das Element kann überall benutzt werden."
     }
    ]
@@ -3525,7 +3665,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Methoden\nObjektmethoden sind mit normalen statischen Methoden zu vergleichen. Es kann die Kurzschreibweise angewendet und eine Sichtbarkeit zugewiesen werden. Auf Objektmethoden kann, wie in Java, mit der Punktnotation zugegriffen werden. Soll eine bereits generierte Methode, zum Beispiel `toString()`, überschrieben werden, muss der Methode das Schlüsselwort `override` vorangestellt werden."
     }
    ]
@@ -3545,7 +3685,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 2 - Datenklassen\nZusätzlich zu normalen Klassen bietet Kotlin auch die Möglichkeit Klassen zu erstellen, die nur die Aufgabe der Speicherung von Daten haben. Auf den ersten Blick könnte dies auch mit normalen Klassen bewerkstelligt werden. Jedoch müssen dann alle Methoden per Hand implementiert werden. Beispielsweise `toString()`oder auch `equals()`. Um dem aus dem Weg zu gehen, gibt es Datenklassen. Für diese generiert der Kotlin-Compiler im Hintergrund folgende Methoden: `componentN()`, `copy()`, `equals()`, `hashCode()`, `toString()`. Gekennzeichnet werden Datenklassen mit dem Schlüsselwort `data class`."
     }
    ]
@@ -3555,7 +3695,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Durch die Verwendung der `componentN()`-Methode kann auf mehrere Felder der Datenklasse zugeggriffen werden. Dabei bekommt jedes Feld eine eigene Nummer, beispielsweise x die Nummer 1, zugewisen. Wird `N` durch die Nummer ersetzt und auf dem Objekt aufgerufen, wird das Feld zurückgegeben. Auch können dadurch mehrere Felder abgerufen werden, indem eine Folge als Rückgabe erwartet wird."
     }
    ]
@@ -3565,7 +3705,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Mit Hilfe von `copy()` kann ein neues Objekt mit den gleichen Daten erzeugt werden. Sollen bestimmte Felder aber einen anderen Wert bekommen, kann dies der Methode mit Namen des Feldes und dem gewünschten Wert übergeben werden."
     }
    ]
@@ -3575,7 +3715,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Zusätzlich können auch weitere Felder in der Datenklasse hinzugefügt werden. Diese werden jedoch nicht bei den automatisch generierten Methoden berücksichtigt. Außerdem darf der primäre Konstruktor keine Parameter besitzen. Somit können die eigens erstellten Felder in der Klasse nur berechnet und nicht mit einem Parameter gefüllt werden."
     }
    ]
@@ -3585,7 +3725,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Aufgabe - TODO"
     }
    ]
@@ -3595,7 +3735,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 3 - Objekte\nEine Besonderheit von Kotlin ist, dass nicht jedes Objekt eine Klasse benötigt. Dadurch kann beispielsweise ein statisches Feld simuliert werden oder unkompliziert mehrere Daten an einem Ort zusammengefasst werden.\n### Ad-hoc Objekte\nMit sogeannten Ad-hoc Objekten können Daten ähnlich einer Map komprimiert werden. Es kann ein Objekt erzeugt werden ohne vorher eine Klasse angelegt zu haben. Dies ist mit dem Schlüsselwort `object` einzuleiten. Wie auch einer Klasse können dem Ad-hoch Objekt Felder zugewiesen werden."
     }
    ]
@@ -3605,7 +3745,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Singletons\nSingletons sind Objekte, die nur ein Mal erzeugt werden können und bis zum Ende der Ausführung bestehen. Ein solches Objekt wird mit dem Schlüsselwort `object` gekennzeichnet und kann nicht einer Variable zugewiesen werden, da es erst bei der ersten Benutzung erzeugt wird. Deswegen kann es auch nicht erzeugt werden. Dies wird automatisch beim ersten Aufruf, der in der Punktnotation mit dem Namen des Singletons erfolgt. Ein Singleton kann aus Feldern und Methoden bestehen. Ein Konstruktor kann jedoch nicht angewendet werden, da die Erzeugung ohne Übergabeparameter stattfindet."
     }
    ]
@@ -3625,7 +3765,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Falls in einer Klasse mehrere Companion Objekte gewünscht sind, ist ab dem Zweiten das Schlüsselwort `companion` wegzulassen und außerdem ein Name anzugeben. Außerhalb der Klasse kann auf das Objekt nur durch die Klasse und nicht einem Objekt der Klasse zugegriffen werden."
     }
    ]
@@ -3635,7 +3775,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Aufgabe\nImplementieren Sie eine Klasse `Parkplatzverwaltung`, die einen Parkplatz repräsentieren soll. Der Grundriss und die Belegung soll mit Hilfe einer Liste der Länge 5 verwirklicht werden. Ist ein Parkplatz belegt, so soll an diesem Eintrag `true` stehen. Benutzen Sie passende Sichtbarkeiten. Standardmäßig wird bei Erzeugung eine passendes Liste übergeben. Falls kein Parameter übergeben wird, soll ein leerer Parkplatz erstellt werden. Implementieren Sie zusätzlich eine Methode `einparken()` die die Nummer des Parkplatzes übergeben bekommt und diesen belegt falls möglich. Bei Erfolg soll `true` zurückgegebn werden, ansonsten `false`. Gehen Sie davon aus, dass nur korrekte Parameter übergeben werden. Überschreiben Sie zusätzlich die Methode `toString()`, die den Parkplatz übersichtlich nach folgendem Muster ausgegeben soll: <br />\n<p>--x-- (Parkplatz Nummer 2 ist belegt)</p>"
     }
    ]
@@ -3645,7 +3785,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Companion Objekte\nEiner Klasse können sogenannte Companion Objekte angehängt werden. Diese sind für alle Objekte der Klasse gleich und ähneln somit statischen Variablen oder Methoden. Sie können nur in einer Klasse implementiert werden und besitzen das Schlüsselwort `companion object`. Im Hintergrund ist ein solches Konstrukt nichts weiter als ein Singleton einer Klasse das alle Objekte verwenden können. In dem Objekt können Felder und Methoden implementiert werden.<br />\nAnstelle eines Companion Objects könnte auch eine Top-Level-Variable verwendet werden. Jedoch läge dort kein Zusammenhang zwischen den Klassen vor und die Variable könnte auch von anderen Objekten verändert werden."
     }
    ]
@@ -3655,7 +3795,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 4 - Enumeration\nMit Hilfe einer Enumeration kann ein eigener limitierter Datentyp erstellt werden, der nur gewisse Werte annehmen kann. Der Klasse wird dann das Schlüsselwort `enum` vorrangestellt. Soll ein Wert des Enums verwendet werden, muss der Name der Enumeration zusätzlich angegeben werden."
     }
    ]
@@ -3665,7 +3805,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Auf alle möglichen Werte eines Enums kann mit `values()` zugegriffen werden. Zurückgegeben wird ein Array. Soll auf das Enum-Objekt eines Strings zugegriffen werden, kann dies mit `valueOf()` mit dem String als Parameter, bewerkstelligt werden. Wird kein passendes Element gefunden, wird eine `IllegalArgumentException` geworfen."
     }
    ]
@@ -3675,7 +3815,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Da Enums als vollständige Klassen angesehen werden, können ihnen Felder und sogar Methoden hinzugefügt werden. Sollen Felder mit einem bestimmten Wert der von dem Wert des Enums anhängt gefüllt werden, kann hinter dem Wert des Enums die Werte für den Konstruktor übergeben werden."
     }
    ]
@@ -3690,7 +3830,7 @@
     },
     {
      "start_checkpoint": 1619345085096,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 5 - Vererbung\nIn Kotlin kann nicht von einer beliebigen Klasse geerbt werden. Diese muss als Vorraussetzung den Vorsatz `open` besitzen. Dies signaliesiert, dass eine Vererbung stattfinden darf. Der Namen der Klasse, von der geerbt werden soll, ist mit einem `:` getrennt hinter den Parameterklammern der erbenden Klasse zu schreiben. Dem Konstruktor der super-Klasse werden die Parameter direkt im Kopf der Klasse übergeben. "
     }
    ]
@@ -3720,7 +3860,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 8 - Fehlerbehandlung"
     }
    ]
@@ -3735,7 +3875,7 @@
     },
     {
      "start_checkpoint": 1619427699980,
-     "parent": "n.0.23",
+     "parent": "n.0.24",
      "markdown": "# Abschnitt 3\nThema dieses Abschnittes wird die objektorientierte Programmierung sein.\n\n## Lektion 1 - Klassen\nAufgrund der Kompatibilität mit Java ist auch Kotlin eine objektorientierte Sprache. Deswegen werden im Hintergrund alle Daten als Objekte behandelt. In Kotlin sind alle bekannten objektorientierte Konzepte vorhanden, jedoch angepasst und teilweise auch vereinfacht. Dazu ein Einführungsbeispiel. Es soll eine Klasse `Person` implementiert werden, die zwei Felder besitzt: `name` vom Typ `String`, das nur bei Objekterzeugung gesetzt wird, und `alter` vom Typ `Int`, das immer verändert werden kann.\n\n\n<table style=\"font-size:16px\">\n<thead>\n  <tr>\n    <th>Kotlin</th>\n    <th>Java</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td><code>class Person (val name: String, var alter: Int)</code></td>\n    <td><code>public class Person{<br>&nbsp;&nbsp;&nbsp;&nbsp;private String name;<br>&nbsp;&nbsp;&nbsp;&nbsp;private int alter;<br>&nbsp;&nbsp;&nbsp;&nbsp;public Person(String name, int alter){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.name = name<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.alter = alter<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;&nbsp;&nbsp;public String gibName(){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return name;<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;&nbsp;&nbsp;public String gibAlter(){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return alter;<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;&nbsp;&nbsp;public String setzeAlter(int alter){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.alter = alter;<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>}<br></code></td>\n  </tr>\n</tbody>\n</table>"
     }
    ]
@@ -3745,7 +3885,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Felder und Methoden überschreiben\nSollen Felder oder Methoden der super-Klasse in der sub-Klasse überschrieben werden, müssen diese auch mit `open` gekennzeichnet werden. Erst dann ist es möglich das gleiche Feld oder die gleiche Methode in der sub-Klasse mit dem Zusatz `override` zu definieren. Soll auf das Feld oder die Methode der Oberklasse zugegriffen werden, findet das Schlüsselwort `super` Anwendung. Bei Mehrfachvererbung wird die nächst höhere Klasse angesprochen."
     }
    ]
@@ -3755,7 +3895,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Sekundäre Konstruktoren\nWir sind bis jetzt von dem einfachen Fall ausgegangen, dass die Unterklasse einen primären Konstruktor besitzt. Jedoch gibt es auch die Möglichkeit diese nut mit sekunären Konstruktoren auszustatten. Diese müssen jedoch immer den primären Konstruktor der Oberklasse aufrufen."
     }
    ]
@@ -3765,7 +3905,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Abstrakte Klassen\nDas Konzept der abtrakten Klasse sollte bereits aus Java bekannt sein. Auch in Kotlin gibt es die Möglichkeit unintiierbare Klassen mit abstrakten Methoden zu implementieren. Diesen wird das Schlüsselwort `abstract` vorangestellt und können ohne Probleme geerbt werden. Die Subklassen müssen jedoch die Methoden vervollständigen."
     }
    ]
@@ -3775,7 +3915,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Geschlossene Klassen\nEine geschlossene Klasse ist eine besondere abstrakte Klasse. Ihr wird das Schlüsselwort `sealed` vorangestellt und sie besitzt einen privaten Konstruktor. Außerdem darf von der Klasse nur in der Datei geerbt werden. Dieses Konstrukt ist somit eine Alternative zu einer Enumeration. Da alle Subtypen bekannt sind, kann bei Verwendung einer `when`-Verzweifung der default-Fall weggelassen werden."
     }
    ]
@@ -3785,7 +3925,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 6 - Schnittstellen\nEin wichtiges objektorientiertes Konzept ist das der Schnittstelle. Ein bekanntes Beispiel ist hier das `Comparable`-Interface, das eine `compareTo()`-Methode vorschreibt. Aber anstelle des Vorschreibens von Methoden können auch Zugriffe definiert werden. Eine Schnittstelle hat das Schlüsselwort `interface` und wird bei der implementierenden Klasse ähnlich zur Vererbung angegeben. In einem Interface können sowohl Methoden voll implementiert oder nur deren Kopf angegeben werden, sodass diese von jeder Klasse selbst vervollständigt werden muss. Außerdem können sie auch Felder beinhalten.\nKotlin bietet bereits einige vorimplementierte Schnittstellen an:\n\n<table style=\"font-size:16px\">\n<thead>\n  <tr>\n    <th>Name</th>\n    <th>Funktion</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Appendable</td>\n    <td>append()</td>\n  </tr>\n  <tr>\n    <td>Closeable</td>\n    <td>close()</td>\n  </tr>\n  <tr>\n    <td>Compareable</td>\n    <td>compare()</td>\n  </tr>\n  <tr>\n    <td>Iterable</td>\n    <td>Verarbeitung der Elemente in einer Schleife</td>\n  </tr>\n  <tr>\n    <td>Collection</td>\n    <td>allgemeine Aufzählung</td>\n  </tr>\n  <tr>\n    <td>List</td>\n    <td>Liste</td>\n  </tr>\n  <tr>\n    <td>Map</td>\n    <td>Dictionary</td>\n  </tr>\n  <tr>\n    <td>Set</td>\n    <td>Menge</td>\n  </tr>\n</tbody>\n</table>"
     }
    ]
@@ -3795,7 +3935,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "## Lektion 7 - Generizität\n### Generische Klassen\nBei manchen Softwareprojekten kommt man um generische Klassen nicht vorbei, falls mehrfache Arbeit vermieden werden soll. An sich unterscheiden sich die Unterschiede von solchen Klassen in Kotlin und Java nicht. Der generische Datentyp wird nach dem Klassennamen in `<>` angegeben und kann in der Klasse anstelle normalen Datentypen eingesetzt werden."
     }
    ]
@@ -3805,7 +3945,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "Soll der generische Datentyp eingeschränkt werden, kann dies durch ein Interface passieren. Dieses gibt vor welche Methoden der Datentyp implementieren muss."
     }
    ]
@@ -3815,7 +3955,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Generische Funktionen\nGenerizität findet aber nicht nur bei Klassen, sondern auch bei Funktionen Anwendung. Jedoch wird hier der generische Typ vor dem Namen der Funktion angegeben. Bei Aufruf der Methode muss der Typ nicht angegeben werden, sondern wird vom Kompiler erkannt."
     }
    ]
@@ -3825,7 +3965,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.22",
+     "parent": "n.0.24",
      "markdown": "### Generische Erweiterungsfunktionen\nErweiterungsfunktionen einer bestimmten Klasse wurden bereits in Abschnitt 1 kennengelernt. Dieses Konzept kann aber auch auf generische Klassen übertragen werden. So können beispielsweise einer generischen Liste neue Methoden hinzugefügt werden."
     }
    ]
