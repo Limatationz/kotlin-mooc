@@ -5190,6 +5190,27 @@
      "index": 124
     }
    ]
+  },
+  {
+   "timestamp": 1621333115269,
+   "notebook": 127,
+   "targetCells": [
+    {
+     "cell": "m.258.12",
+     "changeType": "edited",
+     "index": 124
+    },
+    {
+     "cell": "m.171.3",
+     "changeType": "edited",
+     "index": 28
+    },
+    {
+     "cell": "m.225.1",
+     "changeType": "edited",
+     "index": 49
+    }
+   ]
   }
  ],
  "notebook": {
@@ -14677,6 +14698,137 @@
      "m.258.11",
      "c.325.0"
     ]
+   },
+   {
+    "start_checkpoint": 1621333115269,
+    "cells": [
+     "m.162.0",
+     "m.202.0",
+     "m.203.0",
+     "m.204.0",
+     "c.198.0",
+     "c.199.0",
+     "m.205.0",
+     "c.291.0",
+     "m.206.0",
+     "c.292.0",
+     "m.207.0",
+     "c.293.0",
+     "m.208.0",
+     "c.294.0",
+     "m.209.0",
+     "c.295.0",
+     "m.210.0",
+     "c.296.0",
+     "m.211.0",
+     "m.212.0",
+     "c.297.0",
+     "m.213.0",
+     "c.298.0",
+     "c.299.0",
+     "m.214.0",
+     "c.300.0",
+     "m.215.0",
+     "c.301.0",
+     "m.171.3",
+     "c.207.0",
+     "m.216.0",
+     "c.302.0",
+     "m.217.0",
+     "c.259.0",
+     "m.218.0",
+     "c.260.0",
+     "m.219.0",
+     "c.303.0",
+     "m.220.0",
+     "c.211.0",
+     "m.221.0",
+     "m.222.0",
+     "c.304.0",
+     "m.223.0",
+     "c.305.0",
+     "m.126.0",
+     "c.264.0",
+     "m.224.0",
+     "c.215.0",
+     "m.225.1",
+     "c.306.0",
+     "c.307.0",
+     "m.226.0",
+     "c.216.0",
+     "m.227.0",
+     "c.308.0",
+     "m.228.0",
+     "c.218.0",
+     "m.229.0",
+     "c.219.0",
+     "c.220.0",
+     "m.132.0",
+     "c.221.0",
+     "m.230.0",
+     "c.309.0",
+     "m.134.0",
+     "c.310.0",
+     "m.231.0",
+     "c.224.0",
+     "m.232.0",
+     "c.311.0",
+     "m.233.0",
+     "m.234.0",
+     "c.312.0",
+     "c.254.0",
+     "m.235.0",
+     "m.236.0",
+     "c.313.0",
+     "c.314.0",
+     "m.237.0",
+     "c.230.0",
+     "m.238.0",
+     "c.231.0",
+     "c.232.0",
+     "m.239.0",
+     "m.240.0",
+     "c.315.0",
+     "m.241.0",
+     "c.271.0",
+     "m.242.0",
+     "c.316.0",
+     "m.243.0",
+     "c.273.0",
+     "c.274.0",
+     "m.244.0",
+     "c.317.0",
+     "m.245.0",
+     "m.246.0",
+     "c.234.0",
+     "m.247.0",
+     "c.235.0",
+     "m.248.0",
+     "c.275.0",
+     "m.249.0",
+     "c.237.0",
+     "m.250.0",
+     "c.276.0",
+     "m.251.0",
+     "c.239.0",
+     "m.252.0",
+     "c.318.0",
+     "m.253.0",
+     "c.278.0",
+     "m.254.0",
+     "c.319.0",
+     "c.320.0",
+     "m.255.0",
+     "c.279.0",
+     "m.156.0",
+     "c.243.0",
+     "m.256.0",
+     "c.280.0",
+     "m.257.0",
+     "c.245.0",
+     "m.258.12",
+     "c.325.0"
+    ]
    }
   ]
  },
@@ -23363,6 +23515,11 @@
      "start_checkpoint": 1619286973712,
      "parent": "n.0.113",
      "markdown": "### Aufgabe - Von Java zu Kotlin\nÜbersetzen Sie folgenden Java-Code nach Kotlin und wählen Sie passende Variablentypen.\n```java\nfinal static float PI = 3.14159f;\nint a = 50;\nint b = 20;\nint res;\nfinal boolean bool = false;\na = a + 30;\nres = a - b;\nString output = \"a - b ist: \" + res + \".\";\nSystem.out.println(output);\n```"
+    },
+    {
+     "start_checkpoint": 1621333115269,
+     "parent": "n.0.127",
+     "markdown": "### Aufgabe - Von Java zu Kotlin\nÜbersetze folgenden Java-Code nach Kotlin und wähle passende Variablentypen.\n```java\nfinal static float PI = 3.14159f;\nint a = 50;\nint b = 20;\nint res;\nfinal boolean bool = false;\na = a + 30;\nres = a - b;\nString output = \"a - b ist: \" + res + \".\";\nSystem.out.println(output);\n```"
     }
    ]
   },
@@ -23978,6 +24135,11 @@
      "start_checkpoint": 1621331491867,
      "parent": "n.0.113",
      "markdown": "#### Aufgabe - if- und when-Verzweigung\n1. Implementieren Sie eine Funktion `typCheckerIf`, die den Datentyp der übergebenen Variable als String mit Hilfe einer `if`-Verzweifung zurückgibt. Als Vereinfachung soll nur zwischen den Datentypen `Int`, `Double` und `Long` unterschieden werden. Sollte keiner dieser Datentypen zutreffen soll `Sonstiges` zurückgegeben werden.\n2. Fügen Sie nun eine zweite Funktion `typCheckerWhen` hinzu, die die `if`-Verzweigung durch eine `when`-Verzweigung ersetzt."
+    },
+    {
+     "start_checkpoint": 1621333115269,
+     "parent": "n.0.127",
+     "markdown": "#### Aufgabe - if- und when-Verzweigung\n1. Implementiere eine Funktion `typCheckerIf`, die den Datentyp der übergebenen Variable als String mit Hilfe einer `if`-Verzweifung zurückgibt. Als Vereinfachung soll nur zwischen den Datentypen `Int`, `Double` und `Long` unterschieden werden. Sollte keiner dieser Datentypen zutreffen soll `Sonstiges` zurückgegeben werden.\n2. Füge nun eine zweite Funktion `typCheckerWhen` hinzu, die die `if`-Verzweigung durch eine `when`-Verzweigung ersetzt."
     }
    ]
   },
@@ -24363,6 +24525,11 @@
      "start_checkpoint": 1621332519665,
      "parent": "n.0.126",
      "markdown": "<img src=\"images/Zusammenfassung.png\" style=\"margin: 20px auto 20px 0px\"/>\n<h2 style=\"display:none\">Zusammenfassung</h2>\n\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf die Unterschiede und Gemeinsamkeiten zu Java genommen. Du solltest jetzt in der Lage sein:\n* grundlegende Funktionen mit Variablen und Kontrollstrukturen zu implementieren.\n* die verschiedenen Möglichkeiten der Implementierung einer Funktion, sowie die Definition von Parametern und des Rückgabetyps, zu veranschaulichen.\n* die Datenstrukturen Paar, Array, Liste, Map und Set zu verwenden.\n* die gelernten Konzepte zwischen Kotlin und Java zu vergleichen.\n* einen einfachen Java-Code nach Kotlin umzuwandeln.\n\nEine gebündelte Zusammenfassung der Inhalte findest Du in der <a href=\"pdfbook/1/\">zugehörigen PDF</a>. Bearbeite im nächsten Schritt die bewertete Übung zu Abschnitt 1. Der nächste Abschnitt dreht sich um die funktionale Programmierung."
+    },
+    {
+     "start_checkpoint": 1621333115269,
+     "parent": "n.0.127",
+     "markdown": "<img src=\"images/Zusammenfassung.png\" style=\"margin: 20px auto 20px 0px\"/>\n<h2 style=\"display:none\">Zusammenfassung</h2>\n\nIn diesem Abschnitt wurden die Grundlagen von Kotlin vorgestellt. Dabei wurde Bezug auf die Unterschiede und Gemeinsamkeiten zu Java genommen. Du solltest jetzt in der Lage sein:\n* grundlegende Funktionen mit Variablen und Kontrollstrukturen zu implementieren.\n* die verschiedenen Möglichkeiten der Implementierung einer Funktion, sowie die Definition von Parametern und des Rückgabetyps, zu veranschaulichen.\n* die Datenstrukturen Paar, Array, Liste, Map und Set zu verwenden.\n* die gelernten Konzepte zwischen Kotlin und Java zu vergleichen.\n* einen einfachen Java-Code nach Kotlin umzuwandeln.\n\nEine gebündelte Zusammenfassung der Inhalte findest Du in dem <a href=\"Abschnitt1-Zusammenfassung.ipynb\">zugehörigen Notebook</a>. Bearbeite im nächsten Schritt die bewertete Übung zu Abschnitt 1. Der nächste Abschnitt dreht sich um die funktionale Programmierung."
     }
    ]
   }
