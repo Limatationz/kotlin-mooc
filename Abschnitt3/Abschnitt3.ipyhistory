@@ -2709,6 +2709,309 @@
      "index": 65
     }
    ]
+  },
+  {
+   "timestamp": 1622641483315,
+   "notebook": 123,
+   "targetCells": [
+    {
+     "cell": "m.113.0",
+     "changeType": "added",
+     "index": 0
+    },
+    {
+     "cell": "m.114.0",
+     "changeType": "added",
+     "index": 19
+    },
+    {
+     "cell": "m.115.0",
+     "changeType": "added",
+     "index": 32
+    },
+    {
+     "cell": "c.144.0",
+     "changeType": "added",
+     "index": 33
+    },
+    {
+     "cell": "m.116.0",
+     "changeType": "added",
+     "index": 34
+    },
+    {
+     "cell": "c.145.0",
+     "changeType": "added",
+     "index": 35
+    },
+    {
+     "cell": "m.117.0",
+     "changeType": "added",
+     "index": 36
+    },
+    {
+     "cell": "m.118.0",
+     "changeType": "added",
+     "index": 61
+    },
+    {
+     "cell": "c.146.0",
+     "changeType": "added",
+     "index": 62
+    },
+    {
+     "cell": "c.147.0",
+     "changeType": "added",
+     "index": 63
+    },
+    {
+     "cell": "m.119.0",
+     "changeType": "added",
+     "index": 70
+    },
+    {
+     "cell": "c.148.0",
+     "changeType": "added",
+     "index": 71
+    },
+    {
+     "cell": "c.149.0",
+     "changeType": "added",
+     "index": 72
+    },
+    {
+     "cell": "m.120.0",
+     "changeType": "added",
+     "index": 81
+    },
+    {
+     "cell": "m.121.0",
+     "changeType": "added",
+     "index": 83
+    },
+    {
+     "cell": "c.150.0",
+     "changeType": "added",
+     "index": 84
+    },
+    {
+     "cell": "c.151.0",
+     "changeType": "added",
+     "index": 85
+    },
+    {
+     "cell": "m.122.0",
+     "changeType": "added",
+     "index": 88
+    },
+    {
+     "cell": "c.152.0",
+     "changeType": "added",
+     "index": 89
+    },
+    {
+     "cell": "m.123.0",
+     "changeType": "added",
+     "index": 90
+    },
+    {
+     "cell": "c.153.0",
+     "changeType": "added",
+     "index": 91
+    },
+    {
+     "cell": "c.154.0",
+     "changeType": "added",
+     "index": 92
+    },
+    {
+     "cell": "m.124.0",
+     "changeType": "added",
+     "index": 101
+    },
+    {
+     "cell": "c.155.0",
+     "changeType": "added",
+     "index": 102
+    },
+    {
+     "cell": "c.156.0",
+     "changeType": "added",
+     "index": 103
+    },
+    {
+     "cell": "m.125.0",
+     "changeType": "added",
+     "index": 104
+    },
+    {
+     "cell": "m.126.0",
+     "changeType": "added",
+     "index": 110
+    },
+    {
+     "cell": "c.157.0",
+     "changeType": "added",
+     "index": 111
+    },
+    {
+     "cell": "c.158.0",
+     "changeType": "added",
+     "index": 112
+    },
+    {
+     "cell": "m.127.0",
+     "changeType": "added",
+     "index": 113
+    }
+   ]
+  },
+  {
+   "timestamp": 1622642505532,
+   "notebook": 124,
+   "targetCells": [
+    {
+     "cell": "c.159.0",
+     "changeType": "added",
+     "index": 114
+    },
+    {
+     "cell": "m.127.1",
+     "changeType": "edited",
+     "index": 113
+    }
+   ]
+  },
+  {
+   "timestamp": 1622642510564,
+   "notebook": 125,
+   "targetCells": [
+    {
+     "cell": "c.159.0",
+     "changeType": "removed",
+     "index": 114
+    }
+   ]
+  },
+  {
+   "timestamp": 1622642564179,
+   "notebook": 126,
+   "targetCells": [
+    {
+     "cell": "c.160.0",
+     "changeType": "added",
+     "index": 114
+    },
+    {
+     "cell": "m.127.2",
+     "changeType": "edited",
+     "index": 113
+    }
+   ]
+  },
+  {
+   "timestamp": 1622642568858,
+   "notebook": 127,
+   "targetCells": [
+    {
+     "cell": "c.160.0",
+     "changeType": "removed",
+     "index": 114
+    }
+   ]
+  },
+  {
+   "timestamp": 1622724055151,
+   "notebook": 128,
+   "targetCells": [
+    {
+     "cell": "m.78.1",
+     "changeType": "edited",
+     "index": 64
+    }
+   ]
+  },
+  {
+   "timestamp": 1622724323145,
+   "notebook": 129,
+   "targetCells": [
+    {
+     "cell": "m.78.2",
+     "changeType": "edited",
+     "index": 64
+    }
+   ]
+  },
+  {
+   "timestamp": 1622724325841,
+   "notebook": 130,
+   "targetCells": [
+    {
+     "cell": "m.78.3",
+     "changeType": "edited",
+     "index": 64
+    }
+   ]
+  },
+  {
+   "timestamp": 1622724791385,
+   "notebook": 131,
+   "targetCells": [
+    {
+     "cell": "m.84.1",
+     "changeType": "edited",
+     "index": 86
+    }
+   ]
+  },
+  {
+   "timestamp": 1622727314981,
+   "notebook": 132,
+   "targetCells": [
+    {
+     "cell": "m.125.1",
+     "changeType": "edited",
+     "index": 104
+    }
+   ]
+  },
+  {
+   "timestamp": 1622727379835,
+   "notebook": 133,
+   "targetCells": [
+    {
+     "cell": "m.125.2",
+     "changeType": "edited",
+     "index": 104
+    }
+   ]
+  },
+  {
+   "timestamp": 1622727382776,
+   "notebook": 134,
+   "targetCells": [
+    {
+     "cell": "m.125.3",
+     "changeType": "edited",
+     "index": 104
+    }
+   ]
+  },
+  {
+   "timestamp": 1622727435090,
+   "notebook": 135,
+   "targetCells": [
+    {
+     "cell": "m.125.4",
+     "changeType": "edited",
+     "index": 104
+    },
+    {
+     "cell": "m.55.4",
+     "changeType": "edited",
+     "index": 108
+    }
+   ]
   }
  ],
  "notebook": {
@@ -13510,6 +13813,1555 @@
      "m.90.0",
      "c.79.0"
     ]
+   },
+   {
+    "start_checkpoint": 1622641483315,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.0",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1622642505532,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.0",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.1",
+     "c.159.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1622642510564,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.0",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.1"
+    ]
+   },
+   {
+    "start_checkpoint": 1622642564179,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.0",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2",
+     "c.160.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1622642568858,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.0",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622724055151,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.1",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622724323145,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.2",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622724325841,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.3",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.0",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622724791385,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.3",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.1",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.0",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622727314981,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.3",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.1",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.1",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622727379835,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.3",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.1",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.2",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622727382776,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.3",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.1",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.3",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.3",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
+   },
+   {
+    "start_checkpoint": 1622727435090,
+    "cells": [
+     "m.113.0",
+     "m.60.0",
+     "c.13.2",
+     "m.61.0",
+     "c.2.0",
+     "m.62.0",
+     "c.3.2",
+     "m.4.9",
+     "c.4.0",
+     "m.63.0",
+     "c.5.0",
+     "m.6.1",
+     "c.6.0",
+     "m.64.0",
+     "c.7.1",
+     "m.58.0",
+     "c.8.1",
+     "m.65.0",
+     "c.14.0",
+     "m.114.0",
+     "c.15.0",
+     "c.66.0",
+     "m.66.0",
+     "c.17.0",
+     "m.13.1",
+     "c.18.0",
+     "m.67.0",
+     "c.19.0",
+     "m.15.1",
+     "c.20.1",
+     "m.16.2",
+     "c.21.1",
+     "m.115.0",
+     "c.144.0",
+     "m.116.0",
+     "c.145.0",
+     "m.117.0",
+     "m.68.0",
+     "c.22.0",
+     "m.69.0",
+     "c.33.0",
+     "c.34.0",
+     "m.70.0",
+     "c.57.0",
+     "m.71.0",
+     "c.24.4",
+     "m.72.0",
+     "c.25.1",
+     "m.23.2",
+     "c.26.0",
+     "m.73.0",
+     "c.58.0",
+     "c.59.0",
+     "m.74.0",
+     "c.69.0",
+     "m.75.0",
+     "c.28.0",
+     "m.30.2",
+     "c.70.0",
+     "m.76.0",
+     "c.30.1",
+     "m.118.0",
+     "c.146.0",
+     "c.147.0",
+     "m.78.3",
+     "c.35.1",
+     "m.32.3",
+     "c.36.0",
+     "m.79.0",
+     "c.37.0",
+     "m.119.0",
+     "c.148.0",
+     "c.149.0",
+     "m.80.0",
+     "c.40.11",
+     "m.81.0",
+     "c.45.3",
+     "m.40.1",
+     "c.46.1",
+     "m.82.0",
+     "c.74.0",
+     "m.120.0",
+     "c.61.3",
+     "m.121.0",
+     "c.150.0",
+     "c.151.0",
+     "m.84.1",
+     "c.49.1",
+     "m.122.0",
+     "c.152.0",
+     "m.123.0",
+     "c.153.0",
+     "c.154.0",
+     "m.85.0",
+     "c.50.0",
+     "m.86.0",
+     "c.51.0",
+     "m.46.1",
+     "c.52.1",
+     "m.87.0",
+     "c.53.5",
+     "m.124.0",
+     "c.155.0",
+     "c.156.0",
+     "m.125.4",
+     "c.62.4",
+     "m.54.3",
+     "c.63.7",
+     "m.55.4",
+     "c.75.0",
+     "m.126.0",
+     "c.157.0",
+     "c.158.0",
+     "m.127.2"
+    ]
    }
   ]
  },
@@ -13561,7 +15413,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Auto (\n    val marke: String, //Es wird ein Feld mit dem Namen marke und ein Getter hinzugefügt und bei Erzeugung mit dem übergebenen Wert gefüllt.\n    var farbe: String, //Es wird ein Feld mit dem Namen farbe und einem Getter sowie Setter hinzugefügt und bei Erzeugung mit dem übergebenen Wert gefüllt.\n    ps: Int //Dies ist lediglich ein Übergabeparameter, der im Konstruktor verwendet werden kann.\n)\n\nval a1 = Auto (\"BMW\", \"Gelb\", 220)\nprintln(\"Marke von a1: ${a1.marke}, Farbe von a1: ${a1.farbe}.\") //Benutzung der Getter von marke und farbe\n//println(a1.ps) -> Error, da ps kein Feld sondern nur ein Übergabeparameter ist\n//a1.marke = \"Audi\" -> Error, da das Feld marke nicht verändert werden kann und auch keinen Setter besitzt\na1.farbe = \"Rot\" //Aufruf des Setters von farbe. Das Feld farbe kann verändert werden, da ein Setter vorhanden ist und das Feld den Typ var besitzt\nprintln(\"Farbe von a1 nach Umlackierung: ${a1.farbe}.\")",
      "start": {
       "line": 0,
@@ -13602,7 +15454,7 @@
     },
     {
      "start_checkpoint": 1622204322287,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Computer (){\n    val marke: String = \"Fuhitsu\"\n    var istAn: Boolean = false\n}\n\nval c1 = Computer ()\nprintln(\"Marke von c1: ${c1.marke}, ist c1 an?: ${c1.istAn}.\") //Benutzung der Getter von marke und istAn\n//c1.marke = \"LD\" -> Error, da das Feld marke nicht verändert werden kann und keinen Setter besitzt\nc1.istAn = true //Aufruf des Setters von istAn. Das Feld istAn kann verändert werden, da ein Setter vorhanden und das Feld vom Typ var ist\nprintln(\"Ist c1 an?: ${c1.istAn}\")"
     }
    ]
@@ -13615,7 +15467,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Flasche (val farbe: String, var füllung: Int)\nval f1 = Flasche (\"Grau\", 20)\nprintln(\"Die Flasche mit der Farbe ${f1.farbe} ist zu ${f1.füllung}% gefüllt.\")",
      "start": {
       "line": 0,
@@ -13636,7 +15488,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Bett (\n    laenge: Int, breite: Int, belegt: Boolean //Übergabeparameter bei Objekterzeugung. Können im init-Block verwendet werden.\n){\n    val laenge: Int\n    val breite: Int\n    var belegt: Boolean\n    \n    init { //primärer Konstruktor mit init-Block. In diesem kann auf die Parameter zugegriffen werden.\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = if (breite > 0) breite else 0\n        this.belegt = belegt\n    }\n}\nval b1 = Bett (160, 200, false)\nval b2 = Bett (-100, 50, true)\nprintln(\"Bett b1: Länge ${b1.laenge}, Breite ${b1.breite}, belegt ${b1.belegt}\")\nprintln(\"Bett b2: Länge ${b2.laenge}, Breite ${b2.breite}, belegt ${b2.belegt}\")",
      "start": {
       "line": 0,
@@ -13657,7 +15509,7 @@
    "versions": [
     {
      "start_checkpoint": 1619166384323,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Tisch (\n    laenge: Int, breite: Int, farbe: String //Übergabeparameter bei Objekterzeugung. Können den Feldern direkt zugewiesen werden.\n){\n    val laenge: Int = if (laenge > 0) laenge else 0\n    val breite = if (breite > 0) breite else 0 //Kurzschreibweise ist zulässig. Dabei wird der Datentyp des Parameters übernommen\n    var farbe: String = farbe\n}\n\nval t1 = Tisch (100, 100, \"Braun\")\nval t2 = Tisch (-100, 50, \"Weiß\")\nprintln(\"Tisch t1: Länge ${t1.laenge}, Breite ${t1.breite}, Farbe ${t1.farbe}\")\nprintln(\"Tisch t2: Länge ${t2.laenge}, Breite ${t2.breite}, Farbe ${t2.farbe}\")",
      "start": {
       "line": 0,
@@ -13692,7 +15544,7 @@
     },
     {
      "start_checkpoint": 1622204907095,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Stuhl (laenge: Int, breite: Int, var belegt: Boolean){ //belegt: Defaultkonstruktor\n    val laenge = if (laenge > 0) laenge else 0 //laenge: direkte Zuweisung\n    val breite: Int\n\n    init { //breite: init-Block\n        this.breite = if (breite > 0) breite else 0\n    }\n}\n\nval s1 = Stuhl (20, 20, true)\nval s2 = Stuhl (-20, 30, false)\nprintln(\"Stuhl s1: Länge ${s1.laenge}, Breite ${s1.breite}, belegt ${s1.belegt}\")\nprintln(\"Stuhl s2: Länge ${s2.laenge}, Breite ${s2.breite}, belegt ${s2.belegt}\")"
     }
    ]
@@ -13719,7 +15571,7 @@
     },
     {
      "start_checkpoint": 1622204907095,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Fenster { //Parameterklammern fehlen\n    val laenge: Int\n    val breite: Int\n    var zustand: String\n    \n    //Konstruktor eines normalen Fensters\n    constructor (laenge: Int, breite: Int, zustand: String){\n        println(\"Konstruktion eines normalen Fensters\")\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = if (breite > 0) breite else 0\n        this.zustand = zustand\n    }\n    //Konstruktor eines quadratischen Fensters\n    constructor (laenge: Int, zustand: String){\n        println(\"Konstruktion eines quadratischen Fensters\")\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = laenge\n        this.zustand = zustand\n    }\n    //Konstruktor eines neuen Fensters\n    constructor (laenge: Int, breite: Int){\n        println(\"Konstruktion eines neuen Fensters\")\n        this.laenge = if (laenge > 0) laenge else 0\n        this.breite = if (breite > 0) breite else 0\n        this.zustand = \"Neu\"\n    }\n}\n\nval fensterNormal = Fenster (50, -80, \"Gebraucht\")\nprintln(\"Fenster fensterNormal: Länge ${fensterNormal.laenge}, Breite ${fensterNormal.breite}, Zustand ${fensterNormal.zustand} \\n\")\nval fensterQuadrat = Fenster (60, \"Schmutzig\")\nprintln(\"Fenster fensterQuadrat: Länge ${fensterQuadrat.laenge}, Breite ${fensterQuadrat.breite}, Zustand ${fensterQuadrat.zustand} \\n\")\nval fensterNeu = Fenster (100, 120)\nprintln(\"Fenster fensterNeu: Länge ${fensterNeu.laenge}, Breite ${fensterNeu.breite}, Zustand ${fensterNeu.zustand}\")"
     }
    ]
@@ -13848,7 +15700,7 @@
     },
     {
      "start_checkpoint": 1622204008193,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Person (val name: String, var alter: Int)\n\nval p1 = Person(\"Max Mustermann\", 21)\nprintln(\"Person p1: $p1\")\nprintln(\"Name: ${p1.name}, Alter: ${p1.alter}\")"
     }
    ]
@@ -13861,7 +15713,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//primärer Konstruktor: Defaultkonstruktor\nclass Batterie (val kapazitaet: Int, val wiederaufladbar: Boolean, var ladezyklen: Int, val status: String){\n    //sekundärer Konstruktor: Neue Batterie mit Angabe von Kapazität und Wiederaufladbarkeit\n    constructor (kapazitaet: Int, wiederaufladbar: Boolean) : this(kapazitaet, wiederaufladbar, 0, \"Neu\") //Benutzt den primären Konstruktor\n    //sekundärer Konstruktor: Neue BB Einmalbatterie\n    constructor () : this(2400, false) //Benutzt den anderen sekundären Konstruktor\n}\nval eigeneBatterie = Batterie(2000, true, 42, \"Gebraucht\") //primärer Konstruktor\nprintln(\"Batterie eigeneBatterie: Kapazität ${eigeneBatterie.kapazitaet}, Wiederaufladbar ${eigeneBatterie.wiederaufladbar}, Ladezyklen ${eigeneBatterie.ladezyklen}, Status ${eigeneBatterie.status}\")\nval neueBatterie = Batterie(3000, false) //sekundärer Konstruktor: Neue Batterie mit Angabe von Kapazität und Wiederaufladbarkeit\nprintln(\"Batterie neueBatterie: Kapazität ${neueBatterie.kapazitaet}, Wiederaufladbar ${neueBatterie.wiederaufladbar}, Ladezyklen ${neueBatterie.ladezyklen}, Status ${neueBatterie.status}\")\nval BBBatterie = Batterie() //sekundärer Konstruktor: Neue BB Einmalbatterie\nprintln(\"Batterie BBBatterie: Kapazität ${BBBatterie.kapazitaet}, Wiederaufladbar ${BBBatterie.wiederaufladbar}, Ladezyklen ${BBBatterie.ladezyklen}, Status ${BBBatterie.status}\")",
      "start": {
       "line": 0,
@@ -13882,7 +15734,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//TODO\n\n//Tests\nvar fehler = 0\nval test1 = Pizza(25, listOf(\"Schinken\"), false)\nif( test1.groeße != 25 || test1.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test1.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 1! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test1.groeße}, Beläge ${test1.belaege}, Geschnitten ${test1.geschnitten}\")\n}\nval test2 = Pizza(31, listOf(\"Schinken\"), false)\nif( test2.groeße != -1 || test2.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test2.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 2! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test2.groeße}, Beläge ${test2.belaege}, Geschnitten ${test2.geschnitten}\")\n}\nval test3 = Pizza(14, listOf(\"Schinken\"), false)\nif( test3.groeße != -1 || test3.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test3.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 3! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test3.groeße}, Beläge ${test3.belaege}, Geschnitten ${test3.geschnitten}\")\n}\nval test4 = Pizza(31, listOf(\"Schinken\"), false)\nif( test4.groeße != -1 || test4.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test4.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 4! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test4.groeße}, Beläge ${test4.belaege}, Geschnitten ${test4.geschnitten}\")\n}\nval test5 = Pizza(28, emptyList(), true)\nif( test5.groeße != 28 || test5.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test5.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 5! Richtig wäre: Größe 28, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test5.groeße}, Beläge ${test5.belaege}, Geschnitten ${test5.geschnitten}\")\n}\nval test6 = Pizza(15)\nif( test6.groeße != 15 || test6.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test6.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 6! Richtig wäre: Größe 15, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test6.groeße}, Beläge ${test6.belaege}, Geschnitten ${test6.geschnitten}\")\n}\nval test7 = Pizza()\nif( test7.groeße != 25 || test7.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Thunfisch\", \"Zwiebeln\", \"Peperoni\") || test7.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 7! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Thunfisch, Zwiebeln, Peperoni], Geschnitten false \\n  Ist: Größe ${test7.groeße}, Beläge ${test7.belaege}, Geschnitten ${test7.geschnitten}\")\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -13924,7 +15776,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "public class Person (name: String, alter: Int){\n    val name: String = name\n        get() = \"Name: $field\" //Wird auf das Feld name zugegeriffen, wird der String \"Name: name\" zurückgegeben\n        //Kein Setter möglich, da val\n    var alter = if (alter > 0) alter else -1\n        get() = field //Standardgetter\n        set(value){ //Eigener Setter. Der neue Wert wird in value gespeichert\n            field = if (value > field) value else field //Das Feld wird auf den neuen Wert gesetzt, falls dieser größer als der Aktuelle ist.\n        }\n}\nval p1 = Person (\"Max Mustermann\", -10)\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}\")\np1.alter = 21\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}\")\np1.alter = -10\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}\")",
      "start": {
       "line": 0,
@@ -13945,7 +15797,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "public class Person (name: String, alter: Int){\n    val name: String = name\n        get() = \"Name: $field\" //Wird auf das Feld name zugegeriffen, wird der String \"Name: name\" zurückgegeben\n        //Kein Setter möglich, da val\n    var alter = if (alter > 0) alter else -1\n        get() = field //Standardgetter\n        set(value){ //Eigener Setter. Der neue Wert wird in value gespeichert\n            field = if (value > field) value else field //Das Feld wird auf den neuen Wert gesetzt, falls dieser größer als der Aktuelle ist.\n        }\n    val istVolljaerig //Datentyp Boolean aus dem Getter\n        get() = alter > 17\n}\nval p1 = Person (\"Max Mustermann\", 21)\nprintln(\"Person p1: ${p1.name}, Alter ${p1.alter}, Volljährig ${p1.istVolljaerig}\")",
      "start": {
       "line": 0,
@@ -13966,7 +15818,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "public class Person (name: String, alter: Int){\n    val name = name\n    var alter = alter\n    val istVolljaehrig: Boolean by lazy {\n        println(\"Wird berechnet...\")\n        alter > 18\n    }\n}\nval p1 = Person(\"Erika Musterfrau\", 32)\nprintln(p1.istVolljaehrig)\nprintln(p1.istVolljaehrig)",
      "start": {
       "line": 0,
@@ -14000,7 +15852,7 @@
     },
     {
      "start_checkpoint": 1622210797522,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "public class Person (name: String, alter: Int){\n    val name = name\n    var alter = alter\n    lateinit var istVolljaehrig: String //istVolljaehrig wird nicht bei Objekterzeugung berechnet\n    \n    fun berechneIstVolljaehrig() { //Diese Methode berechnet den Wert des Feldes istVolljaehrig\n        istVolljaehrig = if (alter > 17) \"Volljährig\" else \"Nicht Volljährig\"\n    }\n}\nval p1 = Person (\"Max Mustermann\", 30)\n//println(p1.istVolljaehrig) -> Fehler: UninitializedPropertyAccessException: lateinit property istVolljaehrig has not been initialized\np1.berechneIstVolljaehrig() //istVolljaehrig wird berechnet\nprintln(p1.istVolljaehrig)"
     }
    ]
@@ -14027,7 +15879,7 @@
     },
     {
      "start_checkpoint": 1622209406266,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "public class Person (name: String, alter: Int){\n    val name = name\n    var alter = alter\n    lateinit var istVolljaehrig: String\n    \n    fun berechneIstVolljaehrig(){\n        istVolljaehrig = if (alter > 17) \"Volljährig\" else \"Nicht Volljährig\"\n    }\n    fun istInitialisiert() = this::istVolljaehrig.isInitialized\n}\n\nval p1 = Person (\"Max Mustermann\", 30)\nprintln(\"Versuch 1: ${p1.istInitialisiert()}\")\np1.berechneIstVolljaehrig() //istVolljaehrig wird berechnet\nprintln(\"Versuch 2: ${p1.istInitialisiert()}\")"
     }
    ]
@@ -14040,7 +15892,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Person(val name: String, var alter: Int){\n    fun hatGeburtstag() = alter++ //Objektmethode\n    override fun toString() = \"$name ist $alter Jahre alt.\" //Objektmethode die die Methode toString() überschreibt\n}\n\nval p1 = Person(\"Max Mustermann\", 30)\nprintln(\"Vor Geburtstag: $p1\")\np1.hatGeburtstag()\nprintln(\"Nach Geburtstag: $p1\")",
      "start": {
       "line": 0,
@@ -14114,7 +15966,7 @@
     },
     {
      "start_checkpoint": 1622210205883,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "val p1 = Punkt (0,1,2)\nprintln(\"p1.component1(): ${p1.component1()}\")\nval (x, y, z) = p1 //speichert die ersten drei Felder von p1 in den Variablen x, y, z\nprintln(\"x: $x, y: $y, z: $z\")\nval (a, b) = p1 //speichert die ersten zwei Felder von p1 in den Variablen a, b\nprintln(\"a: $a, b: $b\")"
     }
    ]
@@ -14141,7 +15993,7 @@
     },
     {
      "start_checkpoint": 1622210205883,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "val p1 = Punkt (0,1,2)\nval p2 = p1.copy() //p1 und p2 sind unabhängige Objekte\nprintln(\"p1: $p1\")\nprintln(\"p2: $p2\")\nval p3 = p1.copy(x=4)\nprintln(\"p3: $p3\")"
     }
    ]
@@ -14154,7 +16006,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "data class Punkt (val x: Int, val y: Int, val z: Int){\n    val istUrsprung = x == 0 && y == 0 && z == 0\n}\nval p1 = Punkt (0,0,0)\nprintln(\"Punkt p1 ist im Ursprung: ${p1.istUrsprung}, $p1\")\nval p2 = Punkt (1,1,1)\nprintln(\"Punkt p2 ist im Ursprung: ${p2.istUrsprung}, $p2\")",
      "start": {
       "line": 0,
@@ -14196,7 +16048,7 @@
    "versions": [
     {
      "start_checkpoint": 1619273398309,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "object Rechner {\n    val zahl: Int\n    init {\n        println(\"Singleton Rechner wurde erzeugt.\")\n        zahl = (0..10).random()\n    }\n    \n    fun addieren(a: Int, b: Int) = a + b\n}\n\nval a = 5\nval b = 10\nprintln(\"Berechnung ohne Singleton: ${a+b}\")\nprintln(\"Berechnung mit Singleton: ${Rechner.addieren(a,b)}\")\nprintln(\"Zufallszahl des Singletons: ${Rechner.zahl}\")",
      "start": {
       "line": 0,
@@ -14252,7 +16104,7 @@
     },
     {
      "start_checkpoint": 1622211105740,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "import java.time.LocalTime\n\nclass Zahlen(){\n    companion object {\n        var nummer = 1\n            get() = field\n    }\n    object Zwei {\n        var nummer = 2\n    }\n    object Drei {\n        var nummer = 3\n    }\n    object Zeit {\n        fun gibZeit() = LocalTime.now()\n    }\n}\n\nprintln(\"Die Nummer des Standard Companion Objects ist ${Zahlen.nummer}.\")\nprintln(\"Die Nummer des Companion Objects Zwei ist ${Zahlen.Zwei.nummer}.\")\nprintln(\"Die Nummer des Companion Objects Drei ist ${Zahlen.Drei.nummer}.\")\nprintln(\"Es ist aktuell ${Zahlen.Zeit.gibZeit()} Uhr.\")\n\nval zwei = Zahlen()\n//println(zwei.Zwei.nummer) -> Fehler: Nested object 'Zwei' accessed via instance reference"
     }
    ]
@@ -14308,7 +16160,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//TODO\n\n//Test\nvar fehler = 0\nval p1 = Parkplatzverwaltung(mutableListOf(true, true, false, false, true))\nif (p1.toString() != \"xx--x\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nif (!p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich nicht belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.toString() != \"xx-xx\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nval p2 = Parkplatzverwaltung()\nif (p2.toString() != \"-----\"){\n    println(\"Fehler! p2 sollte eigentlich '-----' sein, ist jedoch '$p2'\")\n    fehler++\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -14329,7 +16181,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//Lösung\nclass Parkplatzverwaltung(parkplatz: MutableList<Boolean>){\n    private val parkplatz: MutableList<Boolean> = parkplatz\n    \n    constructor() : this(MutableList<Boolean>(5) { false })\n    \n    fun einparken(nummer: Int): Boolean {\n        return if (!parkplatz[nummer]) {\n            parkplatz[nummer] = true\n            true\n        }\n        else {\n            false\n        }\n    } \n\n    override fun toString(): String {\n        var res = \"\"\n        parkplatz.forEach {\n            res += if (it) \"x\" else \"-\"\n        }\n        return res\n    }\n}\n\n//Test\nvar fehler = 0\nval p1 = Parkplatzverwaltung(mutableListOf(true, true, false, false, true))\nif (p1.toString() != \"xx--x\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nif (!p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.einparken(3)){\n    println(\"Fehler! Parkplatz Nummer 3 sollte eigentlich nicht belegt werden können. Parkplatz: $p1\")\n    fehler++\n}\nif (p1.toString() != \"xx-xx\"){\n    println(\"Fehler! p1 sollte eigentlich 'xx--x' sein, ist jedoch '$p1'\")\n    fehler++\n}\nval p2 = Parkplatzverwaltung()\nif (p2.toString() != \"-----\"){\n    println(\"Fehler! p2 sollte eigentlich '-----' sein, ist jedoch '$p2'\")\n    fehler++\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -14364,7 +16216,7 @@
     },
     {
      "start_checkpoint": 1622285607950,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "enum class Wochentag {\n    MONTAG, DIENSTAG, MITTWOCH, DONNERSTAG, FREITAG, SAMSTAG, SONNTAG\n}\n\nclass Tag (val name : Wochentag)\n\nval montag = Tag(Wochentag.MONTAG)\nprintln(\"Der Name von montag ist ${montag.name}.\")"
     }
    ]
@@ -14377,7 +16229,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "print(\"Alle Einträge des Enums: \")\nWochentag.values().forEach { \n    print(\"$it, \")\n}\n\nprintln()\nprintln(\"Vollständiger Name von FREITAG: ${Wochentag.valueOf(\"FREITAG\")}\")",
      "start": {
       "line": 0,
@@ -14398,7 +16250,7 @@
    "versions": [
     {
      "start_checkpoint": 1619344122936,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "enum class Wochentag (val nummer: Int){\n    MONTAG(1), DIENSTAG(2), MITTWOCH(3), DONNERSTAG(4), FREITAG(5), SAMSTAG(6), SONNTAG(7);\n    \n    val zufallszahl = (0..10).random()\n    \n    fun istWochenende() = if (this == SAMSTAG || this == SONNTAG) true else false\n}\n\nval montag = Wochentag.MONTAG\nprintln(\"Montag ist ein Tag des Wochenendes: ${montag.istWochenende()}, Nummer des Tags: ${montag.nummer}, Zufallszahl: ${montag.zufallszahl}\")\nval samstag = Wochentag.SAMSTAG\nprintln(\"Samstag ist ein Tag des Wochenendes: ${samstag.istWochenende()}, Nummer des Tags: ${samstag.nummer}, Zufallszahl: ${montag.zufallszahl}\")",
      "start": {
       "line": 0,
@@ -14523,7 +16375,7 @@
     },
     {
      "start_checkpoint": 1622286066819,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "open class Person(val name: String, var alter: Int) { //Super-Klasse\n    override fun toString() = \"Mein Name ist $name und ich bin $alter Jahre alt.\"\n}\n\nclass Student(name: String, alter: Int) : Person(name, alter){ //Sub-Klasse, die von Person erbt\n    companion object {\n        var zaehler = 0\n            get() = field++\n    }\n    val matrikelnummer = zaehler\n    \n    override fun toString() = \"Mein Name ist $name, ich bin $alter Jahre alt und besitze die Matrikelnummer $matrikelnummer.\"\n}\n\nval p1 = Person (\"Max Mustermann\", 25)\nval s1 = Student (\"Erika Mustermann\", 21)\nprintln(\"p1: $p1\")\nprintln(\"s1: $s1\")"
     }
    ]
@@ -14633,7 +16485,7 @@
     },
     {
      "start_checkpoint": 1622286553284,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "open class Person(val name: String, var alter: Int){\n    open val schlachtruf //Dieses Feld kann von den Sub-Klassen überschrieben werden\n        get() = \"Für die Horde!\"\n    \n    open fun hatGeburtstag() { //Diese Methode kann von den Sub-Klassen überschrieben werden\n        println(\"$name hat Geburtstag. Alles Gute!\")\n        alter++\n    } \n    override fun toString() = \"Mein Name ist $name und ich bin $alter Jahre alt. $schlachtruf\"\n}\n\nclass Student(name: String, alter: Int) : Person(name, alter){\n    companion object {\n        var zaehler = 0\n            get() = field++\n    }\n    val matrikelnummer = zaehler\n    \n    override val schlachtruf\n        get() = \"Für die Allianz!\"\n    \n    override fun hatGeburtstag() { //Überschreibt die Methode hatGeburtstag der Super-Klasse\n        println(\"$name hat Geburtstag. Alles Gute!\")\n        alter--\n    } \n    \n    override fun toString() = \"Mein Name ist $name, ich bin $alter Jahre alt und habe die Matrikelnummer $matrikelnummer. $schlachtruf Oder vielleicht doch: ${super.schlachtruf}?\"\n}\n\nval p1 = Person (\"Max Mustermann\", 25)\nval s1 = Student (\"Erika Mustermann\", 21)\nprintln(\"p1: $p1\")\np1.hatGeburtstag() //Ruft hatGeburtstag() von der Klasse Person auf \nprintln(\"p1: $p1\")\nprintln(\"s1: $s1\")\ns1.hatGeburtstag() //Ruft hatGeburtstag() von der Klasse Student auf \nprintln(\"s1: $s1\")"
     }
    ]
@@ -14659,7 +16511,7 @@
     },
     {
      "start_checkpoint": 1622286553284,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "open class Punkt2D (val x: Int, val y: Int){\n    override fun toString() = \"x: $x, y: $y\"\n}\n\nclass Punkt3D : Punkt2D { //Aufruf des primären Konstruktors von Punkt2D fehlt hier\n    val z: Int\n    \n    //sekundäre Konstruktoren rufen den primären Defaultkonstruktor von Punkt2D auf\n    constructor (x: Int, y: Int, z: Int) : super (x, y) {\n        this.z = z\n    }\n    constructor () : super (0, 0) {\n        this.z = 0\n    }\n    \n    override fun toString() = \"${super.toString()}, z: $z\"\n}\n\nval p1 = Punkt3D (4, 2, 8)\nprintln(\"Punkt p1: $p1\")\nval p2 = Punkt3D()\nprintln(\"Punkt p2: $p2\")"
     }
    ]
@@ -14727,7 +16579,7 @@
     },
     {
      "start_checkpoint": 1622289820200,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "interface Addition {\n    val dieZahl: Int //Feld, das in den Klassen überschrieben und gefüllt werden muss\n    \n    fun add2(a: Int, b: Int): Int //Methode muss in den Klassen ausformuliert werden\n    fun add3(a: Int, b: Int, c: Int) = a + b + c //Bereits voll implementierte Methode, die übernommen wird\n}\n\nclass Rechner : Addition {\n    override val dieZahl = 42 //Überschreibt das vorgegebene Feld dieZahl\n    override fun add2(a: Int, b: Int) = a + b //Überschreibt die vorgegebene Methode add3\n}\n\nval rechner = Rechner()\nprintln(\"rechner.dieZahl: ${rechner.dieZahl}\")\nprintln(\"rechner.add2(5,3): ${rechner.add2(5,3)}\")\nprintln(\"rechner.add3(5,9,3): ${rechner.add3(5,9,3)}\")"
     }
    ]
@@ -14740,7 +16592,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "data class Speicher<T> (var platz1: T, var platz2: T, var platz3: T)\n\nval s1 = Speicher(1,2,3)\nval s2 = Speicher(listOf(1,2,3),listOf(1,2,3),listOf(1,2,3))\nval s3 = Speicher(\"Kotlin\",\"Java\",\"C\")\nprintln(\"s1: $s1\")\nprintln(\"s2: $s2\")\nprintln(\"s3: $s3\")",
      "start": {
       "line": 0,
@@ -14761,7 +16613,7 @@
    "versions": [
     {
      "start_checkpoint": 1619427664533,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Gleichheitstest<T: Comparable<T>>{\n    fun istGleich(a: T, b: T) = if(a.compareTo(b) == 0) true else false\n}\nval gleichheitstestInt = Gleichheitstest<Int>()\nprintln(\"gleichheitstestInt.istGleich(3,3): ${gleichheitstestInt.istGleich(3,3)}\")\nprintln(\"gleichheitstestInt.istGleich(10,3): ${gleichheitstestInt.istGleich(10,3)}\")\nval gleichheitstestString = Gleichheitstest<String>()\nprintln(\"gleichheitstestString.istGleich('Kotlin','Kotlin'): ${gleichheitstestString.istGleich(\"Kotlin\",\"Kotlin\")}\")",
      "start": {
       "line": 0,
@@ -14795,7 +16647,7 @@
     },
     {
      "start_checkpoint": 1622290018952,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "fun <T: Comparable<T>> istGleich(a: T, b: T) = if(a.compareTo(b) == 0) true else false\nprintln(\"istGleich(3,3): ${istGleich(3,3)}\") //T ist Int\nprintln(\"istGleich('Kotlin','Kotlin'): ${istGleich(\"Kotlin\",\"Kotlin\")}\") //T ist String"
     }
    ]
@@ -14845,7 +16697,7 @@
     },
     {
      "start_checkpoint": 1622290204256,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "fun <T: Comparable<T>> MutableList<T>.entferneMinimum(): T?{\n    val min = minOrNull()\n    return if (min != null){\n        remove(min)\n        min\n    }\n    else {\n        null\n    }\n}\n\nval liste1 = mutableListOf(3,6,1,8,10) //T ist Int\nprintln(\"Entferntes Element von liste1: ${liste1.entferneMinimum()}\")\nprintln(\"listeq: $liste\")\nval liste2 = mutableListOf('f', 'w', 'e', 't', 'q') //T ist Character\nprintln(\"Entferntes Element von liste2: ${liste2.entferneMinimum()}\")\nprintln(\"liste2: $liste2\")"
     }
    ]
@@ -14912,7 +16764,7 @@
    "versions": [
     {
      "start_checkpoint": 1622203535195,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "data class Punkt(val x: Int, val y: Int, val z: Int)\nval p1 = Punkt (0,0,0)\nprintln(\"Punkt p1: $p1\") //Verwendung der automatisch generierten toString()-Methode\nval p2 = Punkt (1,1,1)\nprintln(\"Punkt p2: $p2\")\nif (p1 == p2) //Verwendung der automatisch generierten equals()-Methode\n    println(\"p1 und p2 sind gleich.\")\nelse\n    println(\"p1 und p2 sind ungleich.\")",
      "start": {
       "line": 0,
@@ -14933,7 +16785,7 @@
    "versions": [
     {
      "start_checkpoint": 1622203535195,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//TODO\n\nval abstaende = mutableListOf<Abstand>() //Liste von Abständen\n\n//Test\nval positionen1 = listOf(Position(2,7), Position(0,0), Position(5,2), Position(7,2))\nval positionen2 = listOf(Position(4,4), Position(10,2), Position(1,6), Position(3,4))\nfor(p1 in positionen1){\n    for(p2 in positionen2){\n        berechneAbstand(p1, p2)\n    }\n}\nabstaende.sortBy {it.wert}\nvar fehler = 0\nif(abstaende.toString() != \"[Abstand(wert=2), Abstand(wert=3), Abstand(wert=4), Abstand(wert=5), Abstand(wert=6), Abstand(wert=7), Abstand(wert=8), Abstand(wert=10), Abstand(wert=12), Abstand(wert=13)]\"){\n    println(\"Fehler! Es sollten folgende Abstände in der Liste vorhanden sein:\\n\\t[Abstand(wert=2), Abstand(wert=3), Abstand(wert=4), Abstand(wert=5), Abstand(wert=6), Abstand(wert=7), Abstand(wert=8), Abstand(wert=10), Abstand(wert=12), Abstand(wert=13)]\\nIn der Liste ist aber aktuell:\\n\\t$abstaende\")\n    fehler++\n}\nval richtigeAnzahl = listOf(1,2,2,3,1,2,2,1,1,1)\nfor(i in 0 until abstaende.size){\n    if(abstaende[i].positionen.size != richtigeAnzahl[i]){\n        println(\"Fehler bei Element Nummer $i in abstaende!\\n\\tDer Abstand ${abstaende[i]} sollte eigentlich ${richtigeAnzahl[i]} Einträge in der Liste positionen besitzen, es ist/sind aber ${abstaende[i].positionen.size} Eintrag/Einträge.\")\n        fehler++\n    }\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -14954,7 +16806,7 @@
    "versions": [
     {
      "start_checkpoint": 1622203535195,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//Lösung\n\ndata class Position (val x: Int, val y: Int)\ndata class Abstand (val wert: Int){\n    val positionen = mutableListOf<Pair<Position, Position>>()\n}\n\nfun berechneAbstand(p1: Position, p2: Position) {\n    val abstand = Abstand((p1.x - p2.x).absoluteValue + (p1.y - p2.y).absoluteValue)\n    abstand.positionen.add(Pair(p1, p2))\n    if (abstand in abstaende)\n        abstaende.find { it == abstand }?.positionen?.add(Pair(p1, p2))\n    else\n        abstaende.add(abstand)\n}\n\nval abstaende = mutableListOf<Abstand>() //Liste von Abständen\n\n//Test\nval positionen1 = listOf(Position(2,7), Position(0,0), Position(5,2), Position(7,2))\nval positionen2 = listOf(Position(4,4), Position(10,2), Position(1,6), Position(3,4))\nfor(p1 in positionen1){\n    for(p2 in positionen2){\n        berechneAbstand(p1, p2)\n    }\n}\nabstaende.sortBy {it.wert}\nvar fehler = 0\nif(abstaende.toString() != \"[Abstand(wert=2), Abstand(wert=3), Abstand(wert=4), Abstand(wert=5), Abstand(wert=6), Abstand(wert=7), Abstand(wert=8), Abstand(wert=10), Abstand(wert=12), Abstand(wert=13)]\"){\n    println(\"Fehler! Es sollten folgende Abstände in der Liste vorhanden sein:\\n\\t[Abstand(wert=2), Abstand(wert=3), Abstand(wert=4), Abstand(wert=5), Abstand(wert=6), Abstand(wert=7), Abstand(wert=8), Abstand(wert=10), Abstand(wert=12), Abstand(wert=13)]\\nIn der Liste ist aber aktuell:\\n\\t$abstaende\")\n    fehler++\n}\nval richtigeAnzahl = listOf(1,2,2,3,1,2,2,1,1,1)\nfor(i in 0 until abstaende.size){\n    if(abstaende[i].positionen.size != richtigeAnzahl[i]){\n        println(\"Fehler bei Element Nummer $i in abstaende!\\n\\tDer Abstand ${abstaende[i]} sollte eigentlich ${richtigeAnzahl[i]} Einträge in der Liste positionen besitzen, es ist/sind aber ${abstaende[i].positionen.size} Eintrag/Einträge.\")\n        fehler++\n    }\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -15019,7 +16871,7 @@
     },
     {
      "start_checkpoint": 1622287051823,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "sealed class Fehler\ndata class Laufzeitfehler(val fehlercode: Int) : Fehler()\ndata class Kompilierfehler(val fehlercode: Int) : Fehler()\ndata class Referenzfehler(val fehlercode: Int) : Fehler()\n\nval zufall = (0..2).random()\nval f1 = if(zufall == 1)\n                Laufzeitfehler(123)\n            else if(zufall == 2)\n                Kompilierfehler(42)\n            else\n                Referenzfehler(200)\n\nwhen (f1){\n    is Laufzeitfehler -> println(\"Es ist ein Laufzeitfehler $f1 aufgetreten.\")\n    is Kompilierfehler -> println(\"Es ist ein Kompilierfehler $f1 aufgetreten.\")\n    is Referenzfehler -> println(\"Es ist ein Referenzfehler $f1 aufgetreten.\")\n}"
     }
    ]
@@ -15064,7 +16916,7 @@
     },
     {
      "start_checkpoint": 1622290408459,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "val parameter = (-100..100).random()\nval prozent = //In der Variable prozent wird entweder ein Wert zwischen 0 und 100 oder eine Exception gespeichert.\n    if (parameter in 0..100)\n        parameter\n    else\n        throw IllegalArgumentException(\"Der Parameter muss zwischen 0 und 100 sein, ist aber $parameter\")\nprozent //Führen Sie die Zelle mehrfach aus, um die verschiedenen Verhalten zu Betrachten"
     }
    ]
@@ -15125,7 +16977,7 @@
     },
     {
      "start_checkpoint": 1622290655058,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "val zeichenkette = if ((0..1).random() == 0)\n                    \"Kotlin\"\n                else\n                    \"231\"\nval zahl = try{\n                    Integer.parseInt(zeichenkette)\n                }\n                catch(e: Exception){\n                    println(\"Die Zeichenkette $zeichenkette kann nicht in eine ganze Zahl umgewandelt werden.\\n$e\")\n                }\nzahl"
     }
    ]
@@ -15177,7 +17029,7 @@
    "versions": [
     {
      "start_checkpoint": 1622208996780,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "//Lösung\nclass Pizza (groeße: Int, belaege: List<String>, geschnitten: Boolean){\n    val groeße: Int\n    val belaege: MutableList<String>\n    val geschnitten: Boolean\n    \n    init {\n        this.groeße = if (15 <= groeße && groeße <= 30) groeße else -1\n        this.belaege = mutableListOf(\"Tomatensoße\", \"Mozzarella\")\n        this.belaege += belaege\n        this.geschnitten = geschnitten\n    }\n    \n    constructor (groeße: Int) : this(groeße, emptyList(), true) //Pizza Magaritha\n    constructor () : this(25, listOf(\"Thunfisch\", \"Zwiebeln\", \"Peperoni\"), true) //Pizza al Tonno\n}\n\n//Tests\nvar fehler = 0\nval test1 = Pizza(25, listOf(\"Schinken\"), false)\nif( test1.groeße != 25 || test1.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test1.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 1! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test1.groeße}, Beläge ${test1.belaege}, Geschnitten ${test1.geschnitten}\")\n}\nval test2 = Pizza(31, listOf(\"Schinken\"), false)\nif( test2.groeße != -1 || test2.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test2.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 2! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test2.groeße}, Beläge ${test2.belaege}, Geschnitten ${test2.geschnitten}\")\n}\nval test3 = Pizza(14, listOf(\"Schinken\"), false)\nif( test3.groeße != -1 || test3.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test3.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 3! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test3.groeße}, Beläge ${test3.belaege}, Geschnitten ${test3.geschnitten}\")\n}\nval test4 = Pizza(31, listOf(\"Schinken\"), false)\nif( test4.groeße != -1 || test4.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Schinken\") || test4.geschnitten != false ){\n    fehler++\n    println(\"Fehler bei Test 4! Richtig wäre: Größe -1, Beläge [Tomatensoße, Mozzarella, Schinken], Geschnitten false \\n  Ist: Größe ${test4.groeße}, Beläge ${test4.belaege}, Geschnitten ${test4.geschnitten}\")\n}\nval test5 = Pizza(28, emptyList(), true)\nif( test5.groeße != 28 || test5.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test5.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 5! Richtig wäre: Größe 28, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test5.groeße}, Beläge ${test5.belaege}, Geschnitten ${test5.geschnitten}\")\n}\nval test6 = Pizza(15)\nif( test6.groeße != 15 || test6.belaege != listOf(\"Tomatensoße\", \"Mozzarella\") || test6.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 6! Richtig wäre: Größe 15, Beläge [Tomatensoße, Mozzarella], Geschnitten true \\n  Ist: Größe ${test6.groeße}, Beläge ${test6.belaege}, Geschnitten ${test6.geschnitten}\")\n}\nval test7 = Pizza()\nif( test7.groeße != 25 || test7.belaege != listOf(\"Tomatensoße\", \"Mozzarella\", \"Thunfisch\", \"Zwiebeln\", \"Peperoni\") || test7.geschnitten != true ){\n    fehler++\n    println(\"Fehler bei Test 7! Richtig wäre: Größe 25, Beläge [Tomatensoße, Mozzarella, Thunfisch, Zwiebeln, Peperoni], Geschnitten false \\n  Ist: Größe ${test7.groeße}, Beläge ${test7.belaege}, Geschnitten ${test7.geschnitten}\")\n}\nif(fehler == 0)\n    println(\"Super! Alle Tests bestanden!\")\nelse\n    println(\"Bei $fehler Tests kamen Fehler auf.\")",
      "start": {
       "line": 0,
@@ -15232,7 +17084,7 @@
    "versions": [
     {
      "start_checkpoint": 1622285607950,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "private val satz = object {\n    val subjekt = \"Kotlin\"\n    val praedikat = \"ist\"\n    val objekt = \"Programmiersprache\"\n    val vollstaendig = \"Kotlin ist eine Programmiersprache\"\n}\n\nprintln(\"Das Subjekt des Satzes ${satz.vollstaendig} ist ${satz.subjekt}.\")",
      "start": {
       "line": 0,
@@ -15251,7 +17103,7 @@
    "versions": [
     {
      "start_checkpoint": 1622285607950,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class Student(val name: String, var alter: Int){\n    companion object { //Umsetzung in Java: public static int zaehler = 0\n        var zaehler = 0\n            get() = field++\n    }\n    \n    var matrikelnummer: Int\n    \n    init {\n        matrikelnummer = zaehler //Umsetzung in Java: matrikelnummer = zaehler++\n    }\n}\n\nval s1 = Student (\"Max\", 21)\nval s2 = Student (\"Anna\", 25)\nval s3 = Student (\"Simon\", 26)\nval s4 = Student (\"Sophie\", 19)\nprintln(\"Die Marikelnummer von ${s1.name} ist ${s1.matrikelnummer}.\")\nprintln(\"Die Marikelnummer von ${s2.name} ist ${s2.matrikelnummer}.\")\nprintln(\"Die Marikelnummer von ${s3.name} ist ${s3.matrikelnummer}.\")\nprintln(\"Die Marikelnummer von ${s4.name} ist ${s4.matrikelnummer}.\")",
      "start": {
       "line": 0,
@@ -15338,7 +17190,7 @@
    "versions": [
     {
      "start_checkpoint": 1622312494538,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "abstract class Computer (val kerne: Int, val farbe: String){ //Abstrakte Klasse\n    var istAn = false\n    abstract fun einschalten() //Abstrakte Methode\n}\n\nclass Laptop (kerne: Int, farbe: String, val hatTouchscreen: Boolean) : Computer(kerne, farbe){\n    var istAufgeklappt = false\n    override fun einschalten() { //Vervollständigt die abstrakte Methode einschalten(), die geerbt wurde\n        if (!istAufgeklappt) \n            istAufgeklappt = true\n        istAn = true\n        println(\"Laptop wurde eingeschalten.\")\n    }\n}\n\nclass Standcomputer (kerne: Int, farbe: String) : Computer(kerne, farbe){\n    override fun einschalten() {\n        istAn = true\n        println(\"Standcomputer wurde eingeschalten.\")\n    }\n}\n\n//val c1 = Computer (8, \"Schwarz\") -> Error: Cannot create an instance of an abstract class\nval l1 = Laptop(6, \"Rot\", false)\nl1.einschalten()\nval s1 = Standcomputer(12, \"Weiß\")\ns1.einschalten()",
      "start": {
       "line": 0,
@@ -15359,7 +17211,7 @@
    "versions": [
     {
      "start_checkpoint": 1622312494538,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "literal": "class KeineProzentzahl(fehlermeldung: String) : Exception(fehlermeldung)\n\nval parameter = (-100..100).random()\nval prozent = \n    if (parameter in 0..100)\n        parameter\n    else\n        throw KeineProzentzahl(\"Der Parameter muss zwischen 0 und 100 sein, ist aber $parameter\")\nprozent",
      "start": {
       "line": 0,
@@ -16704,6 +18556,349 @@
      }
     }
    ]
+  },
+  {
+   "output_histories": {
+    "0": "o.146"
+   },
+   "artifact_name": "c.144",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "class PrivatePerson(private val name: String)\nval p1 = PrivatePerson(\"test\")\np1.name",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 2,
+      "ch": 6
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.147"
+   },
+   "artifact_name": "c.145",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "class LesbarePerson(name: String) {\n    var name = name //public\n    get() = field //public\n    private set(neuerWert){ //private\n        field = neuerWert\n    }\n}\nval p2 = LesbarePerson(\"test\")\nprintln(\"Name von p2: ${p2.name}\")\np2.name = \"Name\"",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 9,
+      "ch": 15
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.148"
+   },
+   "artifact_name": "c.146",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//TODO\n\n//Test\nval autos = MutableList(100) { Auto ((60..300).random(), \"weiß\") }\nval nummernschilder = mutableListOf<String>()\nfor (auto in autos){\n    nummernschilder.add(auto.nummernschild)\n}\nif (nummernschilder.size == nummernschilder.toSet().size){\n    println(\"Super! Alle Nummernschilder sind einzigartig.\")\n}\nelse {\n    println(\"Falsch! Es wurden Nummernschilder mehrfach vergeben.\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 13,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.149"
+   },
+   "artifact_name": "c.147",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//Lösung\nclass Auto(val ps: Int, var farbe: String){\n    companion object {\n        val nummernschilder = mutableListOf<String>()\n        fun generiereNummernschild(): String {\n            var testschild = \"${('A'..'Z').random()}${('A'..'Z').random()}-${(1..9).random()}${(0..9).random()}\"\n            while (nummernschilder.find { it == testschild } != null){\n                testschild = \"${('A'..'Z').random()}${('A'..'Z').random()}-${(1..9).random()}${(0..9).random()}\"\n            }\n            nummernschilder.add(testschild)\n            return testschild\n        }\n    }\n    \n    val nummernschild = generiereNummernschild()\n}\n\n//Test\nval autos = MutableList(100) { Auto ((60..300).random(), \"weiß\") }\nval nummernschilder = mutableListOf<String>()\nfor (auto in autos){\n    nummernschilder.add(auto.nummernschild)\n}\nif (nummernschilder.size == nummernschilder.toSet().size){\n    println(\"Super! Alle Nummernschilder sind einzigartig.\")\n}\nelse {\n    println(\"Falsch! Es wurden Nummernschilder mehrfach vergeben.\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 28,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.150"
+   },
+   "artifact_name": "c.148",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//TODO\n\n//Test\nvar fehler = 0\ntry{\n    val januar = Monat.JANUAR\n    if(januar.nummer != 1){\n        fehler++\n        println(\"Fehler! Der Januar ist der 1. Monat im Kalenderjahr.\")\n    }\n    val februar = Monat.FEBRUAR\n    if(februar.nummer != 2){\n        fehler++\n        println(\"Fehler! Der Februar ist der 2. Monat im Kalenderjahr.\")\n    }\n    val maerz = Monat.MAERZ\n    if(maerz.nummer != 3){\n        fehler++\n        println(\"Fehler! Der März ist der 3. Monat im Kalenderjahr.\")\n    }\n    val april = Monat.APRIL\n    if(april.nummer != 4){\n        fehler++\n        println(\"Fehler! Der April ist der 4. Monat im Kalenderjahr.\")\n    }\n    val mai = Monat.MAI\n    if(mai.nummer != 5){\n        fehler++\n        println(\"Fehler! Der Mai ist der 5. Monat im Kalenderjahr.\")\n    }\n    val juni = Monat.JUNI\n    if(juni.nummer != 6){\n        fehler++\n        println(\"Fehler! Der Juni ist der 6. Monat im Kalenderjahr.\")\n    }\n    val juli = Monat.JULI\n    if(juli.nummer != 7){\n        fehler++\n        println(\"Fehler! Der Juli ist der 7. Monat im Kalenderjahr.\")\n    }\n    val august = Monat.AUGUST\n    if(august.nummer != 8){\n        fehler++\n        println(\"Fehler! Der August ist der 8. Monat im Kalenderjahr.\")\n    }\n    val september = Monat.SEPTEMBER\n    if(september.nummer != 9){\n        fehler++\n        println(\"Fehler! Der September ist der 9. Monat im Kalenderjahr.\")\n    }\n    val oktober = Monat.OKTOBER\n    if(oktober.nummer != 10){\n        fehler++\n        println(\"Fehler! Der Oktober ist der 10. Monat im Kalenderjahr.\")\n    }\n    val november = Monat.NOVEMBER\n    if(november.nummer != 11){\n        fehler++\n        println(\"Fehler! Der November ist der 11. Monat im Kalenderjahr.\")\n    }\n    val dezember = Monat.DEZEMBER\n    if(dezember.nummer != 12){\n        fehler++\n        println(\"Fehler! Der Dezember ist der 12. Monat im Kalenderjahr.\")\n    }\n}\ncatch(e: Exception){\n    println(e)\n}\n\nif(fehler != 0)\n    println(\"Falsch! Es traten $fehler Fehler auf.\")\nelse\n    println(\"Richtig! Es traten keine Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 73,
+      "ch": 50
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.151"
+   },
+   "artifact_name": "c.149",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//Lösung\nenum class Monat(val nummer: Int){\n    JANUAR(1), FEBRUAR(2), MAERZ(3), APRIL(4), MAI(5), JUNI(6), JULI(7), AUGUST(8), SEPTEMBER(9), OKTOBER(10), NOVEMBER(11), DEZEMBER(12)\n}\n\n//Test\nvar fehler = 0\ntry{\n    val januar = Monat.JANUAR\n    if(januar.nummer != 1){\n        fehler++\n        println(\"Fehler! Der Januar ist der 1. Monat im Kalenderjahr.\")\n    }\n    val februar = Monat.FEBRUAR\n    if(februar.nummer != 2){\n        fehler++\n        println(\"Fehler! Der Februar ist der 2. Monat im Kalenderjahr.\")\n    }\n    val maerz = Monat.MAERZ\n    if(maerz.nummer != 3){\n        fehler++\n        println(\"Fehler! Der März ist der 3. Monat im Kalenderjahr.\")\n    }\n    val april = Monat.APRIL\n    if(april.nummer != 4){\n        fehler++\n        println(\"Fehler! Der April ist der 4. Monat im Kalenderjahr.\")\n    }\n    val mai = Monat.MAI\n    if(mai.nummer != 5){\n        fehler++\n        println(\"Fehler! Der Mai ist der 5. Monat im Kalenderjahr.\")\n    }\n    val juni = Monat.JUNI\n    if(juni.nummer != 6){\n        fehler++\n        println(\"Fehler! Der Juni ist der 6. Monat im Kalenderjahr.\")\n    }\n    val juli = Monat.JULI\n    if(juli.nummer != 7){\n        fehler++\n        println(\"Fehler! Der Juli ist der 7. Monat im Kalenderjahr.\")\n    }\n    val august = Monat.AUGUST\n    if(august.nummer != 8){\n        fehler++\n        println(\"Fehler! Der August ist der 8. Monat im Kalenderjahr.\")\n    }\n    val september = Monat.SEPTEMBER\n    if(september.nummer != 9){\n        fehler++\n        println(\"Fehler! Der September ist der 9. Monat im Kalenderjahr.\")\n    }\n    val oktober = Monat.OKTOBER\n    if(oktober.nummer != 10){\n        fehler++\n        println(\"Fehler! Der Oktober ist der 10. Monat im Kalenderjahr.\")\n    }\n    val november = Monat.NOVEMBER\n    if(november.nummer != 11){\n        fehler++\n        println(\"Fehler! Der November ist der 11. Monat im Kalenderjahr.\")\n    }\n    val dezember = Monat.DEZEMBER\n    if(dezember.nummer != 12){\n        fehler++\n        println(\"Fehler! Der Dezember ist der 12. Monat im Kalenderjahr.\")\n    }\n}\ncatch(e: Exception){\n    println(e)\n}\n\nif(fehler != 0)\n    println(\"Falsch! Es traten $fehler Fehler auf.\")\nelse\n    println(\"Richtig! Es traten keine Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 76,
+      "ch": 50
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.150",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//TODO\n\n//Test\ntry {\n    val text = Textverarbeitungssoftware(listOf(\"doc\",\"pages\",\"txt\"), \"Office\")\n    text.starte()\n    text.schreiben()\n    val spiel = Computerspiel(1, \"Cyberpunk 2077\")\n    spiel.starte()\n    spiel.spielen()\n    \n    if(!Software::class.isAbstract)\n        throw AssertionError(\"Klasse Software ist nicht abstrakt.\")\n    if(spiel !is Software)\n        throw AssertionError(\"Klasse Computerspiel erbt nicht von Software.\")\n    if(text !is Software)\n        throw AssertionError(\"Klasse Textverarbeitungssoftware erbt nicht von Software.\")\n    println(\"Super! Ihre Lösung ist richtig.\")\n}\ncatch(e: Exception){\n    println(\"Fehler! $e\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 21,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.152"
+   },
+   "artifact_name": "c.151",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//Lösung\nabstract class Software(val name: String){\n    abstract fun starte(): Unit\n}\n\nclass Textverarbeitungssoftware(val dateiformate: List<String>, name: String): Software(name){\n    fun schreiben() = println(\"Die Textverarbeitungssoftware $name schreibt...\")\n    override fun starte() = println(\"Die Textverarbeitungssoftware $name wird gestartet.\")\n}\n\nclass Computerspiel(val anzahlSpieler: Int, name: String): Software(name){\n    fun spielen() = println(\"Das Computerspiel $name wird gespielt...\")\n    override fun starte() = println(\"Das Computerspiel $name wird gestartet.\")\n}\n\n//Test\ntry {\n    val text = Textverarbeitungssoftware(listOf(\"doc\",\"pages\",\"txt\"), \"Office\")\n    text.starte()\n    text.schreiben()\n    val spiel = Computerspiel(1, \"Cyberpunk 2077\")\n    spiel.starte()\n    spiel.spielen()\n    \n    if(!Software::class.isAbstract)\n        throw AssertionError(\"Klasse Software ist nicht abstrakt.\")\n    if(spiel !is Software)\n        throw AssertionError(\"Klasse Computerspiel erbt nicht von Software.\")\n    if(text !is Software)\n        throw AssertionError(\"Klasse Textverarbeitungssoftware erbt nicht von Software.\")\n    println(\"Super! Ihre Lösung ist richtig.\")\n}\ncatch(e: Exception){\n    println(\"Fehler! $e\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 34,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.153"
+   },
+   "artifact_name": "c.152",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "sealed interface Frucht {\n    val farbe: String\n    var status: String\n    \n    fun faulen() {\n        status = \"Verfault\"\n    }\n}\n\nclass Apfel(override val farbe: String, override var status: String) : Frucht {\n    constructor (farbe: String): this(farbe, \"Frisch\")\n}\ndata class Pflaume(override val farbe: String, override var status: String) : Frucht\ndata class Banane(override val farbe: String, override var status: String, val gekruemmt: Boolean) : Frucht\n\n\nwhen(listOf(Apfel(\"Rot\"), Pflaume(\"Violet\", \"Frisch\"), Banane(\"Gelb\", \"Geöffnet\", true)).random() as Frucht){\n    is Apfel -> println(\"Es ist ein Apfel!\")\n    is Pflaume -> println(\"Es ist eine Pflaume!\")\n    is Banane -> println(\"Es ist eine Banane!\")\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 20,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.153",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "data class Element(val wert: Int, var naechster: Element? = null)\n\n//TODO",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 2,
+      "ch": 5
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.154",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "data class Element(val wert: Int, var naechster: Element? = null)\n\n//Lösung\ninterface Liste {\n    var erster: Element? //nullable, da das erste Element leer sein kann\n    \n    fun hinzufuegen(wert: Int): Boolean //Parameter: Wert des Elements, Rückgabe: Erfolg\n    fun entfernen(): Int //Rückgabe des Werts des entfernten Elements\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 8,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.154"
+   },
+   "artifact_name": "c.155",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//TODO\n\n//Test\nvar fehler = 0\nval listeInt = Liste<Int>()\nfor (i in 1..5){\n    if(!listeInt.hinzufuegen(i)){\n        fehler++\n        println(\"Fehler! Ein Element mit dem Wert $i konnte nicht hinzugefügt werden. ${listeInt.erstes}\")\n    }\n}\n\nif (listeInt.erstes?.wert != 5){\n    fehler++\n    println(\"Fehler! Der Wert des ersten Elements sollte 10 sein, ist aber ${listeInt.erstes?.wert}\")\n}\nif (listeInt.erstes?.naechstes?.wert != 4){\n    fehler++\n    println(\"Fehler! Der Wert des zweiten Elements sollte 10 sein, ist aber ${listeInt.erstes?.naechstes?.wert}\")\n}\nif (listeInt.erstes?.naechstes?.naechstes?.naechstes?.naechstes?.wert != 1){\n    fehler++\n    println(\"Fehler! Der Wert des letzten Elements sollte 1 sein, ist aber ${listeInt.erstes?.naechstes?.naechstes?.naechstes?.naechstes?.wert}\")\n}\nif (listeInt.erstes?.naechstes?.naechstes?.naechstes?.naechstes?.naechstes != null){\n    fehler++\n    println(\"Fehler! Es ist eine falsche Anzahl an Elementen in der Liste. ${listeInt.erstes}\")\n}\nfor (i in 5 downTo 1){\n    if(listeInt.entfernen() != i){\n        fehler++\n        println(\"Fehler! Das Element mit dem Wert $i konnte nicht enfernt werden. ${listeInt.erstes}\")\n    }\n}\nif(listeInt.entfernen() != null){\n        fehler++\n        println(\"Fehler! Obwohl kein Element mehr entfernt werden können sollte, wurde ein Wert zurückgegeben. ${listeInt.erstes}\")\n}\n\nif(fehler == 0)\n    println(\"Super! Ihre Lösung hat alle Tests bestanden.\")\nelse\n    println(\"Falsch! Es traten bei $fehler Tests Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 42,
+      "ch": 61
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.155"
+   },
+   "artifact_name": "c.156",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//Lösung\nclass Liste<T> (var erstes: Element<T>? = null){\n    data class Element<F>(val wert: F, var naechstes: Element<F>? = null)\n    \n    fun hinzufuegen(wert: T): Boolean {\n        erstes = erstes?.let { Element<T>(wert, erstes) } ?: Element<T>(wert)\n        return true\n    }\n    fun entfernen(): T? {\n        val res = erstes?.wert\n        erstes = erstes?.naechstes\n        return res\n    }\n}\n\n//Test\nvar fehler = 0\nval listeInt = Liste<Int>()\nfor (i in 1..5){\n    if(!listeInt.hinzufuegen(i)){\n        fehler++\n        println(\"Fehler! Ein Element mit dem Wert $i konnte nicht hinzugefügt werden. ${listeInt.erstes}\")\n    }\n}\n\nif (listeInt.erstes?.wert != 5){\n    fehler++\n    println(\"Fehler! Der Wert des ersten Elements sollte 10 sein, ist aber ${listeInt.erstes?.wert}\")\n}\nif (listeInt.erstes?.naechstes?.wert != 4){\n    fehler++\n    println(\"Fehler! Der Wert des zweiten Elements sollte 10 sein, ist aber ${listeInt.erstes?.naechstes?.wert}\")\n}\nif (listeInt.erstes?.naechstes?.naechstes?.naechstes?.naechstes?.wert != 1){\n    fehler++\n    println(\"Fehler! Der Wert des letzten Elements sollte 1 sein, ist aber ${listeInt.erstes?.naechstes?.naechstes?.naechstes?.naechstes?.wert}\")\n}\nif (listeInt.erstes?.naechstes?.naechstes?.naechstes?.naechstes?.naechstes != null){\n    fehler++\n    println(\"Fehler! Es ist eine falsche Anzahl an Elementen in der Liste. ${listeInt.erstes}\")\n}\nfor (i in 5 downTo 1){\n    if(listeInt.entfernen() != i){\n        fehler++\n        println(\"Fehler! Das Element mit dem Wert $i konnte nicht enfernt werden. ${listeInt.erstes}\")\n    }\n}\nif(listeInt.entfernen() != null){\n        fehler++\n        println(\"Fehler! Obwohl kein Element mehr entfernt werden können sollte, wurde ein Wert zurückgegeben. ${listeInt.erstes}\")\n}\n\nif(fehler == 0)\n    println(\"Super! Ihre Lösung hat alle Tests bestanden.\")\nelse\n    println(\"Falsch! Es traten bei $fehler Tests Fehler auf.\")",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 55,
+      "ch": 61
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.157",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//TODO\n\nclass Parkplatzverwaltung(parkplatz: MutableList<Boolean>){\n    private val parkplatz: MutableList<Boolean> = parkplatz\n    \n    constructor() : this(MutableList<Boolean>(5) { false })\n    \n    fun einparken(nummer: Int): Boolean {\n        return if (!parkplatz[nummer]) {\n            parkplatz[nummer] = true\n            true\n        }\n        else {\n            false\n        }\n    } \n\n    override fun toString(): String {\n        var res = \"\"\n        parkplatz.forEach {\n            res += if (it) \"x\" else \"-\"\n        }\n        return res\n    }\n}",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 24,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {
+    "0": "o.156"
+   },
+   "artifact_name": "c.158",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "literal": "//Lösung\nclass Parkplatzverwaltung(parkplatz: MutableList<Boolean>){\n    private val parkplatz: MutableList<Boolean> = parkplatz\n    \n    constructor() : this(MutableList<Boolean>(5) { false })\n    \n    fun einparken(nummer: Int): Unit {\n        if (!parkplatz[nummer])\n            parkplatz[nummer] = true\n        else\n            throw ParkplatzVoll(nummer)\n    } \n\n    override fun toString(): String {\n        var res = \"\"\n        parkplatz.forEach {\n            res += if (it) \"x\" else \"-\"\n        }\n        return res\n    }\n}\n\nclass ParkplatzVoll(nummer: Int) : Exception(\"Der Parkplatz $nummer ist belegt.\")\n\nfun main(){\n    val parkplatzverwaltung = Parkplatzverwaltung()\n    parkplatzverwaltung.einparken(2)\n    \n    try {\n        parkplatzverwaltung.einparken(2)\n    }\n    catch(e: ParkplatzVoll) {\n        println(e)\n    }\n}\n\nmain()",
+     "start": {
+      "line": 0,
+      "ch": 0
+     },
+     "end": {
+      "line": 36,
+      "ch": 5
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.159",
+   "versions": [
+    {
+     "start_checkpoint": 1622642505532,
+     "parent": "n.0.124",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.160",
+   "versions": [
+    {
+     "start_checkpoint": 1622642564179,
+     "parent": "n.0.126",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
   }
  ],
  "markdownCells": [
@@ -16802,7 +18997,7 @@
     },
     {
      "start_checkpoint": 1622204457914,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Konstruktor\nMit dem Konstruktor können die Felder bei Objekterzeugung mit Werten bestückt werden. Aufgrund des *Konstruktorwirrars* in Java, unterscheidet Kotlin zwischen zwei verschiedenenen Arten:\n* primärer Konstruktor: Dieser Konstruktor muss mindestens ein Mal in jeder Klasse enthalten sein. Falls er nicht explizit definiert wurde, wird ein automatisch generierter Konstruktor implizit hinzugefügt.\n* sekundärer Konstruktor: Eine Anweisung, die auf einen primären Konstruktor verweist und eine alternative Handhabung des primären Konstruktors ermöglicht.\n\n#### Primärer Konstruktor\nDer primäre Konstruktor ist für die eigentliche Erzeugung der Objekte zuständig und besitzt drei verschiedene Erscheinungsformen:\n<ul>\n    <li>Defaultkonstruktor</li>\n    <li>Konstruktor mit <code>init</code>-Block</li>\n    <li>Konstruktor durch direkte Zuweisung</li>\n</ul>\n\nIm Folgenden wird auf alle Arten Bezug genommen und im Anschluss ein Vergleich angestellt.\n##### Defaultkonstruktor\nDer Defaultkonstruktor wurde bereits bei den [Feldern](#Felder) kennengelernt. Dieser wird vom Compiler für alle Parameter, denen ein Variablentyp zugewiesen wurde, generiert.  "
     }
    ]
@@ -16852,7 +19047,7 @@
     },
     {
      "start_checkpoint": 1622204534951,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "##### Konstruktor durch direkte Initialisierung\nEine weitere Möglichkeit der Initialisierung ist, die Felder direkt bei der Deklaration Parameter oder festgelegte Werte zuzuweisen."
     }
    ]
@@ -16952,7 +19147,7 @@
     },
     {
      "start_checkpoint": 1622208996780,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "#### Computed Properties\nDurch die Definition eigener Getter können Felder auch *kleine Methoden* darstellen ohne einen eigenen Wert zu speichern. So können beispielsweise berechnete Wahrheitswerte zurückgegeben werden. Dadurch können rudimentäre Methoden ersetzt werden. Als Beispiel wird die bereits kennengelernte Klasse `Person` mit einem berechneten Feld `istVolljaerig` ergänzt."
     }
    ]
@@ -16992,7 +19187,7 @@
     },
     {
      "start_checkpoint": 1622209235576,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "#### `lateinit`\nEin weiteres, ähnliches Konstrukt ist `lateinit`. Dies findet Anwendung, wenn ein Feld erst nach der Objekterzeugung einen Wert zugewiesen bekommt. Dieses Feld kann im Konstruktor ignoriert werden.  \nVorraussetzungen:\n* Das Feld ist vom Typ `var`\n* Der Datentyp des Feldes ist *non-nullable*\n* Der Datentyp des Feldes ist nicht primitiv"
     }
    ]
@@ -17012,7 +19207,7 @@
     },
     {
      "start_checkpoint": 1622209406266,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "In einem `lateinit` Feld ist zusätzlich gespeichert, ob es bereits für das Objekt initialisiert wurde. Diese Information kann mit `this::name.isInitialized` abgerufen werden."
     }
    ]
@@ -17137,7 +19332,7 @@
     },
     {
      "start_checkpoint": 1622210381391,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Zusätzlich können auch weitere Felder in den Rumpf einer Datenklasse definiert werden. Diese werden jedoch nicht bei den automatisch generierten Methoden berücksichtigt. Außerdem darf der primäre Konstruktor einer Datenklasse keine *freien* Parameter besitzen. Es wird nur der Defaultkonstruktor unterstützt. Somit können die eigens erstellten Felder im Rumpf der Klasse nur berechnet und nicht mit einem Parameter gefüllt werden."
     }
    ]
@@ -17232,7 +19427,7 @@
     },
     {
      "start_checkpoint": 1622211105740,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Companion Objekte\nEiner Klasse können sogenannte Companion Objekte angehängt werden. Diese sind für alle Objekte der Klasse gleich und ähneln somit statischen Variablen oder Methoden. Sie können nur in einer Klasse implementiert werden und besitzen das Schlüsselwort `companion object`. Im Hintergrund ist ein solches Konstrukt nichts weiter als ein Singleton einer Klasse, das alle Objekte verwenden können. In dem Objekt können Felder und Methoden implementiert werden.  \nAnstelle eines Companion Objects könnte auch eine Top-Level-Variable verwendet werden. Jedoch läge dort kein Zusammenhang zwischen den Klassen vor und die Variable könnte auch von anderen Objekten verändert werden."
     }
    ]
@@ -17277,7 +19472,7 @@
     },
     {
      "start_checkpoint": 1622285787057,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Auf alle möglichen Werte eines Enums kann mit `values()` zugegriffen werden. Zurückgegeben wird ein Array. Soll auf das Enum-Objekt eines Strings zugegriffen werden, ist dies mit `valueOf()` und dem String als Parameter möglich. Wird kein passendes Element gefunden, ist das Ergebnis eine `IllegalArgumentException`."
     }
    ]
@@ -17417,7 +19612,7 @@
     },
     {
      "start_checkpoint": 1622286553284,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Sekundäre Konstruktoren\nWir sind bis jetzt von dem einfachen Fall ausgegangen, dass die Unterklasse einen primären Konstruktor besitzt. Jedoch gibt es auch die Möglichkeit diese nur mit sekundären Konstruktoren auszustatten. Diese müssen immer den primären Konstruktor der Oberklasse aufrufen."
     }
    ]
@@ -17517,7 +19712,7 @@
     },
     {
      "start_checkpoint": 1622290018952,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Generische Funktionen\nGenerizität findet aber nicht nur bei Klassen, sondern auch bei Funktionen Anwendung. Jedoch wird hier der generische Typ vor dem Namen der Funktion angegeben. Bei Aufruf der Methode muss der Typ nicht angegeben werden, sondern wird vom Compiler erkannt."
     }
    ]
@@ -17712,7 +19907,7 @@
     },
     {
      "start_checkpoint": 1622290607436,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Der `try & catch`-Block darf in Kotlin natürlich nicht fehlen. Wie bei einer Exception selbst kann auch hier das Ergebnis dieses Ausdrucks einer Variable zugewiesen werden."
     }
    ]
@@ -17737,8 +19932,13 @@
     },
     {
      "start_checkpoint": 1622312964703,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Soll nach der Ausführung einer der beiden Blöcke Code ausgefürt werden, kann zusätzlich ein `finally`-Block verwendet werden. Der darin befindende Code wird immer am Ende ausgeführt und eignet sich deshalb besonders für Aufräumarbeiten. Falls ein solcher Block vorhanden ist, kann `catch` auch weggelassen werden.  \nEs können auch eigene Exceptions definiert werden. Dabei ist erforderlich, dass die Klasse von `Exception` erbt, die Beschreibung als String übergeben bekommt und an die Super-Klasse weitergibt."
+    },
+    {
+     "start_checkpoint": 1622727435090,
+     "parent": "n.0.135",
+     "markdown": "Soll nach der Ausführung einer der beiden Blöcke Code ausgefürt werden, kann zusätzlich ein `finally`-Block verwendet werden. Der darin befindende Code wird immer am Ende ausgeführt und eignet sich deshalb besonders für Aufräumarbeiten. Falls ein solcher Block vorhanden ist, kann `catch` auch weggelassen werden.  \nEs können auch eigene Fehler definiert werden. Dabei ist erforderlich, dass die Klasse von `Exception` erbt, die Beschreibung als String übergeben bekommt und an die Super-Klasse weitergibt."
     }
    ]
   },
@@ -17832,7 +20032,7 @@
    "versions": [
     {
      "start_checkpoint": 1622208996780,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "##### Mehrere primäre Konstruktoren\nEine wichtige Eigenschaft einer Klasse fehlt aber noch: Die Erzeugung eines Objekts mit unterschiedlichen Parameterprofilen. Um das zu erreichen können in der Klasse mehrere primäre Konstruktoren implementiert werden. Diesen wird das Schlüsselwort `constructor` vorangestellt. Außerdem bekommt jeder Konstruktor sein eigenes Parameterprofil, mit dem dieser in dessen Rumpf arbeiten kann. Die Konstruktoren ähneln dabei dem `init`-Verfahren, da sie alle ihren eigenen Rumpf besitzen. Die Parameterklammern der Klasse werden weggelassen."
     }
    ]
@@ -17852,7 +20052,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion1.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 1 - Klassen</h2>\n\nAufgrund der Interoperabilität mit Java ist auch Kotlin eine objektorientierte Sprache. Infolgedessen werden im Hintergrund alle Daten als Objekte behandelt. In Kotlin sind die bekannten objektorientierten Konzepte vorhanden, jedoch wurden diese angepasst und teilweise auch vereinfacht. Dazu ein Einführungsbeispiel. Es soll eine Klasse `Person` implementiert werden, die zwei Felder besitzt: `name` vom Typ `String`, das nur bei Objekterzeugung gesetzt wird, und `alter` vom Typ `Int`, das immer verändert werden kann.\n\n\n<table style=\"font-size:16px\">\n<thead>\n  <tr>\n    <th style=\"font-size:16px\">Kotlin</th>\n    <th style=\"font-size:16px\">Java</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td style=\"font-size:16px\"><code>class Person (val name: String, var alter: Int)</code></td>\n    <td style=\"font-size:16px\"><code>public class Person{<br>&nbsp;&nbsp;&nbsp;&nbsp;private String name;<br>&nbsp;&nbsp;&nbsp;&nbsp;private int alter;<br>&nbsp;&nbsp;&nbsp;&nbsp;public Person(String name, int alter){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.name = name<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.alter = alter<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;&nbsp;&nbsp;public String gibName(){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return name;<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;&nbsp;&nbsp;public String gibAlter(){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return alter;<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>&nbsp;&nbsp;&nbsp;&nbsp;public String setzeAlter(int alter){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this.alter = alter;<br>&nbsp;&nbsp;&nbsp;&nbsp;}<br>}<br></code></td>\n  </tr>\n</tbody>\n</table>"
     }
    ]
@@ -17862,7 +20062,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Es ist zu erkennen, dass der Code in Kotlin deutlich kürzer und übersichtlicher ist.  \nDer Kopf einer Klasse wird mit dem Schlüsselwort `class` eingeleitet, gefolgt von dem Namen. Die Parameter werden nach diesem in runden Klammern angegeben. Erzeugt werden kann die Klasse, wie aus Java gewohnt, mit der Nennung des Namens der Klasse, sowie dem Aufruf eines Konstruktors. In den runden Klammern sind die erforderlichen Argumente für die Objekterzeugung zu finden.\n\n### Felder\nFelder können Klassen auf verschiedene Weisen hinzugefügt werden. Die erste Möglichkeit ist durch die Übergabeparameter der Klasse. Diese entsprechen den Parametern des Konstruktors und sind im Kopf der Klasse angesiedelt. Wird diesen bei öffentlicher Sichtbarkeit ein Variablentyp (`val` oder `var`) zugewiesen, werden die Parameter zu Feldern umgewandelt. Das heißt, es wird im Hintergrund ein Feld mit dem Namen des Parameters angelegt, das bei Objekterzeugung mit dem Wert des Übergabeparameters gefüllt wird. Außerdem wird immer ein *unsichtbarer* Standard-Getter erzeugt. Wird dem Parameter `var` zugeordnet, fügt der Compiler zusätzlich einen rudimentären Setter hinzu."
     }
    ]
@@ -17872,7 +20072,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Eine weitere Möglichkeit Felder zu definieren ist klassisch im Rumpf der Klasse. Diese werden jedoch nicht automatisch bei Objekterzeugung, sondern mit den angegebenen Standardwerten befüllt. Des Weiteren wird auch diesen Feldern, je nach Typ, im Hintergrund ein Getter und Setter bei Seite gestellt."
     }
    ]
@@ -17882,7 +20082,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "##### Konstruktor mit init-Block\nNatürlich kann der Konstruktor auch selbst, wie aus Java gewohnt, definiert werden. Dieser ist zwischen der Deklaration der Felder und den Objektmethoden anzusiedeln. Eingeleitet wird er mit dem Schlüsselwort `init`, gefolgt von einem Methodenrumpf. Im Vergleich zu Java werden dessen Parameter nicht direkt im Kopf des Konstruktors, sondern im Kopf der Klasse angegeben. Die dort definierten Parameter können im Konstruktor benutzt werden. Bei Namenskonflikten findet das Schlüsselwort `this` Anwendung, dass das aktuelle Objekt referenziert."
     }
    ]
@@ -17892,7 +20092,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "##### Vergleich\nJede Erscheinungsform des Konstruktors hat seine Vorteile und Anwendungsbereiche. Während der Defaultkonstruktor bei einfachen Klassen, bei denen die Parameter unverändert zugewiesen werden zu bevorzugen ist, bieten die expliziten Konstruktoren genau die Möglichkeit der vorherigen Bearbeitung. Auf dem ersten Blick scheint es so, als sei der Konstruktor mit einem `init`-Block 1:1 zu ersetzen durch einen Konstruktor mit direkter Initialisierung, da die Parameter scheinbar mit dem gleichen Ergebnis direkt zugewiesen werden können. Jedoch ist der zuletzt Genannte bei komplexeren Klassen zu bevorzugen, da dort alle Daten erst auf Richtigkeit, beispielweise mit `try` und `catch`, geprüft werden können (Näheres dazu in [Lektion 8](Lektion-8---Fehlerbehandlung)).\n\n##### Kombination\nDie verschiedenen Konstruktoren können auch beliebig miteinander kombiniert werden. "
     }
    ]
@@ -17902,7 +20102,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "#### Sekundärer Konstruktor\nMit Hilfe eines sekundären Konstruktors ist es einfach möglich alternative Wege Objekte zu erzeugen. Dazu wird ein primärer Konstruktor mit `this()` und zu bestimmenden Parametern aufgerufen. Auch kann ein anderer sekundärer Konstruktor aufgerufen, jedoch muss am Ende immer ein Primärer benutzt werden, da nur dieser das Objekt erzeugen kann. Die Implementierung eines sekundären Konstruktors ähnelt der bei Benutzung mehrerer primärer Konstruktoren. Jedoch ist nur eine Anweisung erlaubt, die von den Parametern mit `:` getrennt wird und einen primären Konstruktor aufruft."
     }
    ]
@@ -17912,7 +20112,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Getter und Setter\nEs können aber auch eigene Getter und Setter für jedes Feld definiert werden, falls der Variablentyp dies zulässt und diese erst im Rumpf der Klasse definiert werden. Beide müssen direkt nach dem Feld definiert werden. Auf den aktuellen Wert des Feldes kann mit `field` zugegriffen werden. Der Setter bekommt den neuen Wert als Parameter übergeben. Der Datentyp des Parameters muss nicht angegeben werden, da dieser durch das Feld gegeben ist, jedoch muss ihm ein Name zugewiesen werden, der im Rumpf den neuen Wert repräsentiert. Der Wert des Feldes wird mit einer Zuweisung an `field` geändert. Es sind immer die Datentypen der Felder zu beachten."
     }
    ]
@@ -17922,7 +20122,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "#### Lazy Properties\nEine Variable oder ein Feld des Typs `val` kann mit dem Schlüsselwort `by lazy` *träge* gemacht werden. Das heißt, dass der Wert erst bei der ersten Verwendung berechnet wird. Dazu ist ein Lambda-Ausdruck nötig, dessen Ergebnis der Wert des Feldes oder der Variable ist. Wird die Variable danach noch einmal verwendet, wird der Inhalt nicht noch einmal berechnet, sondern auf den gespeicherten Wert zurückgegriffen."
     }
    ]
@@ -17932,7 +20132,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Methoden\nDer Aufbau von Objektmethoden kann mit dem von Funktionen verglichen werden, werden jedoch im Rumpf einer Klasse definiert. Es ist möglich die Kurzschreibweise anzuwenden und eine Sichtbarkeit zuzuweisen. Auf Objektmethoden kann, wie in Java, mit der Punktnotation zugegriffen werden. Soll eine bereits implementierte Methode, zum Beispiel `toString()`, überschrieben werden, ist das Voranstellen des Schlüsselworts `override` nötig."
     }
    ]
@@ -17942,7 +20142,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Aufgabe - Parkplatzverwaltung\nImplementieren Sie eine Klasse `Parkplatzverwaltung`, die einen Parkplatz repräsentieren soll. Der Grundriss und die Belegung soll mit Hilfe einer Liste der Länge 5 verwirklicht werden, der als Feld repräsentiert wird. Ist ein Parkplatz belegt, so soll dieser Eintrag `true` sein. Verwenden Sie passende Sichtbarkeiten.  \nStandardmäßig wird bei Erzeugung eine passende Liste übergeben. Falls kein Parameter übergeben wird, soll ein leerer Parkplatz erstellt werden. Implementieren Sie zusätzlich eine Methode `einparken()` der die Nummer des Parkplatzes übergeben wird und diesen falls möglich belegt. Bei Erfolg soll `true` zurückgegeben werden, ansonsten `false`. Gehen Sie davon aus, dass nur korrekte Parameter übergeben werden. Überschreiben Sie zusätzlich die Methode `toString()`, die den Parkplatz übersichtlich nach folgendem Muster ausgeben soll:  \n--x-- (Parkplatz Nummer 2 ist belegt)"
     }
    ]
@@ -17952,7 +20152,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion2.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 2 - Datenklassen</h2>\n\n\nZusätzlich zu normalen Klassen bietet Kotlin auch die Möglichkeit Klassen zu erstellen, die nur die Aufgabe der Speicherung von Daten haben. Auf den ersten Blick könnte dies auch mit normalen Klassen bewerkstelligt werden. Jedoch müssen dann alle Methoden, die eine Datenklasse in der Regel benötigt, per Hand implementiert werden. Beispiele dafür sind `toString()` oder `equals()`. Um das zu Verhindern, gibt es Datenklassen. Für diese generiert der Kotlin-Compiler im Hintergrund folgende Methoden: `componentN()`, `copy()`, `equals()`, `hashCode()`, `toString()`. Gekennzeichnet werden Datenklassen mit dem Schlüsselwort `data class`. Alle Felder, die bei den generierten Methoden berücksichtigt werden sollen, müssen in dem Kopf der Datenklasse angegeben werden."
     }
    ]
@@ -17962,7 +20162,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Durch die Verwendung der `componentN()`-Methode kann auf die Felder der Datenklasse zugegriffen werden. Dabei bekommt jedes Feld eine eigene Nummer, beispielsweise in der Klasse 'Punkt' 'x' die Nummer 1, zugewiesen. Wird `N` durch die Nummer ersetzt und auf einem Objekt aufgerufen, wird das dazugehörige Feld zurückgegeben. Auch können dadurch mehrere Felder abgerufen werden, indem eine Folge als Rückgabe erwartet wird."
     }
    ]
@@ -17972,7 +20172,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Die Erzeugung eines neuen, identischen Objekts erfolgt mit Hilfe von `copy()`. Soll aber bestimmten Feldern ein anderer Wert zugewiesen werden, kann dies der Methode mit Namen des Feldes und dem gewünschten Wert übergeben werden."
     }
    ]
@@ -17982,7 +20182,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Aufgabe - Abstände\nIn dieser Aufgabe sollen Sie mit Hilfe von Datenklassen eine Verwaltung von Abständen implementieren. Dazu werden folgende Komponenten benötigt:\n* Eine Datenklasse `Position`, die eine x- und y-Koordinate speichert\n* Eine Datenklasse `Abstand`, die primär den Wert eines Abstands speichert. Außerdem sollen in der Datenklasse in einer Liste `positionen` Paare von Positionen abgespeichert werden, die diesen Abstand besitzen.  \nBeispiel: `wert` des Abstandes: 3, Inhalt von `positionen`: [( Position(0,0), Position(2,1) ), ( Position(0,3), Position(3,3) ), ... ] \n* Eine Funktion `berechneAbstand()` der zwei Positionen übergeben werden. In ihrem Rumpf soll die [Manhatten-Distanz](https://de.wikipedia.org/wiki/Manhattan-Metrik) der beiden Punkte berechnet und der Abstand zur globale Liste `abstaende` hinzugefügt werden, sollte der Abstand noch nicht in der Liste gespeichert sein. Falls doch, sollen die beiden Positionen dem bereits vorhandenen Abstand in die Liste `positionen` hinzugefügt werden. "
     }
    ]
@@ -17992,7 +20192,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion3.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 3 - Objekte</h2>\n\n\nEine Besonderheit von Kotlin ist, dass nicht jedes Objekt eine Klasse benötigt. Dadurch kann beispielsweise ein statisches Feld simuliert oder unkompliziert mehrere Daten an einem Ort zusammengefasst werden.\n### Ad-hoc Objekte\nMit sogeannten Ad-hoc Objekten können Daten ähnlich einer Map komprimiert werden. Es kann ein Objekt erzeugt werden, ohne vorher eine Klasse angelegt zu haben. Dies ist mit dem Schlüsselwort `object` einzuleiten. Wie auch einer Klasse können dem Ad-hoch Objekt Felder zugewiesen werden."
     }
    ]
@@ -18002,7 +20202,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Singletons\nSingletons sind Objekte, die nur ein Mal erzeugt werden können und bis zum Ende der Ausführung bestehen. Ein solches Objekt wird mit dem Schlüsselwort `object` gekennzeichnet und kann nicht einer Variable zugewiesen werden, da es erst bei der ersten Benutzung erzeugt wird. Deshalb kann es auch nicht erzeugt werden. Die Erzeugung erfolgt automatisch beim ersten Aufruf, der in der Punktnotation mit dem Namen des Singletons erfolgt. Ein Singleton kann aus Feldern und Methoden bestehen. Ein Konstruktor kann jedoch nicht angewendet werden, da die Erzeugung ohne Übergabeparameter stattfindet."
     }
    ]
@@ -18012,7 +20212,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Falls in einer Klasse mehrere Companion Objekte gewünscht werden, ist ab dem Zweiten das Schlüsselwort `companion` wegzulassen und außerdem ein Name anzugeben. Außerhalb der Klasse kann auf das Objekt nur durch die Klasse und nicht mit einem Objekt der Klasse zugegriffen werden."
     }
    ]
@@ -18032,8 +20232,23 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion4.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 4 - Aufzählung</h2>\n\n\nMit Hilfe einer Enumeration kann ein eigener, limitierter Datentyp erstellt werden, der nur vordefinierte Werte annehmen kann. Der Klasse wird dafür das Schlüsselwort `enum` vorangestellt. Soll ein Wert des Enums verwendet werden, muss zusätzlich der Name der Enumeration angegeben werden."
+    },
+    {
+     "start_checkpoint": 1622724055151,
+     "parent": "n.0.128",
+     "markdown": "<img src=\"images/Lektion4.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 4 - Aufzählungen</h2>\n\n\nMit Hilfe einer Enumeration kann ein eigener, limitierter Datentyp erstellt werden, der nur vordefinierte Werte annehmen kann. Der Klasse wird dafür das Schlüsselwort `enum` vorangestellt. Soll ein Wert des Enums verwendet werden, muss zusätzlich der Name der Enumeration angegeben werden."
+    },
+    {
+     "start_checkpoint": 1622724323145,
+     "parent": "n.0.129",
+     "markdown": "<img src=\"images/Lektion24.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 4 - Aufzählungen</h2>\n\n\nMit Hilfe einer Enumeration kann ein eigener, limitierter Datentyp erstellt werden, der nur vordefinierte Werte annehmen kann. Der Klasse wird dafür das Schlüsselwort `enum` vorangestellt. Soll ein Wert des Enums verwendet werden, muss zusätzlich der Name der Enumeration angegeben werden."
+    },
+    {
+     "start_checkpoint": 1622724325841,
+     "parent": "n.0.130",
+     "markdown": "<img src=\"images/Lektion4.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 4 - Aufzählungen</h2>\n\n\nMit Hilfe einer Enumeration kann ein eigener, limitierter Datentyp erstellt werden, der nur vordefinierte Werte annehmen kann. Der Klasse wird dafür das Schlüsselwort `enum` vorangestellt. Soll ein Wert des Enums verwendet werden, muss zusätzlich der Name der Enumeration angegeben werden."
     }
    ]
   },
@@ -18042,7 +20257,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Da Enums als vollständige Klassen angesehen werden, können ihnen Felder und sogar Methoden hinzugefügt werden. Sollen Felder mit einem bestimmten Wert, der von dem Wert des Enums abhängt, gefüllt werden, erfolgt die Übergabe der Parameter hinter dem Wert des Enums."
     }
    ]
@@ -18052,7 +20267,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion5.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 5 - Vererbung</h2>\n\n\nIn Kotlin kann nicht von einer beliebigen Klasse geerbt werden. Diese muss als Voraussetzung den Vorsatz `open` besitzen. Dadurch wird signalisiert, dass eine Vererbung stattfinden darf. Der Namen der Klasse, von der geerbt werden soll, ist mit einem `:` getrennt hinter den Parameterklammern der erbenden Klasse zu schreiben. Dem Konstruktor der Super-Klasse werden die Parameter direkt im Kopf der Klasse übergeben. "
     }
    ]
@@ -18062,7 +20277,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Felder und Methoden überschreiben\nSollen Felder oder Methoden der Super-Klasse in der Sub-Klasse überschrieben werden, müssen diese ebenfalls mit `open` gekennzeichnet werden. Erst dann ist es möglich das gleiche Feld oder die gleiche Methode in der Sub-Klasse mit dem Zusatz `override` zu definieren. Soll auf das Feld oder die Methode der Oberklasse zugegriffen werden, findet das Schlüsselwort `super` Anwendung. Bei Mehrfachvererbung wird die nächst höhere Klasse angesprochen."
     }
    ]
@@ -18072,7 +20287,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Abstrakte Klassen\nDas Konzept der abstrakten Klasse sollte bereits aus Java bekannt sein. Auch in Kotlin gibt es die Möglichkeit uninitierbare Klassen mit abstrakten Methoden zu implementieren. Diesen wird das Schlüsselwort `abstract` vorangestellt und können ohne Probleme vererbt werden. Die Sub-Klassen müssen jedoch die Methoden vervollständigen."
     }
    ]
@@ -18092,8 +20307,13 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion6.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 6 - Schnittstellen</h2>\n\n\nEin wichtiges objektorientiertes Konzept ist das der Schnittstelle. Ein bekanntes Beispiel das `Comparable`-Interface, das eine `compareTo()`-Methode voraussetzt. Aber anstelle des Vorschreibens von Methoden können auch Zugriffe definiert werden. Eine Schnittstelle besitzt das Schlüsselwort `interface` und wird bei der implementierenden Klasse, ähnlich zum Erben, angegeben. In einem Interface können sowohl Methoden voll implementiert oder nur deren Kopf angegeben werden, sodass diese von jeder Klasse selbst vervollständigt werden müssen. Außerdem können sie auch Felder beinhalten.\nKotlin bietet bereits einige vorgefertigte Schnittstellen an:\n\n<table style=\"font-size:16px\">\n<thead>\n  <tr>\n    <th>Name</th>\n    <th>Funktion</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Appendable</td>\n    <td>append()</td>\n  </tr>\n  <tr>\n    <td>Closeable</td>\n    <td>close()</td>\n  </tr>\n  <tr>\n    <td>Compareable</td>\n    <td>compare()</td>\n  </tr>\n  <tr>\n    <td>Iterable</td>\n    <td>Verarbeitung der Elemente in einer Schleife</td>\n  </tr>\n  <tr>\n    <td>Collection</td>\n    <td>allgemeine Aufzählung</td>\n  </tr>\n  <tr>\n    <td>List</td>\n    <td>Liste</td>\n  </tr>\n  <tr>\n    <td>Map</td>\n    <td>Dictionary</td>\n  </tr>\n  <tr>\n    <td>Set</td>\n    <td>Menge</td>\n  </tr>\n</tbody>\n</table>"
+    },
+    {
+     "start_checkpoint": 1622724791385,
+     "parent": "n.0.131",
+     "markdown": "<img src=\"images/Lektion6.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 6 - Schnittstellen</h2>\n\n\nEin wichtiges objektorientiertes Konzept ist das der Schnittstelle. Ein bekanntes Beispiel das `Comparable`-Interface, das eine `compareTo()`-Methode voraussetzt. Aber anstelle des Vorschreibens von Methoden können auch Zugriffe definiert werden. Eine Schnittstelle besitzt das Schlüsselwort `interface` und wird bei der implementierenden Klasse, ähnlich zum Erben, angegeben. In einem Interface können sowohl Methoden voll implementiert oder nur deren Kopf angegeben werden, sodass diese von jeder Klasse selbst vervollständigt werden müssen. Außerdem können sie auch Felder beinhalten.\nKotlin bietet bereits einige vorgefertigte Schnittstellen an:\n\n<table style=\"font-size:16px\">\n<thead>\n  <tr>\n    <th style=\"font-size:16px\">Name</th>\n    <th style=\"font-size:16px\">Funktion</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td style=\"font-size:16px\">Appendable</td>\n    <td style=\"font-size:16px\">append()</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">Closeable</td>\n    <td style=\"font-size:16px\">close()</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">Compareable</td>\n    <td style=\"font-size:16px\">compare()</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">Iterable</td>\n    <td style=\"font-size:16px\">Verarbeitung der Elemente in einer Schleife</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">Collection</td>\n    <td style=\"font-size:16px\">allgemeine Aufzählung</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">List</td>\n    <td style=\"font-size:16px\">Liste</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">Map</td>\n    <td style=\"font-size:16px\">Dictionary</td>\n  </tr>\n  <tr>\n    <td style=\"font-size:16px\">Set</td>\n    <td style=\"font-size:16px\">Menge</td>\n  </tr>\n</tbody>\n</table>"
     }
    ]
   },
@@ -18102,7 +20322,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "<img src=\"images/Lektion7.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 7 - Generizität</h2>\n\n\n### Generische Klassen\nBei manchen Softwareprojekten kommt man an generischen Klassen nicht vorbei, falls mehrfache Arbeit vermieden werden soll. Das Konzept an sich unterscheidet sich in Kotlin und Java nicht. Der generische Datentyp wird nach dem Klassennamen in `<>` angegeben und kann in der Klasse anstelle normalen Datentypen eingesetzt werden."
     }
    ]
@@ -18112,7 +20332,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "Soll der generische Datentyp eingeschränkt werden, kann dies durch ein Interface passieren. Dieses gibt vor, welche Methoden der Datentyp implementieren muss."
     }
    ]
@@ -18122,7 +20342,7 @@
    "versions": [
     {
      "start_checkpoint": 1622445305424,
-     "parent": "n.0.121",
+     "parent": "n.0.123",
      "markdown": "### Generische Erweiterungsmethoden\nDas Konzept und die Implementierung von Erweiterungsmethoden wurde bereits in Abschnitt 1 kennengelernt. Es kann aber auch auf generische Klassen übertragen werden. So können beispielsweise einer generischen Liste neue Methoden hinzugefügt werden."
     }
    ]
@@ -18352,6 +20572,186 @@
     {
      "start_checkpoint": 1622558394999,
      "markdown": "<div class=\"alert alert-block alert-info\">\nIm Folgenden werden alle Klassen, Felder und Methoden in der Regel öffentlich implementiert. Auch wird in den kurzen Aufgaben dieses Abschnitts keine Verwendung einer anderen Sichtbarkeit als <code>public</code> verlangt. Sie können aber natürlich gerne optional in den Aufgaben die Zugriffe mit passenden Berechtigungen für die Getter und Setter beschränken.\n</div>"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.113",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "<img src=\"images/Abschnitt3.png\" style=\"margin-left: auto; margin-right: auto; display: block; margin-bottom: 20px\"/>\n<h1 style=\"display:none\">Abschnitt 3 - Objektorientierte Programmierung</h1>\n\n<img src=\"images/Einführung.png\" style=\"margin: 20px auto 10px 0px\"/>\n<h2 style=\"display:none\">Einführung</h2>\n<p>Neben den funktionalen Aspekten, die in Abschnitt 2 vorgestellt wurden, bietet Kotlin ein breites Spektrum an objektorientierten Konzepten. Vor Allem aufgrund der Interoperabilität mit Java und der Ausführung auf der JVM, müssen alle Aspekte aus Java auch hier enthalten sein. Die objektorientierte Programmierung hat das Ziel den Code in verschiedene Teile, Klassen, zu zerteilen. Außerdem kann eine Instanz, ein Objekt, einer Klasse mit bestimmten Eigenschaften erzeugt werden. Dadurch ist eine realitätsnahe Programmierung möglich. Nicht ohne Grund wird Java und die objektorientierte Programmierung in den meisten bayrischen Schulen im Informatikunterricht verwendet. Im Laufe dieses Abschnitts wird auf einige ausgewählte, größtenteils bereits bekannte objektorientierte Konzepte eingegangen: Vererbung, Abstraktion, Polymorphie und Generizität. Zusätzlich werden mit Datenklassen und eigenständigen Objekten neue Aspekte eingeführt.</p>\n\n<img src=\"images/Gliederung.png\" style=\"margin: 20px auto 10px 0px\"/>\n<h3 style=\"display:none\">Gliederung</h3>\n<p>Dieser Abschnitt folgt folgender Struktur:</p>\n<ol>\n    <li>Klassen</li>\n    <li>Datenklassen</li>\n    <li>Objekte</li>\n    <li>Aufzählungen</li>\n    <li>Vererbung</li>\n    <li>Schnittstellen</li>\n    <li>Generizität</li>\n    <li>Ausnahmebehandlungen</li>\n</ol>\n\n<img src=\"images/Lernziele.png\" style=\"margin: 20px auto 10px 0px\"/>\n<h3 style=\"display:none\">Lernziele</h3>\n<p>Nach diesem Abschnitt sollen Sie in der Lage sein:</p>\n<ul>\n    <li>für genannte Problemstellungen passende Klassen zu implementieren.</li>\n    <li>die Aufgaben von primären und sekundären Konstruktoren bei der Objekterzeugung zu beschreiben.</li>\n    <li>eigene Getter und Setter zu implementieren.</li>\n    <li>die Vorteile einer Datenklasse im Vergleich zu einer normalen Klasse zu bewerten.</li>\n    <li>Aufzählungen, Schnittstellen und Vererbung zu schreiben.\n    <li>die verschiedenen Anwendungsbereiche der Generizität zu nennen.</li>\n    <li>eigene Ausnahmen zu definieren und verwenden zu können.</li>\n</ul>  \n\n<img src=\"images/Literatur.png\" style=\"margin: 20px auto 10px 0px\"/>\n<h3 style=\"display:none\">Literatur</h3>\n<p>In diesem Abschnitt kann zur Vertiefung folgende Literatur verwendet werden:</p>\n<ul>\n    <li>M. Kofler, Kotlin: das umfassende Handbuch. 2021.</li>\n    <li>D. Griffiths und D. Griffiths, Kotlin von Kopf bis Fuß. 2019.</li>\n    <li>D. Jemerov und S. Isakova, Kotlin in action. 2017.</li>\n    <li>C. Kohls, A. Dobrynin, und F. Leonhard, Programmieren lernen mit Kotlin Grundlagen, Objektorientierung und fortgeschrittene Konzepte. 2020.</li>\n</ul>"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.114",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Pizzaria Kotlin\nImplementieren Sie eine Klasse `Pizza`. Jede Pizza soll eine Größe `groeße` (zwischen 15 und 30 [cm], ansonsten -1) und eine Liste aus Belägen `belaege` (Standardmäßig bereits mit Tomatensoße und Käse befüllt) enthalten. Außerdem soll gespeichert werden, ob sie geschnitten `geschnitten` werden soll. Wählen Sie einen passenden primären Konstruktor, der für jedes Feld einen Übergabeparameter besitzt. Fügen Sie außerdem weitere (sekundäre) Konstruktoren hinzu, die eine Pizza Magaritha (Tomatensoße, Mozzarella) und eine 25cm Pizza al Tonno (Tomatensoße, Mozzarella, Thunfisch, Zwiebeln, Peperoni) initialisieren. Beide Pizzen sollen geschnitten werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.115",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Sichtbarkeiten\nBis jetzt wurden alle Variablen, Felder und Klassen öffentlich implementiert. Jedoch gibt es in Kotlin, wie auch in Java, Sichtbarkeiten, mit denen der Zugriff eingeschränkt werden kann.\n* `private`: Das Element kann nur in der Klasse verwendet werden. \n* `protected`: Erweitertung von `private`. Zusätzlich können auf die Elemente auch in Unterklassen zugegriffen werden.\n* `internal`: Erweiterung von `protected`. Das Element kann im ganzen Modul verwendet werden. Module können Sie sich als größere Pakete vorgestellen.\n* `public`: Auf das Element kann überall zugegriffen werden. Standardsichtbarkeit.\n\nBei der automatischen Generierung der Getter und Setter werden auch ihre Sichtbarkeiten der des Felder angeglichen. Ist das Feld `private`, kann auf deren generierten Getter und Setter nicht außerhalb der Klasse zugegriffen werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.116",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "Werden die Methoden händisch implementiert, können diesen teilweise abweichende Sichtbarkeiten zugewiesen werden. Der Getter muss den identischen Sichtbarkeitstyp aufweisen. Im Gegensatz dazu kann dem Setter die gleich oder eine *engere* Sichtbarkeit vorangestellt werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.117",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "<div class=\"alert alert-block alert-info\">\nIm Folgenden werden alle Klassen, Felder und Methoden in der Regel öffentlich implementiert. Auch wird in den kurzen Aufgaben dieses Abschnitts keine Verwendung einer anderen Sichtbarkeit als <code>public</code> verlangt. Sie können aber natürlich gerne optional in den Aufgaben die Zugriffe mit passenden Berechtigungen für die Getter und Setter beschränken.\n</div>"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.118",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Nummernschilder\nImplementieren Sie eine Klasse `Auto`, die drei Felder besitzt: die `ps` (`Int`), eine `farbe` (`String`) und ein `nummernschild` (`String`). Die Nummernschilder sollen der Einfachheit nach dem Format *(A-Z)(A-Z)-(1-9)(0-9)* vergeben werden. Jedes ist einzigartig. Verwenden Sie für die Umsetzung ein `companion object`, das ein Feld, in dem alle vergebenen Nummernschilder gespeichert werden, besitzt. Fügen Sie dem Objekt zusätzlich eine Funktion hinzu, die ein noch nicht vergebenes Schild generiert. Das Suchen nach einem passenden Nummernschild kann per Brute-Force erfolgen. Auf die Laufzeit muss nicht geachtet werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.119",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Monate\nImplementieren Sie eine Aufzählung `Monat`, die die 12 Monate eines Jahres enthält. Zusätzlich soll jedem Monat die Nummer im Feld `nummer` zugeordnet werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.120",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Geschlossene Klassen\nEine geschlossene Klasse ist eine besondere abstrakte Klasse. Ihr wird das Schlüsselwort `sealed` vorangestellt. Sie besitzt einen privaten Konstruktor. Von dieser darf nur in dem selben Paket oder der selben Kompiliereinheit geerbet werden. Dieses Konstrukt ist somit eine Alternative zu einer Enumeration. Da alle Subtypen bekannt sind, kann bei Verwendung einer `when`-Verzweigung der *default*-Fall weggelassen werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.121",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Software\n<img src=\"images/Aufgabenstellung-Vererbung.png\" style=\"float:right; height: 300px\" />\n\n\nWandeln Sie das vereinfachte Klassendiagramm in Code um. Die Methoden `starte()`, `schreiben()` und `spielen()` sollen lediglich eine Ausgabe auslösen. Sie können sich an folgendes Beispiel halten:  \n\n\nDie Textverarbeitungssoftware Office wird gestartet.  \nDie Textverarbeitungssoftware Office schreibt...  \nDas Computerspiel Cyberpunk 2077 wird gestartet.  \nDas Computerspiel Cyberpunk 2077 wird gespielt...  \n"
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.122",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Geschlossene Schnittstelle\nIn Lektion 5 wurde das Schlüsselwort `sealed` in Verbindung mit abstrakten Klassen kennengelernt. Die gleiche Funktionalität lässt sich aber auch auf Schnittstellen anwenden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.123",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Schnittstelle einer Liste\nIn Konzepte der Programmierung wurde die [einfach verkettete Liste](https://de.wikipedia.org/wiki/Liste_%28Datenstruktur%29#Einfach_verkettete_Listen) intensiv behandelt. Implementieren Sie eine Schnittstelle `Liste`, die eine solche Liste von Elemente vorgibt. Es soll ein erstes Element und zwei Methoden, die Elemente hinzufügt und entfernt. Wählen Sie einen passenden Variablentyp, Parameter und Rückgaben. Da eine Schnittstelle schwer zu überprüfen ist, gibt es zu dieser Aufgabe keinen Test."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.124",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Generische Liste\n\nImplementieren Sie eine generische, [einfach verkettete](https://de.wikipedia.org/wiki/Liste_%28Datenstruktur%29#Einfach_verkettete_Listen) Liste `Liste`, die neue Elemente vorne hinzufügt (`hinzufuegen`) und entnimmt (`entfernen`). `hinzufuegen()` bekommt den Wert des Elements übergeben. Falls die Operation fehlschlägt, soll `false` zurückgegeben werden. Entfernen gibt den Wert des entfernten Elements oder `null` zurück. Die Liste speichert als einziges das erste Element (`erstes`). In einer privaten Klasse `Element` soll der Wert und eine Referenz auf das nächste Element (`naechstes`) zu finden sein. "
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.125",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "<img src=\"images/Lektion8.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 8 - Ausnahmebehandlungen</h2>\n\n\nWährend in Java zwischen *checked* (die Möglichkeit einer Ausnahme muss behandelt werden) und *unchecked Exceptions* (Ausnahmen müssen nicht behandelt werden) unterschieden wird, ist dies in Kotlin nicht der Fall. Es besteht keine Pflicht bei einer bestimmten Ausnahme diese vorbeugend zu behandeln.  \nMit `throw` können Exceptions selbst ausgelöst werden. Außerdem kann ein solcher Ausdruck einer Variablen zugewiesen werden."
+    },
+    {
+     "start_checkpoint": 1622727314981,
+     "parent": "n.0.132",
+     "markdown": "<img src=\"images/Lektion8.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 8 - Fehlerbehandlung</h2>\n\n\nWährend in Java zwischen *checked* (die Möglichkeit einer Ausnahme muss behandelt werden) und *unchecked Exceptions* (Ausnahmen müssen nicht behandelt werden) unterschieden wird, ist dies in Kotlin nicht der Fall. Es besteht keine Pflicht bei einer bestimmten Ausnahme diese vorbeugend zu behandeln.  \nMit `throw` können Exceptions selbst ausgelöst werden. Außerdem kann ein solcher Ausdruck einer Variablen zugewiesen werden."
+    },
+    {
+     "start_checkpoint": 1622727379835,
+     "parent": "n.0.133",
+     "markdown": "<img src=\"images/Lektion8.2png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 8 - Fehlerbehandlung</h2>\n\n\nWährend in Java zwischen *checked* (die Möglichkeit einer Ausnahme muss behandelt werden) und *unchecked Exceptions* (Ausnahmen müssen nicht behandelt werden) unterschieden wird, ist dies in Kotlin nicht der Fall. Es besteht keine Pflicht bei einer bestimmten Ausnahme diese vorbeugend zu behandeln.  \nMit `throw` können Exceptions selbst ausgelöst werden. Außerdem kann ein solcher Ausdruck einer Variablen zugewiesen werden."
+    },
+    {
+     "start_checkpoint": 1622727382776,
+     "parent": "n.0.134",
+     "markdown": "<img src=\"images/Lektion8.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 8 - Fehlerbehandlung</h2>\n\n\nWährend in Java zwischen *checked* (die Möglichkeit einer Ausnahme muss behandelt werden) und *unchecked Exceptions* (Ausnahmen müssen nicht behandelt werden) unterschieden wird, ist dies in Kotlin nicht der Fall. Es besteht keine Pflicht bei einer bestimmten Ausnahme diese vorbeugend zu behandeln.  \nMit `throw` können Exceptions selbst ausgelöst werden. Außerdem kann ein solcher Ausdruck einer Variablen zugewiesen werden."
+    },
+    {
+     "start_checkpoint": 1622727435090,
+     "parent": "n.0.135",
+     "markdown": "<img src=\"images/Lektion8.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Lektion 8 - Fehlerbehandlung</h2>\n\n\nWährend in Java zwischen *checked* (die Möglichkeit des Auftretens eines Fehler muss behandelt werden) und *unchecked Exceptions* (Fehler müssen nicht behandelt werden) unterschieden wird, ist dies in Kotlin nicht der Fall. Es besteht keine Pflicht bestimmte Fehler vorbeugend zu behandeln.  \nMit `throw` können Exceptions selbst ausgelöst werden. Außerdem kann ein solcher Ausdruck einer Variablen zugewiesen werden."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.126",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "### Aufgabe - Parkplatzverwaltung mit Ausnahmen\nIn Lektion 1 wurde eine Parkplatzverwaltung implementiert. Erweitern Sie ihre Lösung oder die Musterlösung insoweit ab, dass die Methode `einparken()` `Unit` zurückgibt und bei Fehlschlag einen eigens definierten Fehler `ParkplatzVoll` wirft. Diesem soll die Nummer des Parkplatzes übergeben werden, aus der eine schöne Fehlermeldung generiert werden soll. Schreiben Sie zusätzlich ein Hauptprogramm, in dem Sie einen Fehler absichtlich auslösen und abfangen. Mit diesem können Sie ihre Lösung testen."
+    }
+   ]
+  },
+  {
+   "artifact_name": "m.127",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "n.0.123",
+     "markdown": "<img src=\"images/Zusammenfassung.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Zusammenfassung</h2>\n<p>Sie sollten jetzt in der Lage sein:</p>\n<ul>\n    <li>für genannte Problemstellungen passende Klassen zu implementieren.</li>\n    <li>die Aufgabe von primären und sekundären Konstruktoren bei der Objekterzeugung zu beschreiben.</li>\n    <li>eigene Getter und Setter zu implementieren.</li>\n    <li>die Unterschiede zwischen einer normalen Klasse und einer Datenklasse aufzuzeigen.</li>\n    <li>Aufzählungen, Schnittstellen und Vererbung zu realisieren.\n    <li>die zusätzlichen Aspekte einer generischen Klasse im Vergleich zu einer normalen Klasse zu nennen.</li>\n    <li>eigene Ausnahmen zu schreiben und diese werfen und abfangen zu können.</li>\n</ul>"
+    },
+    {
+     "start_checkpoint": 1622642505532,
+     "parent": "n.0.124",
+     "markdown": "<img src=\"images/Zusammenfassung.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Zusammenfassung</h2>\n<p>Sie sollten jetzt in der Lage sein:</p>\n<ul>\n    <li>für genannte Problemstellungen passende Klassen zu implementieren.</li>\n    <li>die Aufgaben von primären und sekundären Konstruktoren bei der Objekterzeugung zu beschreiben.</li>\n    <li>eigene Getter und Setter zu implementieren.</li>\n    <li>die Vorteile einer Datenklasse im Vergleich zu einer normalen Klasse zu bewerten.</li>\n    <li>Aufzählungen, Schnittstellen und Vererbung zu schreiben.\n    <li>die verschiedenen Anwendungsbereiche der Generizität zu nennen.</li>\n    <li>eigene Ausnahmen zu definieren und verwenden zu können.</li>\n</ul>\n<p>Mit Vollendung dieses Abschnitts sind Sie bereit für die App-Entwicklung. Mit dieser wird im nächsten Abschnitt begonnen. Vorher steht für Sie aber noch die Übung bezüglich der objektorientierten Programmierung an. Außerdem steht <a href=\"Abschnitt3-Zusammenfassung.pdf\">hier</a> für Sie die Zusammenfassung bereit."
+    },
+    {
+     "start_checkpoint": 1622642564179,
+     "parent": "n.0.126",
+     "markdown": "<img src=\"images/Zusammenfassung.png\" style=\"margin: 20px 0px 20px 0px\"/>\n<h2 style=\"display:none\">Zusammenfassung</h2>\n<p>Sie sollten jetzt in der Lage sein:</p>\n<ul>\n    <li>für genannte Problemstellungen passende Klassen zu implementieren.</li>\n    <li>die Aufgaben von primären und sekundären Konstruktoren bei der Objekterzeugung zu beschreiben.</li>\n    <li>eigene Getter und Setter zu implementieren.</li>\n    <li>die Vorteile einer Datenklasse im Vergleich zu einer normalen Klasse zu bewerten.</li>\n    <li>Aufzählungen, Schnittstellen und Vererbung zu schreiben.\n    <li>die verschiedenen Anwendungsbereiche der Generizität zu nennen.</li>\n    <li>eigene Ausnahmen zu definieren und verwenden zu können.</li>\n</ul>\n<p>Mit Vollendung dieses Abschnitts sind Sie bereit für die App-Entwicklung. Mit dieser wird im nächsten Abschnitt begonnen. Vorher steht für Sie aber noch die Übung bezüglich der objektorientierten Programmierung an. Außerdem steht <a href=\"Abschnitt3-Zusammenfassung.pdf\">hier</a> für Sie die Zusammenfassung bereit.</p>"
     }
    ]
   }
@@ -20901,6 +23301,182 @@
         "text/plain": "test"
        },
        "metadata": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.146",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.144.0",
+     "raw": [
+      {
+       "name": "stderr",
+       "output_type": "stream",
+       "text": "Line_159.jupyter-kts (3:4 - 8) Cannot access 'name': it is private in 'Person'"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.147",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.145.0",
+     "raw": [
+      {
+       "name": "stderr",
+       "output_type": "stream",
+       "text": "Line_170.jupyter-kts (10:1 - 8) Cannot assign to 'name': the setter is private in 'LesbarePerson'"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.148",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.146.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Alle Nummernschilder sind einzigartig.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.149",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.147.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Alle Nummernschilder sind einzigartig.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.150",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.148.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig! Es traten keine Fehler auf.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.151",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.149.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Richtig! Es traten keine Fehler auf.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.152",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.151.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Die Textverarbeitungssoftware Office wird gestartet.\nDie Textverarbeitungssoftware Office schreibt...\nDas Computerspiel Cyberpunk 2077 wird gestartet.\nDas Computerspiel Cyberpunk 2077 wird gespielt...\nSuper! Ihre Lösung ist richtig.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.153",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.152.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Es ist eine Pflaume!\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.154",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.155.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Ihre Lösung hat alle Tests bestanden.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.155",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.156.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Super! Ihre Lösung hat alle Tests bestanden.\n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.156",
+   "versions": [
+    {
+     "start_checkpoint": 1622641483315,
+     "parent": "c.158.0",
+     "raw": [
+      {
+       "name": "stdout",
+       "output_type": "stream",
+       "text": "Line_114$ParkplatzVoll: Der Parkplatz 2 ist belegt.\n"
       }
      ]
     }
