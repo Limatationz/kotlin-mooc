@@ -52,39 +52,55 @@
 .wrapper-xblock .xblock-render .xblock .xblock-render .xblock h2, 
 .wrapper-xblock .xblock-render .xblock .xblock-render .xblock h3, 
 .wrapper-xblock .xblock-render .xblock .xblock-render .xblock h4, 
-.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h5 {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h5,
+.xmodule_display.xmodule_HtmlBlock h5,
+.xmodule_display.xmodule_HtmlBlock h4,
+.xmodule_display.xmodule_HtmlBlock h3,
+.xmodule_display.xmodule_HtmlBlock h2,
+.xmodule_display.xmodule_HtmlBlock h1 {
   color: #00754d !important;
   text-transform: unset !important;
   font-weight: 550 !important;
 }
 
-.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h1 {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h1,
+.xmodule_display.xmodule_HtmlBlock h1 {
   font-size: 1.8em !important;
 }
 
-.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h2 {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h2,
+.xmodule_display.xmodule_HtmlBlock h2 {
   font-size: 1.65em !important;
 }
 
-.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h3 {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h3,
+.xmodule_display.xmodule_HtmlBlock h3 {
   font-size: 1.5em !important;
 }
 
-.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h4 {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h4,
+.xmodule_display.xmodule_HtmlBlock h4 {
   font-size: 1.35em !important;
 }
 
-.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h5 {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h5,
+.xmodule_display.xmodule_HtmlBlock h5 {
   font-size: 1.2em !important;
 }
 
-.xmodule_display.xmodule_HtmlBlock p {
+.wrapper-xblock .xblock-render .xblock .xblock-render .xblock h6,
+.xmodule_display.xmodule_HtmlBlock h6 {
+  font-size: 1.0em !important;
+}
+
+.xmodule_display.xmodule_HtmlBlock p, .xmodule_display.xmodule_HtmlBlock ul li, .xmodule_display.xmodule_HtmlBlock ol li, .xmodule_display.xmodule_HtmlBlock span {
     text-align: justify;
     -moz-hyphens: auto;
     -o-hyphens: auto;
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto; 
+    font-size: 1.1em;
 }
 
 .finish::before { 
@@ -270,3 +286,8 @@ details {
   box-shadow: inset 0px 0px 0px 3px #fff;
   background-color: #00754d;
 }
+
+.problem button, .problem-header, .problem-progress {
+  display: none !important;
+}
+
