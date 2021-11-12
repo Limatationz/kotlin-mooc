@@ -1,7 +1,7 @@
 date,region,metric,value
 2052-12-27,BW,dosen_kumulativ,2084
 2052-12-27,BW,personen_erst_kumulativ,2084
-2052-12-27,BW,personen_voll_kumulativ," """""
+2052-12-27,BW,personen_voll_kumulativ,
 2052-12-27,BW,indikation_alter_dosen,624
 2052-12-27,BW,indikation_beruf_dosen,964
 2052-12-27,BW,indikation_medizinisch_dosen,151
