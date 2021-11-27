@@ -100,7 +100,7 @@
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto; 
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 
 .finish::before { 
@@ -177,6 +177,11 @@ details {
   float: right;
   margin-left: 20px;
   margin-bottom: 20px;
+}
+
+#video {
+  width: 500px;
+  height: auto;
 }
 
 .image_quiz {
